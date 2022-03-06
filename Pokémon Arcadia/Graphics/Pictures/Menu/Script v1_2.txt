@@ -1,0 +1,576 @@
+#-------------------Hollows Simple GUI Menu v1.2-------------------
+# created by Hollow_Ego a.k.a. Ego13
+# supported by Essentials v17 and onwards
+# please give credits when using
+
+# create a new script section above main, name it PScreen_Menu
+# copy and paste everything in the new script section
+# place the graphic files in Graphics/Pictures/Menu/
+# place the audio files in Audio/SE
+# the background picture is always called background
+# for more details on naming icon files see explantion for $initOptions
+
+=begin
+to start using this menu by pressing C, find this in Scene_Map:
+
+
+ if Input.trigger?(Input::B)
+      unless pbMapInterpreterRunning? or $game_system.menu_disabled or $game_player.moving?
+        $game_temp.menu_calling = true
+        $game_temp.menu_beep = true
+      end
+    end
+
+=end
+
+=begin
+and change it so it looks like this
+
+if Input.trigger?(Input::B)
+      unless pbMapInterpreterRunning? or $game_system.menu_disabled or $game_player.moving?
+        startMenu
+        #$game_temp.menu_calling = true
+        #$game_temp.menu_beep = true
+      end
+    end
+    
+=end
+
+
+
+# Changes v1.1
+# - now the first three items in $initOptions will be on the left, therefore the 4th will be selected
+# - added support for more space between selected item and the rest ($extraSpace)
+# - added clock options
+
+# Changes v1.2
+# - added option to limit viewport for icons
+# - default design changed
+#
+#-------------------GUI Menu Settings-------------------
+
+# Internatl - Organisation 
+# $sel        = internal marker, do not change
+# $sel2       = internal marker, for debug menu icon do not change
+# $options    = array to get all options, do not change
+# $selected   = holds the selected option, do not change
+# $nextRight  = holds the next item to be selected on the right, do not change
+# $nextLeft   = holds the next item to be selected on the left, do not change
+# $extraAmount= sets the $extraAmount to 0 if it's not needed, do not change
+
+
+# Internal - Animation
+# $l          = multiplier for placing icons, do not change
+# $x          = value for the beginning of the centred button, calculated automatically, do not change
+# $moveby     = calculates the amount of pixel the icons need to be moved
+# $amt        =  x/frames moves icons by x amount of pixel, calculated automatically
+# $amt2       =  y/frames moves icons by y amount of pixel, calculated automatically, used for extra spacing
+
+
+# Internatl Markers
+# $beginLeft  = point to place icons, automatically calculated
+# $beginRight = point to place icons, automatically calculated
+# $endLeft    = end point to determine wether to move and icon or not, automatically calculated
+# $endRight   = end point to determine wether to move and icon or not, automatically calculated
+# these are calculated assuming on start up there are only 2 items on the left
+
+
+# Menu Items
+# $bag/etc.   = variable that defines the menu items, make sure to set them to the icon file name 
+#               (e.g. if you want to show the pokedex icon you write in "pokedex" and name the icon "pokedex.png" (w/o ""); mind capital letters!)
+#               to add an menu item make a new variable and name them like in the example, then place it in $initOptions
+#               if you rename one of those don't forget to rename them everywhere in this script section
+# $initOptions= array of avaiable options, the third item on this list will be selected when opening the menu, the first two will be on the left, everything else on the right
+
+# Icon Placement
+# $width      = the width of the icons, make sure to have an even number to place them correctly
+# $height     = the height of the icons, setting it to half the size is needed for Style 2
+# $space      = the space that should be between each icons 
+#               IMPORTANT: the sum of $space+$width+$extraAmount has to be divisible without remainder
+# $yVP        = value for the placement of the buttons on X-Axis of the screen (e.g. how far right they are placed)
+# $yVP        = value for the height of the buttons on the screen relativ to the viewport (e.g. how high up they are placed)
+# $widthVP    = used to limit the width of the viewport in which the icons can appear, standard value is Graphics.width
+#               to limit the height use $height
+#               hast to be an even number
+
+# Animation Settings
+# $frame          = the amount of frames the animation should take,not all values are valid 
+#                   to calculate the possible frames: take $width+$space+$extraAmount(if used)
+#                   divide the sum by your desired $frame, if its divisble without emainder: take it, if not try the next higher/lower number until you get it right
+# $style          = the style of animation used; 1=up/down animation; 2=color change ; 3=color change and up/down
+#                   for style 1: simply set up an icon file in the exact same size it should be
+#                   for style 2: set it up like in 1 but make it double the height, on the lower half should be the same icon but with the wanted color change
+#                                remember to set the height correctly for this style
+#                   for style 3: same as 2
+# $extraSpace     = gives extra space between selected item and the rest
+# $extraAmount    = the amount of extra space on each side ($extraAmount=(total space between selected and next item) - $moveby)
+#                   f.e.: total space=120; $moveby=90; therefore $extraAmount=30
+#
+# Audio Settings
+# $moveSound  = wether a sound should be played whenever a new item is selected; the file name is choose.wav
+# $startSound = wether a sound plays when starting and closing the menu; the file names are menu.wav and exit.wav
+#
+# $clock         = wether to show a clock on the bottom or not, name the background image clock.png
+# $clockGraphic  = wether to use a seperate graphic for the clock or not
+# $clockX        = X-Postion of the clocks graphic, relativ to the screen
+# $clockY        = Y-Postion of the clocks graphic, relativ to the screen
+# $clockFontSize = size of the clock numbers, relativ to the clocks graphic (if there's a seperate image for it, else it's relativ to the screen)
+# $clockFont     = font to be used, f.e. "QuiverItal" 
+# $clockColor    = main color for the numbers, f.e. Color.new(255,255,255)
+# $clockShadow   = shadow color for the numbers, f.e. Color.new(0,0,0)
+# $numberX       = X-Postion of the clocks number, relativ to the clocks graphic (if there's a seperate image for it, else it's relativ to the screen)
+# $numberY       = Y-Postion of the clocks number, relativ to the clocks graphic (if there's a seperate image for it, else it's relativ to the screen)
+
+
+#---------------- Settings (change accordingly) ----------------
+
+# Menu Items
+$bag="Bag"
+$pokedex="Pokedex"
+$exit="Exit"
+$pokemon="Pokemon"
+$trainercard="TrainerCard"
+$save="Save"
+$settings="Settings"
+
+$initOptions=[$exit,$save,$pokedex,$pokemon,$bag,$trainercard,$settings]
+
+# Icon Placement
+$width    = 53
+$height   = 102
+$space    = 75
+$xVP      = 118 
+$yVP      = 141
+$widthVP  = 276
+
+# Animation Settings
+$frames       = 8
+$style        = 3
+$extraSpace   = false
+$extraAmount  = 20
+
+
+# Audio Settings
+$moveSound  = true
+$startSound = true
+
+# Clock Settings
+$clock         = true
+$clockGraphic  = false
+$clockX        = 165
+$clockY        = 283
+$clockFontSize = 65
+$clockFont     = "QuiverItal" 
+$clockColor    = Color.new(255,255,255)
+$clockShadow   = Color.new(0,0,0)
+$numberX       = 317
+$numberY       = 55
+
+#---------------- Developer Settings DO NOT CHANGE ----------------
+
+# Internatl - Organisation 
+$sel          = 0
+$sel2         = 0
+$options      = []
+$selected     = ""
+$nextRight    = ""
+$nextLeft     = ""
+$extraAmount  = 0 if !$extraSpace
+
+# Internal - Animation
+$l        = 0
+$x        = ($widthVP/2).floor-($width/2).floor 
+$moveby   = $width+$space 
+$amt      = $moveby/$frames
+$amt2     = ($moveby+$extraAmount)/$frames
+$vpOffset = 2 if $style==1 || $style==3
+$vpOffset = 0 if $style==2
+
+# Internatl Markers
+$beginLeft  =$x - ($moveby*3)-$extraAmount 
+$beginRight =$x + ($moveby*($initOptions.length-4))+$extraAmount 
+$endLeft    =$beginLeft -$moveby 
+$endRight   =$beginRight+$moveby 
+
+
+
+#-------------------GUI Menu Class-------------------
+
+class GUIMenu
+
+def guiMenuStart
+  @moving=false
+  @skipAnimation= 0
+  $sel2         = 0
+  pbSEPlay("menu") if $startSound
+  
+  @viewport1 = Viewport.new(0, 0, Graphics.width, Graphics.height)#viewport for menu background
+  @viewport8 = Viewport.new($xVP,$yVP,$widthVP,($height+$vpOffset)) #viewport for all icons
+  @viewport9 = Viewport.new(165,283,182,100) #unused
+  
+  @viewport1.z=99999
+  @viewport8.z=99999
+  @viewport9.z=99999
+  
+  @background={}
+  @background["menubg"]=Sprite.new(@viewport1)
+  @background["menubg"].bitmap=Bitmap.new("Graphics/Pictures/Menu/background")
+  @background["menubg"].x=0
+  @background["menubg"].y=0
+  
+if $clock
+  if $clockGraphic
+  @clock= {}
+  @clock["clock"]=Sprite.new(@viewport1)
+  @clock["clock"].bitmap=Bitmap.new("Graphics/Pictures/Menu/clock")
+  @clock["clock"].x=$clockX
+  @clock["clock"].y=$clockY
+  @clock["clock"].bitmap.font.size=$clockFontSize
+  @clock["clock"].bitmap.font.name=$clockFont 
+end
+  textPositions=[
+  [_INTL("#{getHour}:#{getMinute}"),$numberX,$numberY,0,$clockColor,$clockShadow]]
+  pbDrawTextPositions(@clock["clock"].bitmap,textPositions) if $clockGraphic
+  pbDrawTextPositions(@background["menubg"].bitmap,textPositions) if !$clockGraphic
+  
+ end 
+  
+  @menuIcons={}
+  
+for i in 0..($initOptions.length-1)
+  @menuIcons[$initOptions[i]]=Sprite.new(@viewport8)
+  @menuIcons[$initOptions[i]].bitmap=Bitmap.new("Graphics/Pictures/Menu/"+$initOptions[i])
+  @menuIcons[$initOptions[i]].x=$beginLeft+($moveby*$l)
+  @menuIcons[$initOptions[i]].x=$x              if i==3 && $extraSpace
+  @menuIcons[$initOptions[i]].x+=$extraAmount*2 if i>=4 && $extraSpace
+  @menuIcons[$initOptions[i]].y=0
+  $options.push(@menuIcons[$initOptions[i]])
+  #Kernel.pbMessage(_INTL("X = #{@menuIcons[$initOptions[i]].x} ")) # Debug Line
+  $l+=1
+end
+  
+  
+if $DEBUG
+  @menuIcons["debug"]=Sprite.new(@viewport1)
+  @menuIcons["debug"].bitmap=Bitmap.new("Graphics/Pictures/Menu/debug")
+  @menuIcons["debug"].x=460
+  @menuIcons["debug"].y=330
+end
+
+
+  main
+end
+
+
+  
+#-------------------Main Loop-------------------
+
+
+#Main loop - responsible for processing input
+def main
+    loop do #begin of the loop
+    Graphics.update
+    Input.update
+
+# Clock
+if $clock
+  pbDisposeSpriteHash(@clock)
+if $clockGraphic
+  @clock["clock"].bitmap=Bitmap.new("Graphics/Pictures/Menu/clock")
+elsif !$clock
+  @background["menubg"].bitmap=Bitmap.new("Graphics/Pictures/Menu/background")
+end
+  textPositions=[
+  [_INTL("#{getHour}:#{getMinute}"),$numberX,$numberY,0,$clockColor,$clockShadow]]
+  pbDrawTextPositions(@clock["clock"].bitmap,textPositions) if $clockGraphic
+  pbDrawTextPositions(@background["menubg"].bitmap,textPositions) if !$clockGraphic
+ 
+end
+    
+# determines the selected option
+for i in $options
+  if i.x==$x
+      $selected=i
+        if $style==2 || $style==3
+            i.y=-($height) if i.y!=-($height) && i.y!=-($height)-3 && i.y!=-($height)+3
+          end
+  elsif i.x==$x+$extraAmount+$moveby
+      $nextRight=i
+      i.y=0
+  elsif i.x==$x-$extraAmount-$moveby
+      $nextLeft=i
+      i.y=0
+  else
+    i.y=0
+  end
+end
+
+
+# Animates selection
+if $style==1 || $style==3
+  if @skipAnimation==0
+        oldx=[]
+        oldx[0]=$selected.x; $selected.y-=3
+        @skipAnimation=20 # total duration
+  elsif @skipAnimation==10 # half of the total duration
+        oldx=[]
+        oldx[0]=$selected.x; $selected.y+=3
+        @skipAnimation=9 # sets @skipsel to 9 so that it won't keep moving the arrow down
+    else
+        @skipAnimation-=1
+  end
+end
+
+#------------------Controls-----------------------
+
+#-----------------Left Input----------------------
+if Input.trigger?(Input::LEFT) && $sel2!=1 && @moving==false
+@skip=0
+$sel-=1
+@moving=true
+pbSEPlay("choose") if $moveSound
+  begin
+    oldx=[]
+      for i in $options
+        oldx[0]=i.x; i.x+=$amt  if i!=$selected && i!=$nextLeft
+        oldx[0]=i.x; i.x+=$amt2 if i==$selected 
+        oldx[0]=i.x; i.x+=$amt2 if i==$nextLeft 
+      end
+    Graphics.update
+    @skip+=1
+  end until @skip==$frames
+
+  for i in $options	
+  oldx=[]
+  if i.x==$endRight
+      oldx[1]=i.x; i.x=$beginLeft
+  elsif i.x==$endLeft
+      oldx[1]=i.x; i.x=$beginRight
+    end
+  end
+  @moving=false
+end #of left input
+
+#-----------------Right Input----------------------
+if Input.trigger?(Input::RIGHT) && $sel2!=1 && @moving==false
+@skip=0
+$sel+=1
+@moving=true
+pbSEPlay("choose")if $moveSound
+  begin
+    oldx=[]
+      for i in $options
+        oldx[0]=i.x; i.x-=$amt  if i!=$selected && i!=$nextRight
+        oldx[0]=i.x; i.x-=$amt2 if i==$selected  
+        oldx[0]=i.x; i.x-=$amt2 if i==$nextRight 
+      end
+    Graphics.update
+    @skip+=1
+  end until @skip==$frames
+
+  for i in $options	
+  oldx=[]
+  if i.x==$endRight
+      oldx[1]=i.x; i.x=$beginLeft
+  elsif i.x==$endLeft
+      oldx[1]=i.x; i.x=$beginRight
+    end
+  end
+@moving=false
+end #of right input
+
+
+#-----------------C Input----------------------
+ if Input.trigger?(Input::C) && @moving==false
+   # pbSEPlay("Select")
+   
+   # Debug
+   if $sel2==1 && $DEBUG 
+    pbFadeOutIn(99999) { 
+           pbDebugMenu
+        }
+        
+   # Bag
+   elsif $selected==@menuIcons[$bag] 
+        item=0
+        scene=PokemonBag_Scene.new
+        screen=PokemonBagScreen.new(scene,$PokemonBag)
+        pbFadeOutIn(99999) { 
+        item=screen.pbStartScreen 
+          if item>0
+             break
+           end
+        }
+          if item>0
+            Kernel.pbUseKeyItemInField(item)
+            return
+          end
+    
+    # Trainercard
+    elsif $selected==@menuIcons[$trainercard] 
+        pbFadeOutIn(99999) {
+          scene = PokemonTrainerCard_Scene.new
+          screen = PokemonTrainerCardScreen.new(scene)
+          screen.pbStartScreen
+        }
+    
+    # Save
+    elsif $selected==@menuIcons[$save] 
+        if !$game_system || !$game_system.save_disabled
+        pbHideMenu2
+        scene = PokemonSave_Scene.new
+        screen = PokemonSaveScreen.new(scene)
+          if screen.pbSaveScreen
+            break
+          else
+            pbShowMenu2
+          end
+        else
+          Kernel.pbMessage("You can't save right now")
+        end
+        
+    # Settings
+    elsif $selected==@menuIcons[$settings] 
+        pbFadeOutIn(99999){
+          scene = PokemonOption_Scene.new
+          screen = PokemonOptionScreen.new(scene)
+          screen.pbStartScreen
+          pbUpdateSceneMap
+        }
+      
+    # Pokemon  
+    elsif $selected==@menuIcons[$pokemon]
+        if $Trainer.party.length>0
+        hiddenmove = nil
+          pbFadeOutIn(99999){ 
+          sscene = PokemonParty_Scene.new
+          sscreen = PokemonPartyScreen.new(sscene,$Trainer.party)
+          hiddenmove = sscreen.pbPokemonScreen
+        }
+        if hiddenmove
+          disposeMenu
+          Kernel.pbUseHiddenMove(hiddenmove[0],hiddenmove[1])
+          return
+        end
+          else
+          Kernel.pbMessage("You don't have Pokemon yet.")
+        end
+      
+    # Pokedex
+    elsif $selected==@menuIcons[$pokedex]
+      if $Trainer.pokedex && $PokemonGlobal.pokedexViable.length>0
+        if DEXDEPENDSONLOCATION
+          pbFadeOutIn(99999){
+            scene = PokemonPokedex_Scene.new
+            screen = PokemonPokedexScreen.new(scene)
+            screen.pbStartScreen
+          }
+        else
+          if $PokemonGlobal.pokedexViable.length==1
+            $PokemonGlobal.pokedexDex = $PokemonGlobal.pokedexViable[0]
+            $PokemonGlobal.pokedexDex = -1 if $PokemonGlobal.pokedexDex==$PokemonGlobal.pokedexUnlocked.length-1
+            pbFadeOutIn(99999){
+              scene = PokemonPokedex_Scene.new
+              screen = PokemonPokedexScreen.new(scene)
+              screen.pbStartScreen
+            }
+          else
+            pbFadeOutIn(99999){
+              scene = PokemonPokedexMenu_Scene.new
+              screen = PokemonPokedexMenuScreen.new(scene)
+              screen.pbStartScreen
+            }
+          end
+        end
+        else
+          Kernel.pbMessage("You don't have a Pokedex yet.")
+        end
+    
+    # Exit
+    elsif $selected==@menuIcons[$exit]  
+        break
+
+    # Your option
+    #elsif $selected==@menuIcons[$yourVariable]
+        #your code goes here
+        
+      end
+    end
+    
+    
+#-----------------Other Input----------------------
+
+# Debug Mode
+if Input.trigger?(Input::DOWN) && $DEBUG
+    pbSEPlay("choose") if $moveSound
+    $sel2=1
+    @menuIcons["debug"].bitmap=Bitmap.new("Graphics/Pictures/Menu/debug2")
+end
+
+if Input.trigger?(Input::UP) && $DEBUG
+    pbSEPlay("choose") if $moveSound
+    $sel2=0
+    @menuIcons["debug"].bitmap=Bitmap.new("Graphics/Pictures/Menu/debug")
+end
+
+# Cancel with X
+if Input.trigger?(Input::B)
+  break
+end
+    
+end #end of loop
+  pbSEPlay("exit") if $startSound
+  disposeMenu  
+end#end of def main
+end#end of class
+
+
+
+
+#-------------------Helpers-------------------
+
+# use this line to open the menu
+def startMenu
+  $game_temp.in_menu = true
+  zm=GUIMenu.new
+  zm.guiMenuStart
+end
+
+# gets rid of all viewports and graphics
+def disposeMenu
+  pbDisposeSpriteHash(@menuIcons)
+  pbDisposeSpriteHash(@background)
+  pbDisposeSpriteHash(@clock)
+  @viewport1.dispose
+  @viewport8.dispose
+  @viewport9.dispose
+  $options.clear
+  $l=0
+  $game_temp.in_menu = false
+end
+
+def pbHideMenu2
+    @viewport1.visible=false
+    @viewport8.visible=false
+end
+
+
+def pbShowMenu2
+    @viewport1.visible=true
+    @viewport8.visible=true
+  end
+  
+#-----Time Menu-----
+def getHour
+  time=pbGetTimeNow
+  return time.hour
+end
+
+def getMinute
+  time=pbGetTimeNow
+  if time.min<10
+    return "0#{time.min}"
+    else return time.min
+  end
+end
+

@@ -1,0 +1,425 @@
+﻿#-------------------------------
+[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,xxx
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,xxx
+TrainerVictoryME=victoryTrainer.ogg
+WildVictoryME=victoryWild.ogg
+TrainerBattleBGM=battleTrainer.ogg
+SurfBGM=effectSurf.ogg
+BicycleBGM=effectBike.ogg
+Home=42,5,6,2
+WildBattleBGM=battleWild.ogg
+#-------------------------------
+[001]
+# PokéCenter
+#-------------------------------
+[002]
+# Spear Pillar
+SnapEdges=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[003]
+# Distortion World
+SnapEdges=false
+BattleBack=FairyGym
+Outdoor=false
+HealingSpot=5,6,8
+ShowArea=true
+#-------------------------------
+[004]
+# Frostbyte Mt.
+SnapEdges=true
+BattleBack=Cave
+MapPosition=0,14,4
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[005]
+# Hailgem Gym
+SnapEdges=true
+BattleBack=Icy
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[007]
+# Route 4
+MapSize=2,11
+MapPosition=0,10,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[008]
+# Safari Zone
+MapPosition=0,10,8
+SafariMap=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[014]
+# Newfolk City
+MapPosition=0,12,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[015]
+# Rightful Base #4
+BattleBack=Hideout
+#-------------------------------
+[017]
+# Newfolk City Gym
+BattleBack=FireGym
+#-------------------------------
+[021]
+# Academia Administration
+Outdoor=false
+ShowArea=false
+#-------------------------------
+[022]
+# Greystone Cavern
+Weather=Storm,10
+MapPosition=0,7,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[023]
+# Greystone Cave
+MapPosition=0,7,10
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[029]
+# Interstellar Passage
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,9,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[030]
+# Route 5
+BattleBack=Field
+MapPosition=0,10,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[031]
+# Heggate Town
+MapSize=2,1101
+BattleBack=Field
+MapPosition=0,9,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[032]
+# Titan Town
+Bicycle=true
+MapPosition=0,15,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[036]
+# Route 6
+MapPosition=0,7,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[037]
+# Enursia City
+MapPosition=0,6,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[038]
+# Interstellar Cave
+MapPosition=0,9,14
+#-------------------------------
+[040]
+# Enursia City Gym
+BattleBack=FairyGym
+#-------------------------------
+[041]
+# Route 7
+MapPosition=0,6,14
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[042]
+# \PN's Home
+HealingSpot=42,5,6
+#-------------------------------
+[044]
+# Royal River
+MapPosition=0,6,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[045]
+# Route 8
+MapPosition=0,6,17
+Outdoor=true
+BicycleAlways=false
+ShowArea=true
+#-------------------------------
+[049]
+# Route 9
+MapPosition=0,6,11
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[050]
+# Wishing Well
+BattleBack=Field
+MapPosition=0,9,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[052]
+# Downpour City
+MapPosition=0,6,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[053]
+# Wishing Well
+BattleBack=Mountain
+MapPosition=0,14,4
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[054]
+# Padded Forest
+BattleBack=PaddedForest
+MapPosition=0,3,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[055]
+# Route 10
+MapPosition=0,5,18
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[056]
+# Route 11
+MapPosition=0,3,16
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[058]
+# Downpour Gym
+BattleBack=PoisonGym
+#-------------------------------
+[059]
+# Keishan City
+MapPosition=0,3,15
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[060]
+# Keishan City Gym
+SnapEdges=true
+BattleBack=FieldSand
+#-------------------------------
+[061]
+# Rightful Base #2
+BattleBack=Hideout
+#-------------------------------
+[064]
+# Wishing Well
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[065]
+# Cerulean Link
+BattleBack=Cave
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[066]
+# Bell Tower
+ShowArea=true
+#-------------------------------
+[067]
+# Bellchime Trail
+SnapEdges=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[068]
+# Bell Tower
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[069]
+# Whirl Islands
+BattleBack=Cave
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[070]
+# Whirl Islands (Outside)
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[074]
+# Route 12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[075]
+# Route 13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[076]
+# Introduction
+SnapEdges=true
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[077]
+# Route 1
+MapPosition=0,17,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[078]
+# Academia City
+MapPosition=0,18,13
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[081]
+# Deserted Path
+BattleBack=Mountain
+Weather=Sandstorm,100
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[082]
+# Brinkstone Cave
+BattleBack=Cave
+Bicycle=true
+MapPosition=0,19,11
+ShowArea=true
+#-------------------------------
+[083]
+# Temples of Azecca
+BattleBack=Cave
+DarkMap=true
+ShowArea=true
+#-------------------------------
+[085]
+# Route 3
+SnapEdges=true
+BattleBack=Snow
+Weather=Snow,100
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[086]
+# Route 2
+BattleBack=Field
+MapPosition=0,18,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[087]
+# New Harbour Town
+BattleBack=Field
+MapPosition=0,20,12
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[089]
+# Norpeak Island
+MapPosition=0,28,1
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[090]
+# Norpeak Island
+Weather=Blizzard,100
+MapPosition=0,28,1
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[097]
+# Cyberhole City
+SnapEdges=true
+Weather=Snow,100
+MapPosition=0,14,7
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[100]
+# Cave of Creation Entrance
+MapPosition=0,27,17
+Outdoor=true
+ShowArea=false
+#-------------------------------
+[101]
+# Cave of Creation
+SnapEdges=true
+BattleBack=Cave
+MapPosition=0,27,17
+ShowArea=true
+#-------------------------------
+[102]
+# Norpeak Tomb
+SnapEdges=true
+BattleBack=Cave
+DarkMap=true
+ShowArea=true
+#-------------------------------
+[103]
+# Norpeak Gym
+SnapEdges=true
+BattleBack=NorpeakGym
+#-------------------------------
+[117]
+# Hailgem City
+SnapEdges=true
+BattleBack=Snow
+Weather=Snow,100
+MapPosition=0,14,5
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[124]
+# Distortion World
+BattleBack=FairyGym
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[125]
+# Eterna City
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[127]
+# Route 211
+BattleBack=Mountain
+Weather=Rain,25
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[128]
+# Mt. Coronet
+BattleBack=Cave
+DarkMap=false
+ShowArea=true
+#-------------------------------
+[129]
+# Mt. Coronet
+BattleBack=Cave
+Outdoor=false
+ShowArea=true
+#-------------------------------
+[130]
+# Mt. Coronet
+BattleBack=Cave
+ShowArea=true
