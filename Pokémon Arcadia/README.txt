@@ -1,5 +1,5 @@
 Credits go to:
-Game Dev: Voltseon
+Game Dev: DumbbrothersTV
 Art: The Pokémon Company, Gamefreak, Nintendo, Matthy & Voltseon
 Gen 5 Overworld Sprites: Kymotonian, cSc-A7X, 2and2makes5, Pokegirl4ever, Fernandojl, Silver-Skie, TyranitarDark, Getsuei-H, Milomilotic11, Kyt666, kdiamo11, Chocosrawloid, SyleDude, Gallanty & Gizamimi-Pichu
 Tileset: Kyle-Dove, Speedialga, Spacemotion, Alucus, Pokemon-Diamond, Kizemaru-Kurunosuke, EpicDay, Thurpok, UltimoSpriter, iametrine, Minorthreat0987, TyranitarDark, SailorVicious, KKKaito, WesleyFG, BoOmxBiG, Takai-of-the-Fire, Hek-el-grande & ThatsSoWitty
@@ -16,4 +16,4 @@ Music: Jukedeck, Aiva, The Pokémon Company, Gamefreak, Nintendo & Voltseon
 
 Pokémon is owned by: The Pokémon Company, Nintendo, Affiliated with Game Freak
 
-Beta Testers: DylanKaasjes, lihumeg, ImPie, Noah and Marine
+Beta Testers:
