@@ -818,3 +818,4 @@
 797,TR98,TR98,TR98s,4,6000,"The user slams into the target using a full-force blast of water. May also lower the target's Defense stat.",6,0,0,LIQUIDATION
 798,TR99,TR99,TR99s,4,6000,"The user attacks by slamming its body into the target. Damages more the higher the user's Defense.",6,0,0,BODYPRESS
 799,MAXREVIVE2,Max Revive,Max Revives,2,4000,"Eine Nachricht ist dabei - Viel Spaß damit du keck ;D.",1,1,0
+800,DIPLOMA,Diploma,Diploma's,8,0,"A declaration that you have passed the Academia Exams.",0,0,6,

@@ -13,6 +13,7 @@ Events.FollowerRefresh += proc { |_pkmn|
 Events.FollowerRefresh += proc { |_pkmn|
   # The Pokemon disappears if the name of the map is Cedolan Gym
   next false if $game_map.name.include?("Cedolan Gym")
+  next false if $game_map.name.include?("Cutscene")
 }
 
 Events.FollowerRefresh += proc { |pkmn|
