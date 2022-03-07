@@ -55,7 +55,7 @@ module FollowingPkmn
 
   # Show the Ball Opening and Closing animation when Nurse Joy takes your
   # Pokeballs at the Pokecenter.
-  SHOW_POKECENTER_ANIMATION = false
+  SHOW_POKECENTER_ANIMATION = true
 
   # List of Pokemon that will always appear behind the player when surfing
   # Doesn't include any flying or water types because those are handled already
