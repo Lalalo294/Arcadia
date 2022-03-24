@@ -77,6 +77,56 @@ Yes
 No
 No
 [Map2]
+\[0000f0f0]???: She told me you'd follow me. So I'm up here alone.
+\[0000f0f0]???: She told me you'd follow me. So I'm up here alone.
+\[0000f0f0]???: I wanted to see for myself, a Pokémon that acts like a trainer.
+\[0000f0f0]???: I wanted to see for myself, a Pokémon that acts like a trainer.
+\[0000f0f0]???: I find it, intriguing.
+\[0000f0f0]???: I find it, intriguing.
+\[0000f0f0]???: You see, there is a big difference between people and pokémon.
+\[0000f0f0]???: You see, there is a big difference between people and pokémon.
+\[0000f0f0]???: Pokémon come in wide varities, weak and strong. But humans, they aren't that different from each other.
+\[0000f0f0]???: Pokémon come in wide varities, weak and strong. But humans, they aren't that different from each other.
+\[0000f0f0]???: To be honest, people are way scarier than any Pokémon.
+\[0000f0f0]???: To be honest, people are way scarier than any Pokémon.
+\[0000f0f0]???: And I'm sure you already know why.
+\[0000f0f0]???: And I'm sure you already know why.
+\[0000f0f0]???: Humans are capable to bring the worst out of anyone.
+\[0000f0f0]???: Humans are capable to bring the worst out of anyone.
+\[0000f0f0]???: Follow me, I'll show you.
+\[0000f0f0]???: Follow me, I'll show you.
+\[0000f0f0]???: It's too late anyways...
+\[0000f0f0]???: It's too late anyways...
+\[0000f0f0]???: Stopping this is impossible.
+\[0000f0f0]???: Stopping this is impossible.
+\[0000f0f0]???: Stopping me is futile against me, Lucifer, ranked 2nd!
+\[0000f0f0]???: Stopping me is futile against me, Lucifer, ranked 2nd!
+\[0000f0f0]Lucifer: Or did you think you could? \PN?
+\[0000f0f0]Lucifer: Or did you think you could? \PN?
+\[0000f0f0]Lucifer: Well, allow me finish this.
+\[0000f0f0]Lucifer: Well, allow me finish this.
+\[0000f0f0]Lucifer: Dialga, ruler of time
+\[0000f0f0]Lucifer: Dialga, ruler of time
+\[0000f0f0]Lucifer: Palkia, ruler of space
+\[0000f0f0]Lucifer: Palkia, ruler of space
+\[0000f0f0]Lucifer: Come forth and allow me to wield your power.
+\[0000f0f0]Lucifer: Come forth and allow me to wield your power.
+Gugyugubah!
+Gugyugubah!
+Gagyagyaah!
+Gagyagyaah!
+\[0000f0f0]Lucifer: And now, ruler of the distortion world... Come forth... Giratina!
+\[0000f0f0]Lucifer: And now, ruler of the distortion world... Come forth... Giratina!
+Gurugeynayaya!
+Gurugeynayaya!
+\[0000f0f0]Lucifer: I... I... I did it!
+\[0000f0f0]Lucifer: I... I... I did it!
+\[0000f0f0]Lucifer: N-Now, I have to...
+\[0000f0f0]Lucifer: N-Now, I have to...
+W-what is happening???
+W-what is happening???
+. . .
+. . .
 [Map3]
 Gurugeynayaya!
 Gurugeynayaya!
@@ -101,6 +151,36 @@ Unbelievable!
 \[0000f0f0]Lucifer: Now, Giratina, send her somewhere far away, we don't need her anymore.
 \[0000f0f0]Lucifer: Now, Giratina, send her somewhere far away, we don't need her anymore.
 [Map4]
+\bGlad you could make it!
+\bGlad you could make it!
+You really are strong!
+You really are strong!
+\bAlice was right about you!
+\bAlice was right about you!
+\bWho let you in?!
+\bWho let you in?!
+You cannot move past here!
+You cannot move past here!
+\bYou cannot move past here!
+\bYou cannot move past here!
+Frostbyte Mountain - Enter with caution.
+Frostbyte Mountain - Enter with caution.
+\c[6]Rightful Grunt: Don't think this is over!
+\c[6]Rightful Grunt: Don't think this is over!
+\c[6]Miss will make sure of that!
+\c[6]Miss will make sure of that!
+\r???: Well that was\nan experience.
+\r???: Well that was\nan experience.
+\r???: By the way, I am Nina. The Gymleader of Hailgem City.
+\r???: By the way, I am Nina. The Gymleader of Hailgem City.
+\r...
+\r...
+\rNina: Oh! You and this other trainer have been looking for me?
+\rNina: Oh! You and this other trainer have been looking for me?
+\rWell, meet me in my gym. I'll head there now.
+\rWell, meet me in my gym. I'll head there now.
+\rI'll see you at the gym!
+\rI'll see you at the gym!
 \r???: Hey you, what are you doing here? I'm kind of busy...
 \r???: Hey you, what are you doing here? I'm kind of busy...
 \c[6]Rightful Grunt: Shut up you!
@@ -114,6 +194,52 @@ Unbelievable!
 \r???: What are you doing?! Get this Heatran!
 \r???: What are you doing?! Get this Heatran!
 [Map5]
+Mammoo
+Mammoo
+\rNina: Hello again.
+\rNina: Hello again.
+\rSo you are ready to take on the cha...-
+\rSo you are ready to take on the cha...-
+<fs=32>WAIT!
+<fs=32>WAIT!
+\bOtto: I said I was going to challenge her first!
+\bOtto: I said I was going to challenge her first!
+\rNina: I'm sorry but \PN was here first.
+\rNina: I'm sorry but \PN was here first.
+\rNina: Well, let's see what you can do!
+\rNina: Well, let's see what you can do!
+Congratulations on beating the Hailgem City Gym!
+Congratulations on beating the Hailgem City Gym!
+\rWell, you beat me fair and square, congratulations!
+\rWell, you beat me fair and square, congratulations!
+\rNow I will give you your well deserved badge. Here you go.
+\rNow I will give you your well deserved badge. Here you go.
+\b\PN \c[0]received the \rHalite Badge.
+\b\PN \c[0]received the \rHalite Badge.
+\rAgain, congratulations!
+\rAgain, congratulations!
+\rHere's the TM for Stone Edge!
+\rHere's the TM for Stone Edge!
+\bOtto: I can do better.
+\bOtto: I can do better.
+\bOtto: But just in case... I'm going to train my Pokémon a bit.
+\bOtto: But just in case... I'm going to train my Pokémon a bit.
+\bBut, \PN. Remember, the next time we meet. You're going down!
+\bBut, \PN. Remember, the next time we meet. You're going down!
+\rNina: You will be fine. You're a strong trainer. So I think you'll do just fine.
+\rNina: You will be fine. You're a strong trainer. So I think you'll do just fine.
+\rNina: From here you can go west, or you can go south. Both have gyms.
+\rNina: From here you can go west, or you can go south. Both have gyms.
+\rGood luck!
+\rGood luck!
+\rNina: You did well on your battles!
+\rNina: You did well on your battles!
+\bIce... All I can mine... Is ICE!
+\bIce... All I can mine... Is ICE!
+ONLY ICE!!!
+ONLY ICE!!!
+\bAt least it won't melt here.
+\bAt least it won't melt here.
 \bHello and welcome to the Hailgem City Gym!
 \bHello and welcome to the Hailgem City Gym!
 \bThe gymleader Nina, specializes in the Rock and Ice type. Fighting and Steel types are recommended.
@@ -182,6 +308,12 @@ The scenery is really nice.
 The scenery is really nice.
 \bThe scenery is just amazing.
 \bThe scenery is just amazing.
+\rI'll beat you down.
+\rI'll beat you down.
+I could've won.
+I could've won.
+\rI could've won.
+\rI could've won.
 \bThere are some amazing water type Pokémon out there!
 \bThere are some amazing water type Pokémon out there!
 \bUnfortunately, most of them are indangered.
@@ -192,6 +324,8 @@ The scenery is really nice.
 \bHere, take this!
 \bSlowpoke their tails grow back after about a week.
 \bSlowpoke their tails grow back after about a week.
+\bI won't battle you, I'm looking for some cool Pokémon
+\bI won't battle you, I'm looking for some cool Pokémon
 \bTechnology is amazing!
 \bTechnology is amazing!
 \bMy bug will beat you!
@@ -276,18 +410,160 @@ No
 [Map11]
 [Map12]
 [Map13]
+\bI'm sorry, but I will need those keys to open this gate. Please help me out.
+\bI'm sorry, but I will need those keys to open this gate. Please help me out.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+\bThat Murkrow seemed to be heading to the Safari Zone.
+You returned the key to the Gatekeeper.
+You returned the key to the Gatekeeper.
+\bThank you for returning my key!
+\bThank you for returning my key!
+\bI'll open the gate now!
+\bI'll open the gate now!
 [Map14]
+\bI'm sorry, but you are not permitted to enter this area!
+\bI'm sorry, but you are not permitted to enter this area!
+Hey!
+Hey!
+Hey you!
+Hey you!
+Yea you!
+Yea you!
+You're \PN right?
+You're \PN right?
+Then you're coming with me.
+Then you're coming with me.
+You don't have to lie. You're coming with me.
+You don't have to lie. You're coming with me.
+You aren't going anywhere other than with me.
+You aren't going anywhere other than with me.
+We're going...
+We're going...
 Newfolk City Gym
 Newfolk City Gym
+\bHey loser...
+\bHey loser...
+\bYou finally beat this gym eh?
+\bYou finally beat this gym eh?
+\bI'm already on my way to my 6th gym badge, but as you might have heard from Razor...
+\bI'm already on my way to my 6th gym badge, but as you might have heard from Razor...
+\b...Dammit
+\b...Dammit
+\bBecause of these Rightful guys I cannot challenge the 6th gym yet.
+\bBecause of these Rightful guys I cannot challenge the 6th gym yet.
+\bAnyways, I'm here to pick you up.
+\bAnyways, I'm here to pick you up.
+\bWe're going back to Academia City. Professor Maidenhair has something she wants us to try. But we will need help from the Academia.
+\bWe're going back to Academia City. Professor Maidenhair has something she wants us to try. But we will need help from the Academia.
+\bAt least, that was what she said.
+\bAt least, that was what she said.
+\bI'm dropping you off at the Pokécenter.
+\bI'm dropping you off at the Pokécenter.
+\bShe told me we should meet up at the administration room of the academia.
+\bShe told me we should meet up at the administration room of the academia.
+\bWe're leaving.
+\bWe're leaving.
+Yes
+Yes
+No
+No
 [Map15]
 Do you want to rest?
 Do you want to rest?
+\rSorry, I am not allowed to talk to you.
+\rSorry, I am not allowed to talk to you.
 \bSorry, I am not allowed to talk to you.
 \bSorry, I am not allowed to talk to you.
+Hey!
+Hey!
+Are you ready?
+Are you ready?
+Wh- what?!
+Wh- what?!
+Flareon, use Dig!
+Flareon, use Dig!
+I'm going to go after the leader, she is supposed to be in this facility.
+I'm going to go after the leader, she is supposed to be in this facility.
+You do whatever you like, I'll remove this lock for you.
+You do whatever you like, I'll remove this lock for you.
+OH! Who I am?
+OH! Who I am?
+I am the gym leader of Newfolk City, I followed the girl you were with here and went undercover.
+I am the gym leader of Newfolk City, I followed the girl you were with here and went undercover.
+I'll meet you soon though.
+I'll meet you soon though.
+See ya!
+See ya!
+\bAren't you supposed to wait inside?
+\bAren't you supposed to wait inside?
+I guess not...
+I guess not...
+\bI guess not...
+\bI guess not...
+\c[7]Hmmm... So we finally meet in person.
+\c[7]Hmmm... So we finally meet in person.
+\c[7]I unfortunately cannot allow you to leave just yet.
+\c[7]I unfortunately cannot allow you to leave just yet.
+\c[7]Don't worry though, Code: WISHMAKER will make sure there are no complications.
+\c[7]Don't worry though, Code: WISHMAKER will make sure there are no complications.
+\c[7]We'll catch up later, \PN
+\c[7]We'll catch up later, \PN
+Hmm, so you're hiding from me?
+Hmm, so you're hiding from me?
+How sad...
+How sad...
+Let's make sure you never leave my side.
+Let's make sure you never leave my side.
+And here I thought we could have some fun together...
+And here I thought we could have some fun together...
+I see how it is, I guess I'll have to take you myself...
+I see how it is, I guess I'll have to take you myself...
+\wuMOVE ASIDE!
+\wuMOVE ASIDE!
+What is going on?
+What is going on?
+Code: WISHMAKER: Uhh I'm sorry, but we were having a mo-
+Code: WISHMAKER: Uhh I'm sorry, but we were having a mo-
+SORRY! NO TIME GOT TO GO!
+SORRY! NO TIME GOT TO GO!
+Kid, we're leaving NOW!
+Kid, we're leaving NOW!
+\bYou shouldn't wander off like this.
+\bYou shouldn't wander off like this.
+I don't think miss is gonna like this.
+I don't think miss is gonna like this.
+\bI don't think miss is gonna like you leaving.
+\bI don't think miss is gonna like you leaving.
 Flaaree
 Flaaree
+\rDon't leave now!
+\rDon't leave now!
+It's not like I can stop you
+It's not like I can stop you
+\rI thought we could have some fun in here.
+\rI thought we could have some fun in here.
+I'm not supposed to talk to you.
+I'm not supposed to talk to you.
 You went back here to get some rest.
 You went back here to get some rest.
+\rI'm not supposed to let you pass.
+\rI'm not supposed to let you pass.
+Nice place isn't it?
+Nice place isn't it?
+We're not going to kill you or anything.
+We're not going to kill you or anything.
+At least, not me.
+At least, not me.
+And not now...
+And not now...
+Make yourself comfortable, because you'll be here for a while...
+Make yourself comfortable, because you'll be here for a while...
+And you two, keep <i>IT</i> in there...
+And you two, keep <i>IT</i> in there...
+Miss needs to see me...
+Miss needs to see me...
+\wuAnd don't try anything funny...
+\wuAnd don't try anything funny...
 Yes
 Yes
 No
@@ -323,6 +599,22 @@ Dunsparce: Dun dun!!
 Dunsparce: Dun dun!!
 Blissey: Blis blis!!
 Blissey: Blis blis!!
+I'm sorry I had to pull you out like that, but I kinda messed with their tech and that base could've went BOOM.
+I'm sorry I had to pull you out like that, but I kinda messed with their tech and that base could've went BOOM.
+Luckily that didn't happen because we're not murderers.
+Luckily that didn't happen because we're not murderers.
+But they might be after me now...
+But they might be after me now...
+Well, see ya at the gym!
+Well, see ya at the gym!
+\bHey! I heard people were having trouble with beating the gym here.
+\bHey! I heard people were having trouble with beating the gym here.
+\bSo I have been handing out some Magikarp to help out.
+\bSo I have been handing out some Magikarp to help out.
+\bHere you go!
+\bHere you go!
+\bI hope this helps you out!
+\bI hope this helps you out!
 Yes
 Yes
 No
@@ -384,10 +676,48 @@ Congratulations!
 \bI hope to see you again...
 \bYou did great in your battle yo!
 \bYou did great in your battle yo!
+\bHello and welcome to the Newfolk City Gym!
+\bHello and welcome to the Newfolk City Gym!
+\bThe gymleader Razor, specializes in the Fire type. Water, Ground and Rock types are recommended.
+\bThe gymleader Razor, specializes in the Fire type. Water, Ground and Rock types are recommended.
+\bGood luck challenger!
+\bGood luck challenger!
+\bAlso, there is this 'special' puzzle we set up in here.
+\bAlso, there is this 'special' puzzle we set up in here.
+\bUse a water type Pokémon to solve it!
+\bUse a water type Pokémon to solve it!
+\bCongratulations on beating the Newfolk City Gym!
+\bCongratulations on beating the Newfolk City Gym!
+\bThe flame inside me is burning red hot!
+\bThe flame inside me is burning red hot!
+It burns!
+It burns!
+\bIt's over for me.
+\bIt's over for me.
+\bFire is a passion!
+\bFire is a passion!
+It's hot!
+It's hot!
+\bYou'll need to take a different path.
+\bYou'll need to take a different path.
+\rGuess you picked the wrong path.
+\rGuess you picked the wrong path.
+I like the heat of the battle!
+I like the heat of the battle!
 [Map18]
 [Map19]
 [Map20]
 [Map21]
+\bThis is horrifying!
+\bThis is horrifying!
+\bThose bastards...
+\bThose bastards...
+\rThis is truely horrible!
+\rThis is truely horrible!
+\rI'm glad that no one got hurt at Greystone Cavern.
+\rI'm glad that no one got hurt at Greystone Cavern.
+Eevee: Epui!
+Eevee: Epui!
 \rAh! \PN you're here.
 \rAh! \PN you're here.
 \rProfessor Maidenhair: Everyone is here.
@@ -474,15 +804,173 @@ Congratulations!
 \rNina: An adventure.
 \bJimmy: A-Alrighty then...
 \bJimmy: A-Alrighty then...
+Medicham: Di di cham!
+Medicham: Di di cham!
+\bCan we hurry this up? The sooner we stop them, the sooner I can get my badge.
+\bCan we hurry this up? The sooner we stop them, the sooner I can get my badge.
+\rWhy would they do this?
+\rWhy would they do this?
 [Map22]
-I should probably investigate the area before leaving.
-I should probably investigate the area before leaving.
-\rRightful is on the winning side.
-\rRightful is on the winning side.
+\bRightful is on the winning side.
+\bRightful is on the winning side.
 We will not fail.
 We will not fail.
+\bWe will not fail.
+\bWe will not fail.
+I should probably investigate the area before leaving.
+I should probably investigate the area before leaving.
+\[a5467b14]???: Ah! We've got company!
+\[a5467b14]???: Ah! We've got company!
+\[a5467b14]???: I suppose you are \PN?
+\[a5467b14]???: I suppose you are \PN?
+\[a5467b14]???: You are right on time for the show!
+\[a5467b14]???: You are right on time for the show!
+\[a5467b14]???: I assume you were having a noise compaint?
+\[a5467b14]???: I assume you were having a noise compaint?
+\wu\rNina: Wait!
+\wu\rNina: Wait!
+\rNina: You're going to summon Kyurem aren't you?
+\rNina: You're going to summon Kyurem aren't you?
+\[a5467b14]???: Oh dear, do you actually think I'm going to summon Kyurem at this moment in time?
+\[a5467b14]???: Oh dear, do you actually think I'm going to summon Kyurem at this moment in time?
+\[a5467b14]???: I am not here to summon Kyurem.
+\[a5467b14]???: I am not here to summon Kyurem.
+\[a5467b14]???: Because...
+\[a5467b14]???: Because...
+\[a5467b14]???: I've already captured Kyurem.
+\[a5467b14]???: I've already captured Kyurem.
+\wu\bOtto: Then what are you doing here? I mean, just leave already.
+\wu\bOtto: Then what are you doing here? I mean, just leave already.
+\[a5467b14]???: Oh! And there's Otto. I guess you like following us don't you?
+\[a5467b14]???: Oh! And there's Otto. I guess you like following us don't you?
+\bOtto: If it weren't for you guys disturbing my gym challenge, I would leave you guys alone.
+\bOtto: If it weren't for you guys disturbing my gym challenge, I would leave you guys alone.
+\wu\bJimmy: Yea! Stop it already!
+\wu\bJimmy: Yea! Stop it already!
+\[a5467b14]???: And who are you? Some random kid who got lost?
+\[a5467b14]???: And who are you? Some random kid who got lost?
+\bJimmy: AAAHHH!!! THAT'S A HUGE DRAGON!
+\bJimmy: AAAHHH!!! THAT'S A HUGE DRAGON!
+\[a5467b14]???: Anyways, there is nothing here for you guys to see, you guys can just get lost.
+\[a5467b14]???: Anyways, there is nothing here for you guys to see, you guys can just get lost.
+\bOtto: Then what are you doing here? \1Etris?
+\bOtto: Then what are you doing here? \1Etris?
+\[a5467b14]Etris: Well, if you are so interested. I guess I will let you witness something great.
+\[a5467b14]Etris: Well, if you are so interested. I guess I will let you witness something great.
+\rNina: Otto, how do you know him?
+\rNina: Otto, how do you know him?
+\bJimmy: Yea how do you know this guy? He seems all scary.
+\bJimmy: Yea how do you know this guy? He seems all scary.
+\[a5467b14]Etris: ...
+\[a5467b14]Etris: ...
+\[a5467b14]Etris: Grunts, get rid of these two people, they annoy me.
+\[a5467b14]Etris: Grunts, get rid of these two people, they annoy me.
+\bGrunt 1: Yes sir!\n\rGrunt 2: Got it!
+\bGrunt 1: Yes sir!\n\rGrunt 2: Got it!
+\rNina: Don't touch me!
+\rNina: Don't touch me!
+\bJimmy: HEY!
+\bJimmy: HEY!
+\[a5467b14]Etris: There, much better.
+\[a5467b14]Etris: There, much better.
+\bOtto: Hey! Where are they? I'm gonna be in a lot of trouble if they are gone!
+\bOtto: Hey! Where are they? I'm gonna be in a lot of trouble if they are gone!
+\[a5467b14]Etris: Oh now don't worry much. They were only brought to New Harbour Town. They will find their way back.
+\[a5467b14]Etris: Oh now don't worry much. They were only brought to New Harbour Town. They will find their way back.
+\[a5467b14]Etris: As I said, I will allow you two to witness something great. Something \1extrodinairy.
+\[a5467b14]Etris: As I said, I will allow you two to witness something great. Something \1extrodinairy.
+\[a5467b14]Etris: While yes, I am here for something amazing.
+\[a5467b14]Etris: While yes, I am here for something amazing.
+\[a5467b14]Etris: A great desire, to assist a great love.
+\[a5467b14]Etris: A great desire, to assist a great love.
+\bOtto: You're in love with your Pokémon? That is just weird.
+\bOtto: You're in love with your Pokémon? That is just weird.
+\[a5467b14]Etris: Miss... She is the love...
+\[a5467b14]Etris: Miss... She is the love...
+\[a5467b14]Etris: But for the desire...
+\[a5467b14]Etris: But for the desire...
+\[a5467b14]Etris: I was gifted two incredibly powerful stones.
+\[a5467b14]Etris: I was gifted two incredibly powerful stones.
+\[a5467b14]Etris: The unovans had a story of these stones. A story about ideals and truths.
+\[a5467b14]Etris: The unovans had a story of these stones. A story about ideals and truths.
+\[a5467b14]Etris: Now I do not believe in myths and legends, which is hard to say while Kyurem is standing in between us.
+\[a5467b14]Etris: Now I do not believe in myths and legends, which is hard to say while Kyurem is standing in between us.
+\[a5467b14]Etris: But I do believe in miss.
+\[a5467b14]Etris: But I do believe in miss.
+\[a5467b14]Etris: And that is why I will succeed this mission to bring back the once broken apart dragon.
+\[a5467b14]Etris: And that is why I will succeed this mission to bring back the once broken apart dragon.
+\bOtto: Wait, you're not going to...
+\bOtto: Wait, you're not going to...
+<outln>\[a5467b14]Etris: Oh yes I am...</outln>
+<outln>\[a5467b14]Etris: Oh yes I am...</outln>
+\bOtto: Wait! You're kidding?! He actually has them!
+\bOtto: Wait! You're kidding?! He actually has them!
+<outln>\[a5467b14]Etris: Oh yes I do...</outln>
+<outln>\[a5467b14]Etris: Oh yes I do...</outln>
+<outln>\[a5467b14]Etris: Now we wait for the stones to react to the environment!</outln>
+<outln>\[a5467b14]Etris: Now we wait for the stones to react to the environment!</outln>
+\bOtto: We have to stop this NOW!
+\bOtto: We have to stop this NOW!
+<outln>\[a5467b14]Etris: There is no stopping this anymore. All you can do is watch.</outln>
+<outln>\[a5467b14]Etris: There is no stopping this anymore. All you can do is watch.</outln>
+Zekrom: Uraaaaahhh
+Zekrom: Uraaaaahhh
+Reshiram: Kyaaahhh
+Reshiram: Kyaaahhh
+\[a5467b14]Etris: Amazing is it not?!
+\[a5467b14]Etris: Amazing is it not?!
+\bOtto: What- why, how...
+\bOtto: What- why, how...
+\bOtto: We need to stop this madness before it gets even worse!
+\bOtto: We need to stop this madness before it gets even worse!
+\bOtto: I hate to say it, but I will need your support on this.
+\bOtto: I hate to say it, but I will need your support on this.
+\[a5467b14]Etris: Now... where is it?
+\[a5467b14]Etris: Now... where is it?
+\[a5467b14]Etris: Didn't I?
+\[a5467b14]Etris: Didn't I?
+\bOtto: Are you meaning to say... you lost your DNA-Splicers?
+\bOtto: Are you meaning to say... you lost your DNA-Splicers?
+\[a5467b14]Etris: Dammit! I gave it to that stupid grunt!
+\[a5467b14]Etris: Dammit! I gave it to that stupid grunt!
+\[a5467b14]Etris: Well I don't have to reform it just yet anyways. I can do that whenever I want.
+\[a5467b14]Etris: Well I don't have to reform it just yet anyways. I can do that whenever I want.
+\[a5467b14]Etris: Now move out of the way!
+\[a5467b14]Etris: Now move out of the way!
+\bOtto: We're going nowhere!
+\bOtto: We're going nowhere!
+\[a5467b14]Etris: Well... If you're asking for it?
+\[a5467b14]Etris: Well... If you're asking for it?
+I didn't expect less from you two...
+I didn't expect less from you two...
+\[a5467b14]Etris: I knew I shouldn't battle you two. This is why miss has a bounty on the two of you!
+\[a5467b14]Etris: I knew I shouldn't battle you two. This is why miss has a bounty on the two of you!
+\bOtto: There's a bounty on us?
+\bOtto: There's a bounty on us?
+\[a5467b14]Etris: It doesn't matter anymore. I got the dragons anyways.
+\[a5467b14]Etris: It doesn't matter anymore. I got the dragons anyways.
+\[a5467b14]Etris: I hope the next time we meet, miss has her hands on you two.
+\[a5467b14]Etris: I hope the next time we meet, miss has her hands on you two.
+\bOtto: \PN, I know I'm usually not like this. But we have to stop these guys. Not only for my sake, but for everyone.
+\bOtto: \PN, I know I'm usually not like this. But we have to stop these guys. Not only for my sake, but for everyone.
+\rRightful is on the winning side.
+\rRightful is on the winning side.
 \rWe will not fail.
 \rWe will not fail.
+\rWould you like to heal up your Pokémon?
+\rWould you like to heal up your Pokémon?
+\rWait, what happened?!
+\rWait, what happened?!
+\rSo that was what I was reading off of the machine.
+\rSo that was what I was reading off of the machine.
+\rI'll report this to the league, they will make sure they pay for what they are doing.
+\rI'll report this to the league, they will make sure they pay for what they are doing.
+\rAlso, I have hooked the machine onto my laptop in the lab, that way I don't have to stay here to check on the readings.
+\rAlso, I have hooked the machine onto my laptop in the lab, that way I don't have to stay here to check on the readings.
+\rI'll bring you to the Newfolk City Pokécenter. From there you can go west for your 5th gymbadge.
+\rI'll bring you to the Newfolk City Pokécenter. From there you can go west for your 5th gymbadge.
+\bI will stay here for now.
+\bI will stay here for now.
 It's Professor Maiderhair her machine. It scans energy levels in the area.
 It's Professor Maiderhair her machine. It scans energy levels in the area.
 \bOtto: \PN, I wanted to beat you to see how strong I've gotten.
@@ -493,10 +981,14 @@ I wasn't even trying!
 I wasn't even trying!
 \bOtto: I'll heal up my Pokémon, you can go ahead.
 \bOtto: I'll heal up my Pokémon, you can go ahead.
-\bRightful is on the winning side.
-\bRightful is on the winning side.
-\bWe will not fail.
-\bWe will not fail.
+\rProfessor Maidenhair: I will stay here at the machine and you investigate.
+\rProfessor Maidenhair: I will stay here at the machine and you investigate.
+\bJimmy: I'll catch up with you guys in a few minutes.
+\bJimmy: I'll catch up with you guys in a few minutes.
+\rNina: Alright.
+\rNina: Alright.
+\rProfessor Maidenhair: If you want to heal up your Pokémon, come and talk to me.
+\rProfessor Maidenhair: If you want to heal up your Pokémon, come and talk to me.
 Yes
 Yes
 No
@@ -531,10 +1023,28 @@ Yes
 No
 No
 [Map26]
+\rThe Hailgem City Gymleader Nina and I used to go to the same school.
+\rThe Hailgem City Gymleader Nina and I used to go to the same school.
+\bPokémon can only learn up to 4 moves at the same time.
+\bPokémon can only learn up to 4 moves at the same time.
 [Map27]
+Meditite: Duddrr
+Meditite: Duddrr
+\bFocus is really important during battle!
+\bFocus is really important during battle!
 [Map28]
+\bSome Pokémon can only be bred using special incenses.
+\bSome Pokémon can only be bred using special incenses.
+\bBaby Pokémon are not that suitable for battle.
+\bBaby Pokémon are not that suitable for battle.
 [Map29]
 [Map30]
+\bGrass-types and Bug-types share a lot of similarities but are very different!
+\bGrass-types and Bug-types share a lot of similarities but are very different!
+Strange right?!
+Strange right?!
+\bStrange right?!
+\bStrange right?!
 \rI water these flowers daily just in case.
 \rI water these flowers daily just in case.
 \r\..\..\..
@@ -553,149 +1063,259 @@ No
 \rDon't worry, I'll give it to you when you have enough room.
 \rMake sure to take good care of it!
 \rMake sure to take good care of it!
-\bGrass-types and Bug-types share a lot of similarities but are very different!
-\bGrass-types and Bug-types share a lot of similarities but are very different!
-Strange right?!
-Strange right?!
-\bStrange right?!
-\bStrange right?!
 \bFishing clears the mind!
 \bFishing clears the mind!
 If I keep fishing, I might catch myself a winner!
 If I keep fishing, I might catch myself a winner!
 \bIf I keep fishing, I might catch myself a winner!
 \bIf I keep fishing, I might catch myself a winner!
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 \bSome Pokémon just are stronger than others.
 \bSome Pokémon just are stronger than others.
 I guess your Pokémon were just stronger.
 I guess your Pokémon were just stronger.
 \bFully evolved Pokémon are usually stronger than non evolving Pokémon.
 \bFully evolved Pokémon are usually stronger than non evolving Pokémon.
+It's a very odd tree.\1 Would you like to try pouring water on it?\.
+It's a very odd tree.\1 Would you like to try pouring water on it?\.
+\bAhoy! Next ship is leaving shortly!
+\bAhoy! Next ship is leaving shortly!
+Hahaha! What a great battle!
+Hahaha! What a great battle!
+\bThe ship of battle is my favorite kind of ship!
+\bThe ship of battle is my favorite kind of ship!
+\bI hope you don't have any water types on you, no specific reason!
+\bI hope you don't have any water types on you, no specific reason!
+My passion wasn't buring hot enough!
+My passion wasn't buring hot enough!
+\bI will feed my flames to get stronger!
+\bI will feed my flames to get stronger!
+Ruuu
+Ruuu
+Tauros seems like a really fast Pokémon. You could transform into it to move faster.
+Tauros seems like a really fast Pokémon. You could transform into it to move faster.
+Take some \bTauros Hairs\c[0]?
+Take some \bTauros Hairs\c[0]?
+\rFriendship with your Pokémon makes them stronger in battle!
+\rFriendship with your Pokémon makes them stronger in battle!
+I enjoyed that battle!
+I enjoyed that battle!
+\rI love my Pokémon!
+\rI love my Pokémon!
+\bJust a few years ago, the sound type was discovered. Before that many people thought most sound types were normal.
+\bJust a few years ago, the sound type was discovered. Before that many people thought most sound types were normal.
+Yes
+Yes
+No
+No
 [Map31]
+\bAh, it's you!
+\bAh, it's you!
+\bWe were raising your Pokémon, and my goodness, were we surprised!
+\bWe were raising your Pokémon, and my goodness, were we surprised!
+\bYour Pokémon was holding an Egg!
+\bYour Pokémon was holding an Egg!
+\bWe don't know how it got there, but your Pokémon had it.
+\bWe don't know how it got there, but your Pokémon had it.
+\bYou do want it, don't you?
+\bYou do want it, don't you?
+\bYou have no room for it right now... Come back when you've made room.
+\bYou have no room for it right now...  Come back when you've made room.
+\PN received the Egg from the Day-Care Man.
+\PN received the Egg from the Day-Care Man.
+\bYou take good care of it.
+\bYou take good care of it.
+\bI really will keep it. You do want this Egg, yes?
+\bI really will keep it.  You do want this Egg, yes?
+\bWell all right then, I'll take it. Thank you.
+\bWell all right then, I'll take it.  Thank you.
+\bThat is, I don't think we'll ever find another...
+\bThat is, I don't think we'll ever find another...
+\bNo, no, I'm sure we'll find another one. I'm definitely sure of it!
+\bNo, no, I'm sure we'll find another one.  I'm definitely sure of it!
+\bI'm the Day-Care Man.
+\bI'm the Day-Care Man.
+\bI help take care of the precious Pokémon of trainers.
+\bI help take care of the precious Pokémon of trainers.
+\bAny Pokémon you'd like to have raised you can leave in my wife's care.
+\bAny Pokémon you'd like to have raised you can leave in my wife's care.
+\bAh, it's you!\nGood to see you!
+\bAh, it's you!\nGood to see you!
+\bYour \v[3] is doing just fine.
+\bYour \v[3] is doing just fine.
+\bYour \v[3] and \v[4] are doing just fine.
+\bYour \v[3] and \v[4] are doing just fine.
+\bThe two play with other Pokémon rather than with each other...
+\bThe two play with other Pokémon rather than with each other...
+\bThe two don't seem to like each other much.
+\bThe two don't seem to like each other much.
+\bThe two seem to get along.
+\bThe two seem to get along.
+\bThe two seem to get along very well.
+\bThe two seem to get along very well.
 \sign[signskin]Heggate Daycare
 \sign[signskin]Heggate Daycare
+Yes
+Yes
+No
+No
 [Map32]
-Haus von \PN
-Haus von \PN
-Ohne ein Pokemon kannst du nicht durch.
-Ohne ein Pokemon kannst du nicht durch.
-Skrrr
-Skrrr
+\PN's house
+\PN's house
+\bYou shouldn't go down this path. It is too dangerous, there have been sightings of a very strong pokemon down this path!
+\bYou shouldn't go down this path. It is too dangerous, there have been sightings of a very strong pokemon down this path!
 Professor Maidenhair's Lab
 Professor Maidenhair's Lab
-Ey...
-Ey...
-Willst du kämpfen?
-Willst du kämpfen?
-...
-...
-Nimm das!
-Nimm das!
-Aww, I lost.
-Aww, I lost.
-Rild
-Rild
-Ich bin Dävid..
-Ich bin Dävid..
-geh mal zum Labor\nund hol dir einen Tipp vom Professor.
-geh mal zum Labor\nund hol dir einen Tipp vom Professor.
-\c[3] Ey...
-\c[3] Ey...
-Viel Erfolg.
-Viel Erfolg.
-dein pokemon hat kein bock auf sand im auge
-dein pokemon hat kein bock auf sand im auge
-Itemverbrauch in Kämpfen
-Itemverbrauch in Kämpfen
-Aus
-Aus
-An
-An
+\bSorry, I can't let you pass without a Pokémon!
+\bSorry, I can't let you pass without a Pokémon!
+\rHeyyy!!! \PN!!!!
+\rHeyyy!!! \PN!!!!
+\rWAIITT!!!
+\rWAIITT!!!
+\rBefore you leave, take these!
+\rBefore you leave, take these!
+You received Running Shoes.
+You received Running Shoes.
+\rThese will help you move faster!
+\rThese will help you move faster!
+\rAlso, you should probably visit the Luxio Academia in Academia City. It is east from here past Route 1.
+\rAlso, you should probably visit the Luxio Academia in Academia City. It is east from here past Route 1.
+\rThey will learn you how to catch Pokémon and stuff.
+\rThey will learn you how to catch Pokémon and stuff.
+\rI'll give them a call for you!
+\rI'll give them a call for you!
+\bI heard Professor Maidenhair is fighting a Regirock up there. \bI am too scared to go though!
+\bI heard Professor Maidenhair is fighting a Regirock up there. \bI am too scared to go though!
+\bGood luck!
+\bGood luck!
+Titan Town, hometown of the Region Professor
+Titan Town, hometown of the Region Professor
+\rOh little one, are you hurt?! Come inside and rest a little.
+\rOh little one, are you hurt?! Come inside and rest a little.
+\PN went inside with the woman and took a long rest.
+\PN went inside with the woman and took a long rest.
 [Map33]
-Möchtest du Skallyk als Starter haben?
-Möchtest du Skallyk als Starter haben?
-Besser so.
-Besser so.
-Hey, du Lusche aus dem Weg jetzt kommt der rilde David.
-Hey, du Lusche aus dem Weg jetzt kommt der rilde David.
-Na \pn bist du noch traurig wegen deiner riesigen Niederlage? Selbst mit einem neuen Pokemon wirst du nicht besser sein als ich.
-Na \pn bist du noch traurig wegen deiner riesigen Niederlage? Selbst mit einem neuen Pokemon wirst du nicht besser sein als ich.
-Weshalb ich immer so schnell bin? Ich bin einfach ultra im Hype, schau her.
-Weshalb ich immer so schnell bin? Ich bin einfach ultra im Hype, schau her.
-Aua scheisse!
-Aua scheisse!
-Naja, du nimmst also Skallyk, dann nehme ich das hier.
-Naja, du nimmst also Skallyk, dann nehme ich das hier.
-David erhält Lin-Fu.
-David erhält Lin-Fu.
-Hey \pn!
-Hey \pn!
-Wir haben beide neue Pokemon bekommen ich fordere dich nocheinmal zu einem Kampf heraus.
-Wir haben beide neue Pokemon bekommen ich fordere dich nocheinmal zu einem Kampf heraus.
-Aww, I lost.
-Aww, I lost.
-Naja, du nimmst also Psiau, dann nehme ich das hier.
-Naja, du nimmst also Psiau, dann nehme ich das hier.
-David erhält Skallyk.
-David erhält Skallyk.
-Naja, du nimmst also Lin-Fu, dann nehme ich das hier.
-Naja, du nimmst also Lin-Fu, dann nehme ich das hier.
-David erhält Psiau.
-David erhält Psiau.
-Oh, ähm, hi...
-Oh, ähm, hi...
-Du bist bestimmt hier um ein Pokemon zu wählen.
-Du bist bestimmt hier um ein Pokemon zu wählen.
-Komm mit, ich kümmere mich um dein Waumpel.
-Komm mit, ich kümmere mich um dein Waumpel.
-Nimm dir eins.
-Nimm dir eins.
-Ey was dauert das denn so lange!
-Ey was dauert das denn so lange!
-Du nimmst also Skallyk, dann nehme ich das hier.
-Du nimmst also Skallyk, dann nehme ich das hier.
-Hey!
-Hey!
-Du nimmst also Psiau, dann nehme ich das hier.
-Du nimmst also Psiau, dann nehme ich das hier.
-Hast du eigentlich schon von den Arenen gehört? Dort soll es richtig starke Trainer geben.
-Hast du eigentlich schon von den Arenen gehört?  Dort soll es richtig starke Trainer geben.
-Ich glaube zwar nicht das du das schaffst aber lass mal zur ersten Arena.
-Ich glaube zwar nicht das du das schaffst aber lass mal zur ersten Arena.
-naja ich gehe wieder.
-naja ich gehe wieder.
-Oh! Wer bist du denn?
-Oh! Wer bist du denn?
-...
-...
-hmm, dieses Waumpel ist ganz schön schwach... nimm lieber eines von denen hier.
-hmm, dieses Waumpel ist ganz schön schwach...  nimm lieber eines von denen hier.
-Pass gut auf es auf. Ach ja und wo wir schon dabei sind, magst du mir nicht helfen?
-Pass gut auf es auf. Ach ja und wo wir schon dabei sind, magst du mir nicht helfen?
-Nein?, tja pech gehabt. ALSO..
-Nein?, tja pech gehabt. ALSO..
-Du erhälst einen Pokedex!
-Du erhälst einen Pokedex!
-Du hast bereits einen Pokédex.
-Du hast bereits einen Pokédex.
-Dieses technische Wunderwerk nenne Ich Pokedex. Es registriert Pokemon denen du begegnest.
-Dieses technische Wunderwerk nenne Ich Pokedex.  Es registriert Pokemon denen du begegnest.
-Vervollständige ihn bitte für mich, ich darf leider nicht so weit weg vom Haus...typisch
-Vervollständige ihn bitte für mich, ich darf leider nicht so weit weg vom Haus...typisch
-Ich kann dir aktuell nicht weiterhelfen.
-Ich kann dir aktuell nicht weiterhelfen.
-Nimm dir ein Pokèmon.
-Nimm dir ein Pokèmon.
-Möchtest du Lin-Fu das als Starter haben?
-Möchtest du Lin-Fu das als Starter haben?
-Aktuell darf niemand die obere Etage betreten.
-Aktuell darf niemand die obere Etage betreten.
-Möchtest du Psiau als Starter haben?
-Möchtest du Psiau als Starter haben?
-Ja
-Ja
-Nein
-Nein
+\rAre you doing well? Great!
+\rAre you doing well? Great!
+You are not permitted to go here!
+You are not permitted to go here!
+\bThere are many kinds of Pokémon out there yet to be discovered! It's incredible!
+\bThere are many kinds of Pokémon out there yet to be discovered! It's incredible!
+\bSome people train their Pokémon to get stronger, and some to create a connection!
+\bSome people train their Pokémon to get stronger, and some to create a connection!
+\bProfessor Maidenhair is upstairs.
+\bProfessor Maidenhair is upstairs.
+\bOh! Hello! Are you new around here?
+\bOh! Hello! Are you new around here?
+\bThe professor isn't here at the moment...
+\bThe professor isn't here at the moment...
+\bThere was a small\1 complication.
+\bThere was a small\1 complication.
+\bHowever I'm guessing you are here for a starter Pokémon?
+\bHowever I'm guessing you are here for a starter Pokémon?
+\bWell you're just in luck! Because there's only one left.
+\bWell you're just in luck! Because there's only one left.
+\bNow, if you wouldn't mind me asking...
+\bNow, if you wouldn't mind me asking...
+\bI have 3 questions for you before I get you your new partner.
+\bI have 3 questions for you before I get you your new partner.
+\bWhere are you from?
+\bWhere are you from?
+\bOk, next question.
+\bOk, next question.
+\bDo you have permission from your parents to go on a journey?
+\bDo you have permission from your parents to go on a journey?
+\bOk, last question.
+\bOk, last question.
+\bHow would you describe yourself?
+\bHow would you describe yourself?
+\bAlright then, let me get your starter.
+\bAlright then, let me get your starter.
+\bHave this one!
+\bHave this one!
+\bThere was also someone else here a moment ago around your age, maybe you two could be rivals.
+\bThere was also someone else here a moment ago around your age, maybe you two could be rivals.
+\bI'm sure you will meet them soon.
+\bI'm sure you will meet them soon.
+\bGood luck on your journey!
+\bGood luck on your journey!
+\rI cannot help you at the moment. I am trying to figure out where Team Rightful might strike again!
+\rI cannot help you at the moment. I am trying to figure out where Team Rightful might strike again!
+\rDo you want me to check your Pokédex?
+\rDo you want me to check your Pokédex?
+\rAh yes! \PN!
+\rAh yes! \PN!
+\rHave you seen Otto lately? I can't reach him!
+\rHave you seen Otto lately? I can't reach him!
+\r...
+\r...
+\rHow horrible!
+\rHow horrible!
+\rThis has been going on for far too long!
+\rThis has been going on for far too long!
+\rWell, \PN I called you over here because of what is going to happen.
+\rWell, \PN I called you over here because of what is going to happen.
+\rThere are multiple cases of legendaries going on around Padana, but also in some other regions!
+\rThere are multiple cases of legendaries going on around Padana, but also in some other regions!
+\rRightful are summoning the Lake Guardians at the Wishing Wells.
+\rRightful are summoning the Lake Guardians at the Wishing Wells.
+\rThey are north of Heggate Town, hidden in Frostbyte Mountain and there is one on an Island next to Norpeak Island.
+\rThey are north of Heggate Town, hidden in Frostbyte Mountain and there is one on an Island next to Norpeak Island.
+\rThen we also have a case in Brinkstone Cave, but I am unsure which Pokémon they are awakening.
+\rThen we also have a case in Brinkstone Cave, but I am unsure which Pokémon they are awakening.
+\rAlso, the Whirl Islands have appeared near the coast of New Harbour Town.
+\rAlso, the Whirl Islands have appeared near the coast of New Harbour Town.
+\rThen on the Cave Of Creation there has been activity spotted, but not for the Regi's.
+\rThen on the Cave Of Creation there has been activity spotted, but not for the Regi's.
+\rOutside of Padana there has also been activity.
+\rOutside of Padana there has also been activity.
+\rWe had reports from Unova that Rightful has taken over part of the old Team Plasma their base.
+\rWe had reports from Unova that Rightful has taken over part of the old Team Plasma their base.
+\rIn Johto Rightful has been spotted at the Bell Tower, meaning they are after Ho-oh.
+\rIn Johto Rightful has been spotted at the Bell Tower, meaning they are after Ho-oh.
+\rThen we also have Rightful at Sky Pillar in Hoenn. So that is for Rayquaza.
+\rThen we also have Rightful at Sky Pillar in Hoenn. So that is for Rayquaza.
+\rAnd lastly, they have been spotted at Mt. Coronet in Sinnoh. But I don't know what that could mean.
+\rAnd lastly, they have been spotted at Mt. Coronet in Sinnoh. But I don't know what that could mean.
+\rI know this is a lot. I have already informed the league about it. But unfortunately they are unable to help.
+\rI know this is a lot. I have already informed the league about it. But unfortunately they are unable to help.
+\rThe league is apparently dealing with problems with Rightful as well.
+\rThe league is apparently dealing with problems with Rightful as well.
+\rAll of the gymleaders have also been called over to help out at the league.
+\rAll of the gymleaders have also been called over to help out at the league.
+\rThat means I can only count on you to help and stop Rightful, unfortunately.
+\rThat means I can only count on you to help and stop Rightful, unfortunately.
+\rWhich is why I can only send you on a mission one at a time.
+\rWhich is why I can only send you on a mission one at a time.
+\rMeet me upstairs, that is where we will decide what you will do.
+\rMeet me upstairs, that is where we will decide what you will do.
+Here in Titan Town
+Here in Titan Town
+The Desert
+The Desert
+Padana City
+Padana City
+Can't tell you
+Can't tell you
+I was told to go
+I was told to go
+Yes, I do
+Yes, I do
+I am old enough to decide
+I am old enough to decide
+I don't have any
+I don't have any
+Naïve
+Naïve
+Kind
+Kind
+Perfect
+Perfect
+Bold
+Bold
 [Map34]
 [Map35]
 \rAh, there you are! My husband was looking for you.
@@ -750,24 +1370,176 @@ No
 No
 [Map36]
 [Map37]
+\bAlysa is currently not available for a gym battle. You should head to the building west from this building.
+\bAlysa is currently not available for a gym battle. You should head to the building west from this building.
+\bIt is the Pokémon Fan Club, hosted by her. You might find out where she is from the people inside.
+\bIt is the Pokémon Fan Club, hosted by her. You might find out where she is from the people inside.
+\bAlmut: Follow me!
+\bAlmut: Follow me!
+\bAlmut: Like you can see in these statues, there is this 'hidden' legendary Pokémon. It's story was only passed on to the People of Enursia City and Heggate Town.
+\bAlmut: Like you can see in these statues, there is this 'hidden' legendary Pokémon. It's story was only passed on to the People of Enursia City and Heggate Town.
+\bAlmut: The stories tell of the Pokémon \rCosmus \bthe ruler of the cosmos.
+\bAlmut: The stories tell of the Pokémon \rCosmus \bthe ruler of the cosmos.
+\bAlmut: It is said to have lived in the Unown Dimension up until \rPalkia \band \rDialga \binterfered and it was shot down to our dimension.
+\bAlmut: It is said to have lived in the Unown Dimension up until \rPalkia \band \rDialga \binterfered and it was shot down to our dimension.
+\bAlmut: They say it landed right here in Enursia City. The People, helped the Pokémon to regain its powers.
+\bAlmut: They say it landed right here in Enursia City. The People, helped the Pokémon to regain its powers.
+\bAlmut: But most people saw it as a godly being, so they covered the hole and turned it into a temple.
+\bAlmut: But most people saw it as a godly being, so they covered the hole and turned it into a temple.
+\bAlmut: Now we have closed the temples because it isn't safe anymore. But Interstellar Cave in Heggate Town still connects to it.
+\bAlmut: Now we have closed the temples because it isn't safe anymore. But Interstellar Cave in Heggate Town still connects to it.
+\bAlmut: Alysa believes Cosmus still lives in the ruins. But, for some reason the cave ends with a special door.
+\bAlmut: Alysa believes Cosmus still lives in the ruins. But, for some reason the cave ends with a special door.
+\bAlmut: It would be too dangerous to destroy the door, and because of that Alysa is trying to find some other way to open the door.
+\bAlmut: It would be too dangerous to destroy the door, and because of that Alysa is trying to find some other way to open the door.
+\bAlmut: Let's head back inside, I have something for you...
+\bAlmut: Let's head back inside, I have something for you...
 Hyaaan!
 Hyaaan!
 [Map38]
 \c[5]<outln>nihigehaanagaleenafufufu\|tajarinalopasihacanana\|porporporporlo</outln>
 \c[5]<outln>nihigehaanagaleenafufufu\|tajarinalopasihacanana\|porporporporlo</outln>
+\rOh! Hey!
+\rOh! Hey!
+\rAlysa: I am Alysa...
+\rAlysa: I am Alysa...
+\rAlysa: Oh! Right! The Gym!
+\rAlysa: Oh! Right! The Gym!
+\rAlysa: I am incredibally sorry, I just cant seem to figure out how to open this door!
+\rAlysa: I am incredibally sorry, I just cant seem to figure out how to open this door!
+\rAlysa: I did notice that it reacts to this rock I found...
+\rAlysa: I did notice that it reacts to this rock I found...
+\rAlysa: Maybe you can figure it out, because I sure won't!
+\rAlysa: Maybe you can figure it out, because I sure won't!
+\rAlysa: See you at the gym!
+\rAlysa: See you at the gym!
 [Map39]
+Raaa
+Raaa
+\bPrinplup helps me out on all sorts of missions!
+\bPrinplup helps me out on all sorts of missions!
+Laaaa
+Laaaa
+Lapras seems like a great Pokémon to mimic for moving through water.
+Lapras seems like a great Pokémon to mimic for moving through water.
+Take a \bLapras Scale\c[0]?
+Take a \bLapras Scale\c[0]?
+\bAlmut: Ah! Hello there! My name is Almut.
+\bAlmut: Ah! Hello there! My name is Almut.
+\bAlmut: I organise the Pokémon Fan Club when Alysa is away.
+\bAlmut: I organise the Pokémon Fan Club when Alysa is away.
+\bAlmut: Where she is?
+\bAlmut: Where she is?
+\bAlmut: Alysa went to \rInterstellar Cave \bin \rHeggate Town\b!
+\bAlmut: Alysa went to \rInterstellar Cave \bin \rHeggate Town\b!
+\bAlmut: She goes there every single day trying to figure out how to open a door there.
+\bAlmut: She goes there every single day trying to figure out how to open a door there.
+\bFollow me outside, I will tell you more about it.
+\bFollow me outside, I will tell you more about it.
+\bAlmut: Right, you need this HM to move through water.
+\bAlmut: Right, you need this HM to move through water.
+\bAlmut: Here you go!
+\bAlmut: Here you go!
+\bAlmut: Use this move for surfing on the water surface!
+\bAlmut: Use this move for surfing on the water surface!
+This move will not help me, as I am a Zorua. I will need to find something I can use to transform into a surfing Pokémon.
+This move will not help me, as I am a Zorua. I will need to find something I can use to transform into a surfing Pokémon.
+\bAlmut: You can find the Gym Leader Alysa in \rInterstallar Cave \bat \rHeggate Town\b.
+\bAlmut: You can find the Gym Leader Alysa in \rInterstallar Cave \bat \rHeggate Town\b.
+\bAlmut: Congratulations on beating my granddaughter! You truely have potential!
+\bAlmut: Congratulations on beating my granddaughter! You truely have potential!
+\bAlmut: Here in the Pokémon Fan Club we adore each and every single Pokémon!
+\bAlmut: Here in the Pokémon Fan Club we adore each and every single Pokémon!
+Yes
+Yes
+No
+No
 [Map40]
+\bAh welcome challenger! This gym seems very complicated at first! But not to worry, it is all an illusion made by Alysa her Mr. Mime.
+\bAh welcome challenger! This gym seems very complicated at first! But not to worry, it is all an illusion made by Alysa her Mr. Mime.
+\bAlysa mainly uses Fairy and Psychic types. So Steel, Ghost and Bug types are recommended.
+\bAlysa mainly uses Fairy and Psychic types. So Steel, Ghost and Bug types are recommended.
+\bCongratulations challenger!
+\bCongratulations challenger!
+\rAlysa: Sorry! I never got your name, may I get it before we begin?
+\rAlysa: Sorry! I never got your name, may I get it before we begin?
+\rAlysa: \PN? Can I call you \PN-chan?
+\rAlysa: \PN? Can I call you \PN-chan?
+\rAlysa: Alright then \PN-chan!
+\rAlysa: Alright then \PN-chan!
+\rAlysa: Let's not waste any more time!
+\rAlysa: Let's not waste any more time!
+Congratulations on beating the Enursia City Gym!
+Congratulations on beating the Enursia City Gym!
+\rAlysa: Great job \PN-chan!!!!
+\rAlysa: Great job \PN-chan!!!!
+\rAlysa: I adored this battle! You showed me exactly the bond between you and your Pokémon!
+\rAlysa: I adored this battle! You showed me exactly the bond between you and your Pokémon!
+\b\PN \c[0]received the \rSpatial Badge.
+\b\PN \c[0]received the \rSpatial Badge.
+\rAlysa: Again, congratulations \PN-chan!
+\rAlysa: Again, congratulations \PN-chan!
+\rAlysa: Make sure you inform me when you find out how to open the door!
+\rAlysa: Make sure you inform me when you find out how to open the door!
+\rAlysa: I wish you good luck with your last 3 gyms! They are really tough! Especially the next one.
+\rAlysa: I wish you good luck with your last 3 gyms! They are really tough! Especially the next one.
+\rThat is Trick Room, use it well!
+\rThat is Trick Room, use it well!
+\rAlysa: Cya \PN-chan!
+\rAlysa: Cya \PN-chan!
+\rAlysa: I enjoyed our battle, \PN-chan!
+\rAlysa: I enjoyed our battle, \PN-chan!
+Yes
+Yes
+No
+No
 [Map41]
 [Map42]
-\r...
-\r...
-Los gehts.
-Los gehts.
-\rOh... Are you all right? Well, you'll have better luck this time.
-\rOh... Are you all right? Well, you'll have better luck this time.
-<<[>>This message was triggered by the "Starting Over" Game Switch being ON. Now turning that Game Switch off.<<]>>
-<<[>>This message was triggered by the "Starting Over" Game Switch being ON. Now turning that Game Switch off.<<]>>
+\rStay out of trouble.
+\rStay out of trouble.
+\rYou should be more careful!
+\rYou should be more careful!
+\rYou'll have better luck this time.
+\rYou'll have better luck this time.
+\rYou can take a rest here.
+\rYou can take a rest here.
+\rYou are good to go now!
+\rYou are good to go now!
+\rAhhww... little Zorua, are you hurt? \rYou're lucky I found you!
+\rAhhww... little Zorua, are you hurt? \rYou're lucky I found you!
+. . .
+. . .
+\rI see! So you want to stop those guys and that Regirock from hurting others?
+\rI see! So you want to stop those guys and that Regirock from hurting others?
+\rWell you aren't in the best shape to do that...
+\rWell you aren't in the best shape to do that...
+\rOh! I know!
+\rOh! I know!
+\rWhy don't you try to pretend you are a trainer!
+\rWhy don't you try to pretend you are a trainer!
+\rThat way you can start a journey as a Pokémon Trainer and stop Regirock!
+\rThat way you can start a journey as a Pokémon Trainer and stop Regirock!
+\rI'll cover for you! \rAnd you can get a Pokémon at the Lab south of town!
+\rI'll cover for you! \rAnd you can get a Pokémon at the Lab south of town!
+\rI heard that they give out free Pokémon for starting trainers!
+\rI heard that they give out free Pokémon for starting trainers!
+\rWell little one, are you a boy or a girl?
+\rWell little one, are you a boy or a girl?
+\rAlright, let's start with a disguise.
+\rAlright, let's start with a disguise.
+\rSince you are a Zorua that won't be a problem right?
+\rSince you are a Zorua that won't be a problem right?
+\rWOW! That looks amazing!
+\rWOW! That looks amazing!
+\rNow good luck! And stay out of trouble!
+\rNow good luck! And stay out of trouble!
+Boy
+Boy
+Girl
+Girl
 [Map43]
+\rHey! I'm Jamie! I'm sorry to tell you this! But I'm not in this story yet! I will be in the full version of the game!
+\rHey! I'm Jamie! I'm sorry to tell you this! But I'm not in this story yet! I will be in the full version of the game!
 [Map44]
 [Map45]
 \bHeya!
@@ -791,6 +1563,32 @@ Guess I was wrong!
 [Map48]
 [Map49]
 [Map50]
+\c[5]???: Oh I finally get to meet you \PN!
+\c[5]???: Oh I finally get to meet you \PN!
+\c[5]???: I was just about to begin!
+\c[5]???: I was just about to begin!
+\c[5]???: I am Mese, ranked 18th Admin of Rightful.
+\c[5]???: I am Mese, ranked 18th Admin of Rightful.
+\c[5]Mese: I am not that highly ranked, but I am still good at my job!
+\c[5]Mese: I am not that highly ranked, but I am still good at my job!
+\c[5]Mese: Alright, I really have to start now!
+\c[5]Mese: Alright, I really have to start now!
+\c[5]Mese: Thou the bringer of emotion, shall support their power towards me and my cause.
+\c[5]Mese: Thou the bringer of emotion, shall support their power towards me and my cause.
+\c[5]Mese: Bells of Emrit!
+\c[5]Mese: Bells of Emrit!
+\c[5]Mese: MESPRIT! APPEAR!
+\c[5]Mese: MESPRIT! APPEAR!
+Mesprit: Uhhaann!
+Mesprit: Uhhaann!
+\c[5]Mese: Mesprit, the Emotion Pokémon. Will you help me bring down this one?
+\c[5]Mese: Mesprit, the Emotion Pokémon. Will you help me bring down this one?
+NO! You weren't supposed to win!
+NO! You weren't supposed to win!
+\c[5]Mese: WAAAAHHH!!!!
+\c[5]Mese: WAAAAHHH!!!!
+\c[5]Mese: Mesprit, get us out of here!
+\c[5]Mese: Mesprit, get us out of here!
 [Map51]
 \rHello, and welcome to the Pokémon Center.
 \rHello, and welcome to the Pokémon Center.
@@ -844,6 +1642,32 @@ Battle Miss
 Continue Exploring
 Continue Exploring
 [Map53]
+\c[1]???: Oh hey! \PN! What a surprise!
+\c[1]???: Oh hey! \PN! What a surprise!
+\c[1]???: You're just in time!
+\c[1]???: You're just in time!
+\c[1]???: My name is Aze, I am ranked 17th Admin of Rightful.
+\c[1]???: My name is Aze, I am ranked 17th Admin of Rightful.
+\c[1]Aze: I am ranked higher than my 2 other sisters, so I have that going for me.
+\c[1]Aze: I am ranked higher than my 2 other sisters, so I have that going for me.
+\c[1]Aze: If you don't mind, I have work to do!
+\c[1]Aze: If you don't mind, I have work to do!
+\c[1]Aze: Thou the bringer of willpower, shall support their power towards me and my cause.
+\c[1]Aze: Thou the bringer of willpower, shall support their power towards me and my cause.
+\c[1]Aze: Bells of Agnome!
+\c[1]Aze: Bells of Agnome!
+\c[1]Aze: AZELF! SHOW YOURSELF!
+\c[1]Aze: AZELF! SHOW YOURSELF!
+Azelf: Uhhaann!
+Azelf: Uhhaann!
+\c[1]Aze: Azelf, the Willpower Pokémon. Will you help me bring down this fool?
+\c[1]Aze: Azelf, the Willpower Pokémon. Will you help me bring down this fool?
+NO! You don't deserve to win!
+NO! You don't deserve to win!
+\c[1]Aze: WAAAAHHH!!!!
+\c[1]Aze: WAAAAHHH!!!!
+\c[1]Aze: Azelf, get us out of here!
+\c[1]Aze: Azelf, get us out of here!
 [Map54]
 \rCindy: Allow me to show you the power of Mythical Pokémon!
 \rCindy: Allow me to show you the power of Mythical Pokémon!
@@ -855,9 +1679,53 @@ Unacceptable!
 \rCindy: Celebi! Do your thing!
 \rCindy: JUST DO IT!
 \rCindy: JUST DO IT!
+\r???: Oh! A visitor!
+\r???: Oh! A visitor!
+\r???: Miss had already warned me about company.
+\r???: Miss had already warned me about company.
+\r???: ...
+\r???: ...
+\r???: You're \PN I see!
+\r???: You're \PN I see!
+\r???: Oh! How rude of me, I haven't introduced myself!
+\r???: Oh! How rude of me, I haven't introduced myself!
+\r???: I am Cindy. Ranked 5th of the Rightful Admins.
+\r???: I am Cindy. Ranked 5th of the Rightful Admins.
+\rCindy: You're about to meet a special Pokémon!
+\rCindy: You're about to meet a special Pokémon!
+\rCindy: Oh darn! I am late, it is starting!
+\rCindy: Oh darn! I am late, it is starting!
+\rCindy: Crackling Bells! Do your job!
+\rCindy: Crackling Bells! Do your job!
+\rCindy: Allow me to summon the great Mythical Spirit of the Forests and Time!
+\rCindy: Allow me to summon the great Mythical Spirit of the Forests and Time!
+Celebi: Cebi!
+Celebi: Cebi!
+\rCindy: That's what I thought!
+\rCindy: That's what I thought!
+\rCindy: Celebi, will you help me achieve my goals and bend time in my will?
+\rCindy: Celebi, will you help me achieve my goals and bend time in my will?
+\rCindy: Then let's start with this fake trainer!
+\rCindy: Then let's start with this fake trainer!
 \sign[signskin]Padded Forest - Deep wilds
 \sign[signskin]Padded Forest - Deep wilds
+Guurrr
+Guurrr
 [Map55]
+\bOtto: You're finally catching up eh?
+\bOtto: You're finally catching up eh?
+\bOtto: Let's see how much weaker you are than me!
+\bOtto: Let's see how much weaker you are than me!
+Guess I was wrong!
+Guess I was wrong!
+\bOtto: I haven't heard of Rightful in a while.
+\bOtto: I haven't heard of Rightful in a while.
+\bOtto: They are probably up to no good!
+\bOtto: They are probably up to no good!
+\bOtto: Well, I am gonna get my 8th badge now!
+\bOtto: Well, I am gonna get my 8th badge now!
+\bOtto: See ya.
+\bOtto: See ya.
 [Map56]
 [Map57]
 \rHello, and welcome to the Pokémon Center.
@@ -890,11 +1758,17 @@ Dunsparce: Dun dun!!
 Dunsparce: Dun dun!!
 Blissey: Blis blis!!
 Blissey: Blis blis!!
+\bI got this amazing batch of Slowpoke Tails last week. Would you like one?
+\bI got this amazing batch of Slowpoke Tails last week. Would you like one?
+\bFishing really pays off!
+\bFishing really pays off!
 Yes
 Yes
 No
 No
 [Map58]
+\sign[signskin]Downpour City Gym - Poison / Sound type
+\sign[signskin]Downpour City Gym - Poison / Sound type
 \bLerran: Heya! If you wanna beat me, you gotta beat my background drummer and guitarist first!
 \bLerran: Heya! If you wanna beat me, you gotta beat my background drummer and guitarist first!
 \bLerran: Alrighy! LET'S GET THIS BEAT GOING!
@@ -921,21 +1795,195 @@ You hit every single beat! AMAZING!
 \bLerran: I will allow you to go to Route 10 now.  Amazing battling skills!
 \bLerran: You can go west towards the Padded Forest for some amazing bug types!
 \bLerran: You can go west towards the Padded Forest for some amazing bug types!
+\rYou won't beat me!
+\rYou won't beat me!
+AAAAAAAAAAAAAHHHHHHHHH!
+AAAAAAAAAAAAAHHHHHHHHH!
+\rHear me out!
+\rHear me out!
+MMMMMMMMMM!
+MMMMMMMMMM!
+\bYou hit the right beat!
+\bYou hit the right beat!
 [Map59]
+\r???: Hey it's me!
+\r???: Hey it's me!
+\rProfessor Maidenhair: Me, Professor Maidenhair!
+\rProfessor Maidenhair: Me, Professor Maidenhair!
+\rProfessor Maidenhair: There have been strange energy signals coming from all over Padana.
+\rProfessor Maidenhair: There have been strange energy signals coming from all over Padana.
+\rProfessor Maidenhair: Come and meet me at my lab as soon as possible!
+\rProfessor Maidenhair: Come and meet me at my lab as soon as possible!
 \b\PN, you have an appointment with Miss.
 \b\PN, you have an appointment with Miss.
 \bWe'll take you in.
 \bWe'll take you in.
 [Map60]
+\bYou will never reach Hellen!
+\bYou will never reach Hellen!
+You might reach Hellen.
+You might reach Hellen.
+\bHellen is the strongest trainer I know!
+\bHellen is the strongest trainer I know!
+\rI am the last person between you and Hellen!
+\rI am the last person between you and Hellen!
+I wish you the best of luck!
+I wish you the best of luck!
+\rHellen and
+\rHellen and
+\rHellen: Impressive, you came this far!
+\rHellen: Impressive, you came this far!
+\rHellen: But will you be able to withstand me, the Keishan City Gym Leader Hellen?!
+\rHellen: But will you be able to withstand me, the Keishan City Gym Leader Hellen?!
+I can't believe it! Congratulations!
+I can't believe it! Congratulations!
+\rHellen: That was an amazing battle!
+\rHellen: That was an amazing battle!
+\rHellen: Here you go!
+\rHellen: Here you go!
+\b\PN \c[0]received the \rQuake Badge.
+\b\PN \c[0]received the \rQuake Badge.
+\rHellen: And this is yours too.
+\rHellen: And this is yours too.
+\rHellen: That one contains Earthquake. I hope it helps you in battle!
+\rHellen: That one contains Earthquake. I hope it helps you in battle!
+\rHellen: But you're not ready for the League yet unfortunately.
+\rHellen: But you're not ready for the League yet unfortunately.
+\rHellen: You still need to beat \bMetro \rthe 8th gymleader.
+\rHellen: You still need to beat \bMetro \rthe 8th gymleader.
+\rHellen: The 8th gymleader is a really tough trainer. No one really knows what kind of style he battles with.
+\rHellen: The 8th gymleader is a really tough trainer. No one really knows what kind of style he battles with.
+\rHellen: Me and Flygon only got around to beat 1 of his Pokémon.
+\rHellen: Me and Flygon only got around to beat 1 of his Pokémon.
+\rHellen: He is the reason no one has gotten to the League these last few seasons.
+\rHellen: He is the reason no one has gotten to the League these last few seasons.
+\rHellen: You should head south of Newfolk Town to reach the gym!
+\rHellen: You should head south of Newfolk Town to reach the gym!
+\rHellen: Good luck!
+\rHellen: Good luck!
 \rI'm positive I can beat you!
 \rI'm positive I can beat you!
 Aww damn!
 Aww damn!
 \rI was positive I could beat you!
 \rI was positive I could beat you!
+Flyyy
+Flyyy
+\bUAH!
+\bUAH!
+AARGH!
+AARGH!
+\bHIAH
+\bHIAH
 [Map61]
 Do you want to rest?
 Do you want to rest?
+\bOtto: \PN! I need your help in this battle! I cannot beat them on my own!
+\bOtto: \PN! I need your help in this battle! I cannot beat them on my own!
+\bOtto: I'll heal your Pokémon alright!
+\bOtto: I'll heal your Pokémon alright!
+\bOtto: Let's beat them down!
+\bOtto: Let's beat them down!
+Unbelievable
+Unbelievable
+Impossible.
+Impossible.
+\bOtto: Now explain, why were we brought here?!
+\bOtto: Now explain, why were we brought here?!
+\rAlice: Well you see, you two <i>people</i> have built a big reputation among us in Rightful...
+\rAlice: Well you see, you two <i>people</i> have built a big reputation among us in Rightful...
+\rAlice: Since you two like to interfere with our work, miss asked us to gather you two for a meeting.
+\rAlice: Since you two like to interfere with our work, miss asked us to gather you two for a meeting.
+\bOtto: Well, obviously we are interfering with your "work".
+\bOtto: Well, obviously we are interfering with your "work".
+\rAlice: Explain yourself... <i>Kid...</i>
+\rAlice: Explain yourself... <i>Kid...</i>
+\bOtto: You guys are awakening ancient legendary Pokémon, breaking the natural balance!
+\bOtto: You guys are awakening ancient legendary Pokémon, breaking the natural balance!
+\rAlice: What we are doing is for the greater good. You see, this will all be over when we are finished with our work!
+\rAlice: What we are doing is for the greater good. You see, this will all be over when we are finished with our work!
+\bOtto: WHAT YOU ARE DOING IS WRONG!
+\bOtto: WHAT YOU ARE DOING IS WRONG!
+\rAlice: I don't expect you to understand, <i>kid</i>.
+\rAlice: I don't expect you to understand, <i>kid</i>.
+\rAlice: Miss... \wt[15]I've gathered the two...
+\rAlice: Miss... \wt[15]I've gathered the two...
+\ts[2]\c[7]Miss: I \.see...
+\ts[2]\c[7]Miss: I \.see...
+\bOtto: \PN, I don't think we can take her. She is their leader.
+\bOtto: \PN, I don't think we can take her. She is their leader.
+\ts[2]\c[7]Miss: Otto \.and \PN \wt[15]huh?
+\ts[2]\c[7]Miss: Otto \.and \PN \wt[15]huh?
+\ts[2]\c[7]Miss: You two are the reason for my delay, \.huh?
+\ts[2]\c[7]Miss: You two are the reason for my delay, \.huh?
+\bOtto: Well, you could say it li...
+\bOtto: Well, you could say it li...
+\ts[2]\c[7]Miss: Silence.
+\ts[2]\c[7]Miss: Silence.
+\ts[2]\c[7]Miss: As some of my subordinates have noticed with their detectors, \.you two don't seem ordinairy.
+\ts[2]\c[7]Miss: As some of my subordinates have noticed with their detectors, \.you two don't seem ordinairy.
+\bOtto: What do you mean? There is nothing with \PN \wt[15]or me.
+\bOtto: What do you mean? There is nothing with \PN \wt[15]or me.
+\ts[2]\c[7]Miss: Let's just test how much of that is true.
+\ts[2]\c[7]Miss: Let's just test how much of that is true.
+\ts[2]\c[7]Miss: Starting with \wt[15]\ts[1]\PN!
+\ts[2]\c[7]Miss: Starting with \wt[15]\ts[1]\PN!
+\wtnp[1]\bOtto: Wait no!
+\wtnp[1]\bOtto: Wait no!
+\rAlice: I knew there was something with them, but this was unexpected!
+\rAlice: I knew there was something with them, but this was unexpected!
+\ts[2]\c[7]Miss: Well, you're a lucky one. \.Having such a reliable rival.
+\ts[2]\c[7]Miss: Well, you're a lucky one. \.Having such a reliable rival.
+\ts[2]\c[7]Miss: I see...
+\ts[2]\c[7]Miss: I see...
+\ts[2]\c[7]Miss: He must have kept this from you. \.But our little Otto is actually a Ditto in hiding.
+\ts[2]\c[7]Miss: He must have kept this from you. \.But our little Otto is actually a Ditto in hiding.
+\rAlice: Is that even possible?! A Pokémon hiding as a Trainer.
+\rAlice: Is that even possible?! A Pokémon hiding as a Trainer.
+\ts[2]\c[7]Miss: You wouldn't believe what is and isn't possible\., Alice.
+\ts[2]\c[7]Miss: You wouldn't believe what is and isn't possible\., Alice.
+\ts[2]\c[7]Miss: Wouldn't you agree? \.\PN?
+\ts[2]\c[7]Miss: Wouldn't you agree? \.\PN?
+\ts[2]\c[7]Miss: You know \PN...\. I would love to see you at the summoning.
+\ts[2]\c[7]Miss: You know \PN...\. I would love to see you at the summoning.
+\rAlice: Why are you telling \PN about the summoning? We're not even ready yet!
+\rAlice: Why are you telling \PN about the summoning? We're not even ready yet!
+\ts[2]\c[7]Miss: Don't worry, everyone is already at their site, or is close by.
+\ts[2]\c[7]Miss: Don't worry, everyone is already at their site, or is close by.
+\rAlice: We shouldn't let \PN just go to the summoning? Right miss?
+\rAlice: We shouldn't let \PN just go to the summoning? Right miss?
+\ts[2]\c[7]Miss: Well...
+\ts[2]\c[7]Miss: Well...
+\ts[2]\c[7]Miss: \bLucifer \c[7]has arrived at HQ.
+\ts[2]\c[7]Miss: \bLucifer \c[7]has arrived at HQ.
+\rAlice: \bLucifer\r?! Already?!
+\rAlice: \bLucifer\r?! Already?!
+\ts[2]\c[7]Miss: We will deal with \PN later. \.I will make sure we don't hear from our friend Otto here.
+\ts[2]\c[7]Miss: We will deal with \PN later. \.I will make sure we don't hear from our friend Otto here.
+\ts[2]\c[7]Miss: Now get \PN out of here...
+\ts[2]\c[7]Miss: Now get \PN out of here...
+\rAlice: Got it miss!
+\rAlice: Got it miss!
+\rYou're not one of us?!
+\rYou're not one of us?!
+You're only making things worse!
+You're only making things worse!
+\rVedetta will deal with you!
+\rVedetta will deal with you!
+\bYou shouldn't wander off!
+\bYou shouldn't wander off!
+You're gonna get punished!
+You're gonna get punished!
+\bI'm gonna be in so much trouble.
+\bI'm gonna be in so much trouble.
+\bOlivier is taking over my shift. I had a long day...
+\bOlivier is taking over my shift. I had a long day...
+\rHey! How did you get out?!
+\rHey! How did you get out?!
+I don't think miss is gonna like this.
+I don't think miss is gonna like this.
+\rI don't think miss is gonna like you leaving.
+\rI don't think miss is gonna like you leaving.
 Yes
 Yes
 No
@@ -978,8 +2026,100 @@ No
 [Map63]
 Poliii
 Poliii
+\rWell, we have going for us the following:
+\rWell, we have going for us the following:
+\rLake Guardians at the Wishing Wells.
+\rLake Guardians at the Wishing Wells.
+\rThe Wishing Wells are north of Heggate Town, hidden in Frostbyte Mountain and surfing west of Norpeak Island.
+\rThe Wishing Wells are north of Heggate Town, hidden in Frostbyte Mountain and surfing west of Norpeak Island.
+\rUnknown at Brinkstone Cave. Between Route 2 and Academia City.
+\rUnknown at Brinkstone Cave. Between Route 2 and Academia City.
+\rUnknown at Cave Of Creation. You can get there with the boat on Norpeak Island.
+\rUnknown at Cave Of Creation. You can get there with the boat on Norpeak Island.
+\rLugia at Whirl Islands, you can get there by boat at New Harbour Town.
+\rLugia at Whirl Islands, you can get there by boat at New Harbour Town.
+\rRayquaza at Sky Pillar in Hoenn, you can get there by boat through New Harbour Town.
+\rRayquaza at Sky Pillar in Hoenn, you can get there by boat through New Harbour Town.
+\rUnknown at P2 Laboratory in Unova, you can get there by boat through Norpeak Island.
+\rUnknown at P2 Laboratory in Unova, you can get there by boat through Norpeak Island.
+\rAnd we have Ho-oh at Bell Tower, you can get there by boat at New Harbour Town.
+\rAnd we have Ho-oh at Bell Tower, you can get there by boat at New Harbour Town.
+\rI wish you good luck \PN!
+\rI wish you good luck \PN!
+\rProfessor Maidenhair: We've gone to everything. Unfortunately you weren't able to stop them all.
+\rProfessor Maidenhair: We've gone to everything. Unfortunately you weren't able to stop them all.
+\rThis is bad, really bad, they almost have all of the legendairy Pokémon. We are in serious trouble!
+\rThis is bad, really bad, they almost have all of the legendairy Pokémon. We are in serious trouble!
+\r\PN! Go to Route 13, It's connected to Route 12, south of Newfolk City.
+\r\PN! Go to Route 13, It's connected to Route 12, south of Newfolk City.
+\rA few years ago I found an anomaly over there, I have a feeling it is connected to this.
+\rA few years ago I found an anomaly over there, I have a feeling it is connected to this.
+\rGood luck!
+\rGood luck!
+\rProfessor Maidenhair: \PN! Go to Route 13, It's connected to Route 12, south of Newfolk City.
+\rProfessor Maidenhair: \PN! Go to Route 13, It's connected to Route 12, south of Newfolk City.
 [Map64]
+\c[6]???: Huh what? \PN?
+\c[6]???: Huh what? \PN?
+\c[6]???: What? I was doing something!
+\c[6]???: What? I was doing something!
+\c[6]???: I uh am Uex, I am ranked 19th Admin of Rightful.
+\c[6]???: I uh am Uex, I am ranked 19th Admin of Rightful.
+\c[6]Uex: I am almost ranked last...
+\c[6]Uex: I am almost ranked last...
+\c[6]Uex: I uh really need to start now so.
+\c[6]Uex: I uh really need to start now so.
+\c[6]Uex: Thou the bringer of knowledge, shall support their power towards them and their cause.
+\c[6]Uex: Thou the bringer of knowledge, shall support their power towards them and their cause.
+\c[6]Uex: Bells of Yuxie!
+\c[6]Uex: Bells of Yuxie!
+\c[6]Uex: UXIE! COME FORTH!
+\c[6]Uex: UXIE! COME FORTH!
+Uxie: Uhhaann!
+Uxie: Uhhaann!
+\c[6]Uex: Uxie, the Knowledge Pokémon. Will you help me stop this lad?
+\c[6]Uex: Uxie, the Knowledge Pokémon. Will you help me stop this lad?
+NO! You don't get to win!
+NO! You don't get to win!
+\c[6]Uex: WAAAAHHH!!!!
+\c[6]Uex: WAAAAHHH!!!!
+\c[6]Uex: Uxie, get us out of here!
+\c[6]Uex: Uxie, get us out of here!
 [Map65]
+\r???: Oh! And who may you be?
+\r???: Oh! And who may you be?
+\r???: Oh! You're \PN!
+\r???: Oh! You're \PN!
+\r???: Nice to meet you! I am Mitu, ranked 4th Rightful Admin!
+\r???: Nice to meet you! I am Mitu, ranked 4th Rightful Admin!
+\rMitu: I want to show you this amazing thing!
+\rMitu: I want to show you this amazing thing!
+\rMitu: So by using the power of Celebi and Jirachi, we were able to create this cave!
+\rMitu: So by using the power of Celebi and Jirachi, we were able to create this cave!
+\rMitu: Now this cave has the essence of the legendary Pokémon, Mewtwo still inside!
+\rMitu: Now this cave has the essence of the legendary Pokémon, Mewtwo still inside!
+\rMitu: So if I were to use these on it. I will be able to revive Mewtwo!
+\rMitu: So if I were to use these on it. I will be able to revive Mewtwo!
+\rMitu: Allow me to demonstrate!
+\rMitu: Allow me to demonstrate!
+\rMitu: Now we gotta step back!
+\rMitu: Now we gotta step back!
+\rMitu: Deshu meterani cateloyid necrofono typasso.
+\rMitu: Deshu meterani cateloyid necrofono typasso.
+\rMitu: Did I do something wrong?
+\rMitu: Did I do something wrong?
+Mewtwo: Uraraara!
+Mewtwo: Uraraara!
+\rMitu: Amazing! Mewtwo!
+\rMitu: Amazing! Mewtwo!
+\rMitu: Mewtwo, allow us to bring down \PN!
+\rMitu: Mewtwo, allow us to bring down \PN!
+Mewtwo is supposed to be the strongest Pokémon!
+Mewtwo is supposed to be the strongest Pokémon!
+\rMitu: This was not supposed to happen!
+\rMitu: This was not supposed to happen!
+\rMitu: I am out!
+\rMitu: I am out!
 [Map66]
 [Map67]
 \bAre we going back to Padana?
@@ -1074,6 +2214,34 @@ Yes
 No
 No
 [Map71]
+\b???: It's here...
+\b???: It's here...
+\r???: My name is Denna, ranked 12th Rightful Admin.
+\r???: My name is Denna, ranked 12th Rightful Admin.
+\bDenna: You showed up way too early you know \PN.
+\bDenna: You showed up way too early you know \PN.
+\rDenna: The reason I am here?
+\rDenna: The reason I am here?
+\bDenna: I am here to summon Deoxys.
+\bDenna: I am here to summon Deoxys.
+\rDenna: No! It is already here!
+\rDenna: No! It is already here!
+\bDenna: Do I call for its name or?
+\bDenna: Do I call for its name or?
+\rDenna: It is already here.
+\rDenna: It is already here.
+\bDenna: \PN, time to settle this with a battle don't you think?
+\bDenna: \PN, time to settle this with a battle don't you think?
+What?!
+What?!
+\bDenna: No! Deoxys Don't!
+\bDenna: No! Deoxys Don't!
+\rDenna: Miss will be disappointed in me!
+\rDenna: Miss will be disappointed in me!
+\bDenna: I might as well leave too!
+\bDenna: I might as well leave too!
+\rDenna: It was fun \PN.
+\rDenna: It was fun \PN.
 [Map72]
 \bAre we going back to New Harbour Town?
 \bAre we going back to New Harbour Town?
@@ -1089,6 +2257,36 @@ Yes
 No
 No
 [Map74]
+\rYou should leave for your own sake.
+\rYou should leave for your own sake.
+You really should leave.
+You really should leave.
+\rYou should leave us be!
+\rYou should leave us be!
+\rYou're trespassing!
+\rYou're trespassing!
+You're not meant to be here.
+You're not meant to be here.
+\rLeave while you still can!
+\rLeave while you still can!
+\rDon't think you can pass by me!
+\rDon't think you can pass by me!
+Don't go any farther!
+Don't go any farther!
+\rI'm warning you! Don't go any farther!
+\rI'm warning you! Don't go any farther!
+\bThere are things here beyond your understanding, so leave!
+\bThere are things here beyond your understanding, so leave!
+...
+...
+\bYou're not supposed to be here.
+\bYou're not supposed to be here.
+\bYou're too early.
+\bYou're too early.
+I'll have to report you.
+I'll have to report you.
+\bLeave, now!
+\bLeave, now!
 [Map75]
 \rThere are things you shouldn't mess with, kid.
 \rThere are things you shouldn't mess with, kid.
@@ -1096,31 +2294,121 @@ You little.
 You little.
 \rYou shouldn't mess with this, kid.
 \rYou shouldn't mess with this, kid.
+\bThis is where you're gonna be stopped!
+\bThis is where you're gonna be stopped!
+This is bad.
+This is bad.
+\bThis is really bad!
+\bThis is really bad!
 [Map76]
+I probably shouldn't go too far out. It could be dangerous!
+I probably shouldn't go too far out. It could be dangerous!
+Phhhaaan!
+Phhhaaan!
+Med ded
+Med ded
+Ccaad-da
+Ccaad-da
+Phhy
+Phhy
 Kk-karp
 Kk-karp
+\b???: Let's go outside!
+\b???: Let's go outside!
+\b???: Backup report, on schedule.
+\b???: Backup report, on schedule.
+\b???: Regirock will get rid of the wild Pokémon.
+\b???: Regirock will get rid of the wild Pokémon.
+\b???: \rJo \bcan come in and finish this in a few weeks.
+\b???: \rJo \bcan come in and finish this in a few weeks.
+\b???: Gamma Signing off.
+\b???: Gamma Signing off.
+Roooockkk!!!
+Roooockkk!!!
+\PN escaped to a nearby town, hoping to find help.
+\PN escaped to a nearby town, hoping to find help.
 Arceus: I wish you good luck \PN! Make the most out of it!
 Arceus: I wish you good luck \PN! Make the most out of it!
 Arceus: And since you're the first Zorua on this region, make sure not to make a mess out of it...
 Arceus: And since you're the first Zorua on this region, make sure not to make a mess out of it...
 Arceus: Ditto sure are a hassle, but I believe you can be different!
 Arceus: Ditto sure are a hassle, but I believe you can be different!
+Nnii-n
+Nnii-n
+Tit..e
+Tit..e
+Drrddr
+Drrddr
 [Map77]
+\bGood luck on your journey!
+\bGood luck on your journey!
+\rNow... Let's see...
+\rNow... Let's see...
+SKIPPING...
+SKIPPING...
+\rSee, that's how you catch a Pokémon!
+\rSee, that's how you catch a Pokémon!
+\rHow about you try to catch some Pokémon!
+\rHow about you try to catch some Pokémon!
+\rOnce you think you are ready, visit me at the academia and we'll have battle.
+\rOnce you think you are ready, visit me at the academia and we'll have battle.
+\rIf you win, I'll grant you access to visit Brinkstone Cave. Probably where you want to head next.
+\rIf you win, I'll grant you access to visit Brinkstone Cave. Probably where you want to head next.
+\rSee ya soon!
+\rSee ya soon!
 Route 1
 Route 1
+\rI am your first challenger! I'll beat you!
+\rI am your first challenger! I'll beat you!
+Aww, I lost.
+Aww, I lost.
+\rGuess I'm off to training!
+\rGuess I'm off to training!
+\rThe winner is always decided before the battle.
+\rThe winner is always decided before the battle.
+Guess I lost huh
+Guess I lost huh
+\rStarly is a great Pokémon to learn with!
+\rStarly is a great Pokémon to learn with!
 [Map78]
+I should probably talk to Professor Maidenhair.
+I should probably talk to Professor Maidenhair.
+I should probably head to the Academia's Administration Room.
+I should probably head to the Academia's Administration Room.
+\rI heard that there are some scary Pokémon in Brinkstone Cave.
+\rI heard that there are some scary Pokémon in Brinkstone Cave.
 Academia City
 Academia City
+\bSorry can't let you pass... Rules are rules!
+\bSorry can't let you pass... Rules are rules!
 \bSorry, but Im busy restocking!
 \bSorry, but Im busy restocking!
+\bSome Pokémon require happiness to evolve.
+\bSome Pokémon require happiness to evolve.
 Medicham: Di di cham!
 Medicham: Di di cham!
 Medicham won't let you pass
 Medicham won't let you pass
-\bThe items I will sell are mostly gathered from Brinkstone Cave.
-\bThe items I will sell are mostly gathered from Brinkstone Cave.
+\rAre you ready to go?
+\rAre you ready to go?
 \rIsn't this place lovely?
 \rIsn't this place lovely?
+\bThe items I will sell are mostly gathered from Brinkstone Cave.
+\bThe items I will sell are mostly gathered from Brinkstone Cave.
+\rAh! \PN! You're here! I got a call from your mom that you were coming.
+\rAh! \PN! You're here! I got a call from your mom that you were coming.
+\rI am your teacher at Luxio Academia.
+\rI am your teacher at Luxio Academia.
+\rHowever your mom told me you know about everything already.
+\rHowever your mom told me you know about everything already.
+\rBUT!
+\rBUT!
+\rI can show you how to catch a Pokémon!
+\rI can show you how to catch a Pokémon!
+Yes
+Yes
+No
+No
 [Map79]
 \rHello, and welcome to the Pokémon Center.
 \rHello, and welcome to the Pokémon Center.
@@ -1157,39 +2445,363 @@ Yes
 No
 No
 [Map80]
+Eevee: Epui!
+Eevee: Epui!
 Nothing interesting inside
 Nothing interesting inside
+\bThe teacher told me to challenge you before class.
+\bThe teacher told me to challenge you before class.
+You are so strong!
+You are so strong!
+\bYou are really strong!
+\bYou are really strong!
+\bI learned how to catch pokémon here!
+\bI learned how to catch pokémon here!
+Dang! You are really strong!
+Dang! You are really strong!
+\bYou really are strong!
+\bYou really are strong!
+\bI learned that Bug types arent that strong in battle.
+\bI learned that Bug types arent that strong in battle.
+I should have won.
+I should have won.
+\bYou just lucked out.
+\bYou just lucked out.
+Luxio Academia
+Luxio Academia
+\rMy mom is the administrator of this Academia!
+\rMy mom is the administrator of this Academia!
+You really are strong!
+You really are strong!
+\rYou have potential!
+\rYou have potential!
+\rI like learning here!
+\rI like learning here!
+I'm just really unlucky.
+I'm just really unlucky.
+\rI am just really unlucky.
+\rI am just really unlucky.
 \bThis school is great! I used to give class here back in the day!
 \bThis school is great! I used to give class here back in the day!
+\rYou have to beat all the students in this classroom before we can begin!
+\rYou have to beat all the students in this classroom before we can begin!
+\rSo you've trained huh?
+\rSo you've trained huh?
+\rWell, let's see if you can beat some of my best students!
+\rWell, let's see if you can beat some of my best students!
+\rFirst off is Darek.
+\rFirst off is Darek.
+Ahw dang! I lost!
+Ahw dang! I lost!
+\bDarek: You're pretty good at this!
+\bDarek: You're pretty good at this!
+\rSo you've beaten Darek! You should heal up. Talk to me when you are ready to fight #2.
+\rSo you've beaten Darek! You should heal up. Talk to me when you are ready to fight #2.
+\rAre you ready to go on to round 2?
+\rAre you ready to go on to round 2?
+\rSecondly is Vanessa.
+\rSecondly is Vanessa.
+I almost won too!
+I almost won too!
+\rVanessa: It was a close one though!
+\rVanessa: It was a close one though!
+\rSo you've beaten Vanessa! You should heal up. Talk to me when you are ready for the last student.
+\rSo you've beaten Vanessa! You should heal up. Talk to me when you are ready for the last student.
+\rAre you ready to go on to round 3?
+\rAre you ready to go on to round 3?
+\rLastly is Jimmy.
+\rLastly is Jimmy.
+\rHe's my best student, good luck!
+\rHe's my best student, good luck!
+At least I still have my shorts!
+At least I still have my shorts!
+\bJimmy: I let you win alright.
+\bJimmy: I let you win alright.
+\rSo you've beaten all of my students... To get your diploma you'll still need to beat me...
+\rSo you've beaten all of my students... To get your diploma you'll still need to beat me...
+\rSo heal up and maybe train some more. And talk to me when you are ready!
+\rSo heal up and maybe train some more. And talk to me when you are ready!
+\rSo you are ready to battle?
+\rSo you are ready to battle?
+Good job!
+Good job!
+\rWell as promised, I will give you your diploma and access to Brinkstone Cave!
+\rWell as promised, I will give you your diploma and access to Brinkstone Cave!
+\rAlso, as a gift from the academia we give every student who gets their diploma a Pokémon.
+\rAlso, as a gift from the academia we give every student who gets their diploma a Pokémon.
+\rWhich would you prefer?
+\rWhich would you prefer?
+\rYou might also want to take this.
+\rYou might also want to take this.
+\rThat's Work Up, a move that makes your Pokémon stronger in battle.
+\rThat's Work Up, a move that makes your Pokémon stronger in battle.
+\rI wish you good luck!
+\rI wish you good luck!
+\rCome back when you are ready!
+\rCome back when you are ready!
+\rDon't push yourself too hard!
+\rDon't push yourself too hard!
+\bThis academia provides all the things you need for your adventures!
+\bThis academia provides all the things you need for your adventures!
+Yes
+Yes
+No
+No
+Togepi
+Togepi
+Happiny
+Happiny
+Azurill
+Azurill
+Pichu
+Pichu
 [Map81]
+Channn
+Channn
+\bI can't read these ancient texts!
+\bI can't read these ancient texts!
 The road is blocked
 The road is blocked
+\r???: Hey! Help me out here!
+\r???: Hey! Help me out here!
+\r???: I'm kinda losing!
+\r???: I'm kinda losing!
+\r???: Oh no! Poliwhirl!!! Please someone help!
+\r???: Oh no! Poliwhirl!!! Please someone help!
+You went to go and help out.
+You went to go and help out.
+\r???: Oh! If it isn't... erm...
+\r???: Oh! If it isn't... erm...
+\r\PN right?
+\r\PN right?
+\r???: Thanks for coming! Otto said he needed to see what you were doing. But it seems that isn't needed anymore.
+\r???: Thanks for coming! Otto said he needed to see what you were doing. But it seems that isn't needed anymore.
+\r... Oh right! This regirock!
+\r... Oh right! This regirock!
+\rCould you please like... Weaken it?
+\rCould you please like... Weaken it?
+Regirock: Urrrr!!!
+Regirock: Urrrr!!!
+\b???: HOLD IT!!!
+\b???: HOLD IT!!!
+\b???: This belongs... to me...
+\b???: This belongs... to me...
+\r???: Huh?! What was that?!
+\r???: Huh?! What was that?!
+\rOh! By the way! I'm professor Maidenhair, I totally forgot to mention!
+\rOh! By the way! I'm professor Maidenhair, I totally forgot to mention!
+\rProfessor Maidenhair: But who was that???
+\rProfessor Maidenhair: But who was that???
+\rAnd why would he take Regirock?
+\rAnd why would he take Regirock?
+You explained what happened on Norpeak Island.
+You explained what happened on Norpeak Island.
+\rSo... The woman who took Regice must've been related somewhat to the man who took Regirock!
+\rSo... The woman who took Regice must've been related somewhat to the man who took Regirock!
+\rHmmmm....
+\rHmmmm....
+\rRightful eh... I don't think is gonna end well...
+\rRightful eh... I don't think is gonna end well...
+\rThey are probably planning on awakening Regigigas. But for that they'll need Registeel!
+\rThey are probably planning on awakening Regigigas. But for that they'll need Registeel!
+\rBut Registeel hasn't been seen in... ages!
+\rBut Registeel hasn't been seen in... ages!
+\rAnd Regigigas is locked away in the cave of... ...
+\rAnd Regigigas is locked away in the cave of... ...
+\rWAIT!
+\rWAIT!
+\rI think I know where they might be headed next!
+\rI think I know where they might be headed next!
+\rI will talk to you later! I'm going to do some research on this!
+\rI will talk to you later! I'm going to do some research on this!
+\rHow about you go north to train in Cyberhole City. I heard they opened a new gym for beginners!
+\rHow about you go north to train in Cyberhole City. I heard they opened a new gym for beginners!
+\rSee ya!
+\rSee ya!
 Flareon: Fllaaarree!
 Flareon: Fllaaarree!
+Ekans: Sssss...
+Ekans: Sssss...
+Sandshrew: Saannndd..!
+Sandshrew: Saannndd..!
 Growlite: Growlll!
 Growlite: Growlll!
+\bThis place hasn't been fully discovered, so I'm trying my best of luck!
+\bThis place hasn't been fully discovered, so I'm trying my best of luck!
 [Map82]
+\bI am a student in the Luxio Academia.
+\bI am a student in the Luxio Academia.
+\bTeach told me to investigate the cave!
+\bTeach told me to investigate the cave!
+\bI like to catch bugs!
+\bI like to catch bugs!
+I guess this cave isn't the place to look.
+I guess this cave isn't the place to look.
+\bI guess this cave isn't the place to look.
+\bI guess this cave isn't the place to look.
+<<[>>...<<]>>
+<<[>>...<<]>>
+\bHEEYA!
+\bHEEYA!
+I need more training!
+I need more training!
+\bTraining in caves is optimal!
+\bTraining in caves is optimal!
+\bI don't think this place is safe for kids.
+\bI don't think this place is safe for kids.
+Aww, I lost.
+Aww, I lost.
+\bApparently you are much safer than I am!
+\bApparently you are much safer than I am!
+\bI'll show you how strong I am.
+\bI'll show you how strong I am.
+Gotta try harder next time.
+Gotta try harder next time.
+\bI gotta try harder next time.
+\bI gotta try harder next time.
 Brinkstone Cave
 Brinkstone Cave
+\bHUAAH!
+\bHUAAH!
+\bFighting type Pokémon are fascinating
+\bFighting type Pokémon are fascinating
+\b:D
+\b:D
+\bThe Pokémon in this cave are crazy strong!
+\bThe Pokémon in this cave are crazy strong!
+\bOh! Hi \PN! Professor Maidenhair asked me to check for hidden spots in this cave.
+\bOh! Hi \PN! Professor Maidenhair asked me to check for hidden spots in this cave.
+\bApparently this ladder links up to some place with high energy levels.
+\bApparently this ladder links up to some place with high energy levels.
+\bAllow me to help you out here!
+\bAllow me to help you out here!
+\bThere!
+\bThere!
+\bI hope this helps you out! I have to go back and report to Professor Maidenhair!
+\bI hope this helps you out! I have to go back and report to Professor Maidenhair!
+\bI wish you good luck!
+\bI wish you good luck!
+HEY!
+HEY!
+\bMy name is Otto, I live next to you!
+\bMy name is Otto, I live next to you!
+\bI heard from Professor Maidenhair that you left town to become a Pokémon trainer.
+\bI heard from Professor Maidenhair that you left town to become a Pokémon trainer.
+\bSo I backtracked to meet you, and here you are!
+\bSo I backtracked to meet you, and here you are!
+\bLet's have a battle! I want to see how strong you are!
+\bLet's have a battle! I want to see how strong you are!
+\bNot as if you're gonna win...
+\bNot as if you're gonna win...
+Beginners luck...
+Beginners luck...
+\bYou only won because I let you win.
+\bYou only won because I let you win.
+\bBy the way, professor Maidenhair said something was wrong at \c[4]Norpeak Island?
+\bBy the way, professor Maidenhair said something was wrong at \c[4]Norpeak Island?
+\bYou should probably check it out. Just take the boat at \c[4]New Harbour Town \bpast this cave.
+\bYou should probably check it out. Just take the boat at \c[4]New Harbour Town \bpast this cave.
+\bProfessor Maidenhair said she needed me for something so I guess I'll go check it out.
+\bProfessor Maidenhair said she needed me for something so I guess I'll go check it out.
+\bJust go and check out Norpeak...
+\bJust go and check out Norpeak...
+\bYou're pathetic... See ya loser!
+\bYou're pathetic... See ya loser!
+\bI almost collected every single gem in this cave!
+\bI almost collected every single gem in this cave!
+\rThe water in this cave is suspicously warm.
+\rThe water in this cave is suspicously warm.
+Hehe!
+Hehe!
+\rI wonder what makes it so warm.
+\rI wonder what makes it so warm.
 [Map83]
 Theres an ancient text on it
 Theres an ancient text on it
+\rAre you familiar with the Pokémon ARCEUS?
+\rAre you familiar with the Pokémon ARCEUS?
+\rI see then....
+\rI see then....
+\rArceus is a mythical Pokémon who is said to be the GOD of all Pokémon. And that it created the entire universe with it's thousand arms.
+\rArceus is a mythical Pokémon who is said to be the GOD of all Pokémon. And that it created the entire universe with it's thousand arms.
+\rDon't you think Unown has anything to do with it?
+\rDon't you think Unown has anything to do with it?
+\rOh!
+\rOh!
+Yes
+Yes
+No
+No
 [Map84]
 [Map85]
+\rBrrr... It's pretty cold!
+\rBrrr... It's pretty cold!
+Brrr
+Brrr
+\rIce types are strong against grass types!
+\rIce types are strong against grass types!
 \rThe snow makes my eyes pop out!
 \rThe snow makes my eyes pop out!
 Atleast MY Pokémon are cute.
 Atleast MY Pokémon are cute.
 \rIm not saying your Pokémon are not cute... but your Pokémon are not cute.
 \rIm not saying your Pokémon are not cute... but your Pokémon are not cute.
+\rHailgem City is a nice place to live.
+\rHailgem City is a nice place to live.
+I like the snow.
+I like the snow.
+\rEven in the summer it snows here, but it is still fine!
+\rEven in the summer it snows here, but it is still fine!
 [Map86]
+\rNew Harbour Town is amazing!
+\rNew Harbour Town is amazing!
+I love the smell of salt!
+I love the smell of salt!
+\rI love the smell of salt!
+\rI love the smell of salt!
+\bI love exploring!
+\bI love exploring!
+I loved this battle!
+I loved this battle!
+\bSome Pokémon evolve in specific locations!
+\bSome Pokémon evolve in specific locations!
 [Map87]
+Meganium: Nium! Meganium!
+Meganium: Nium! Meganium!
 \bI like watching the waves...
 \bI like watching the waves...
+\bYou want me to take you to Norpeak Island you say?
+\bYou want me to take you to Norpeak Island you say?
+\bProfessor Maidenhair said there's something wrong there?
+\bProfessor Maidenhair said there's something wrong there?
+\bLook, I want to bring you there.
+\bLook, I want to bring you there.
+\bBut I'll need permission from the lighthouse owner to leave the docks.
+\bBut I'll need permission from the lighthouse owner to leave the docks.
+\bI would go in there myself to ask, but I need to keep watch over my boat.
+\bI would go in there myself to ask, but I need to keep watch over my boat.
+\bSo we have permission?
+\bSo we have permission?
+...
+...
+\bI see, he even wrote a permission card. Great!
+\bI see, he even wrote a permission card. Great!
+\bWe're going to Norpeak Island?
+\bWe're going to Norpeak Island?
+\bWhere are we going?
+\bWhere are we going?
+\bI enjoy the little things.
+\bI enjoy the little things.
 \bMost Legendary Pokémon are said to be Dragon type because there aren't that many Dragon Type Pokémon...
 \bMost Legendary Pokémon are said to be Dragon type because there aren't that many Dragon Type Pokémon...
 \bBut then again, Ghost type is pretty rare too.
 \bBut then again, Ghost type is pretty rare too.
+Bzzz bzzz...
+Bzzz bzzz...
+Hey there! It is your "mom". You should call me that at least. However, Professor Maidenhair seems to have some trouble in the Deserted Path. Maybe it has something to do with Regirock? You should go and check it out!
+Hey there! It is your "mom". You should call me that at least. However, Professor Maidenhair seems to have some trouble in the Deserted Path. Maybe it has something to do with Regirock? You should go and check it out!
+... ...
+... ...
 \bHey! I like to fish. You can get amazing items while fishing!
 \bHey! I like to fish. You can get amazing items while fishing!
 \bHere, take this. I got this item a few minutes ago.
@@ -1198,36 +2810,208 @@ You can now fish wild Pokémon by transforming into a Slowpoke.
 You can now fish wild Pokémon by transforming into a Slowpoke.
 \bIsn't fishing amazing?!
 \bIsn't fishing amazing?!
+\bWhen I was younger, this place was called Harbour Farmland City. A ton of farmers would live here because it is close to the sea. Easy for export.
+\bWhen I was younger, this place was called Harbour Farmland City. A ton of farmers would live here because it is close to the sea. Easy for export.
 New Harbour Town - Enjoy the relaxing sound of the sea.
 New Harbour Town - Enjoy the relaxing sound of the sea.
 \rNew Harbour Town is a nice place to live. The sea is nearby, and it is always quiet.
 \rNew Harbour Town is a nice place to live. The sea is nearby, and it is always quiet.
+\bI am still setting up... But if you come back another time. I might be able to sell you something great!
+\bI am still setting up... But if you come back another time. I might be able to sell you something great!
+\bI am almost finished setting up... Please come back later!
+\bI am almost finished setting up... Please come back later!
+Blis blis!
+Blis blis!
+Blissey offered to heal up your Pokémon.
+Blissey offered to heal up your Pokémon.
+Heal your Pokémon?
+Heal your Pokémon?
+Mi- mime...mimic
+Mi- mime...mimic
+Yes
+Yes
+No
+No
+Norpeak Island
+Norpeak Island
+Whirl Islands
+Whirl Islands
+Bell Tower (Johto)
+Bell Tower (Johto)
+Sky Pillar (Hoenn)
+Sky Pillar (Hoenn)
 [Map88]
 [Map89]
+\bCap: By the way, I forgot to mention.
+\bCap: By the way, I forgot to mention.
+\bThe next gym you should challenge is in Hailgem City.
+\bThe next gym you should challenge is in Hailgem City.
+\bIt is north of Cyberhole City. You can go there by boat!
+\bIt is north of Cyberhole City. You can go there by boat!
 \bTalking to people can be very useful!
 \bTalking to people can be very useful!
 Diglett: Dig dig!
 Diglett: Dig dig!
+\bAfter a tough battle you can always return to the Poké Center to heal up.
+\bAfter a tough battle you can always return to the Poké Center to heal up.
+\bHeya! How are ya?
+\bHeya! How are ya?
+\bYou don't seem to be like that other girl.
+\bYou don't seem to be like that other girl.
+\bShe said her name was Alice?
+\bShe said her name was Alice?
+\bHaha, I'm the gymleader on this island... \bI specialize in Water and Dark types... But I don't recommend you try to challenge me now!
+\bHaha, I'm the gymleader on this island... \bI specialize in Water and Dark types... But I don't recommend you try to challenge me now!
+\bI think I am too strong for you at the moment...
+\bI think I am too strong for you at the moment...
+\bMy name is Cal so you know... But most people call me Cap since I used to be a captain.
+\bMy name is Cal so you know... But most people call me Cap since I used to be a captain.
+\bWell, I hope to see you soon pal!
+\bWell, I hope to see you soon pal!
+I'm too weak to challenge the gym just yet!
+I'm too weak to challenge the gym just yet!
+\bGo back to New Harbour Town?
+\bGo back to New Harbour Town?
+\bWhere to?
+\bWhere to?
+\rThis place is too dangerous! Especially right now after that Regice incident!
+\rThis place is too dangerous! Especially right now after that Regice incident!
+\bOtto: Yo loser! It's time for another battle!
+\bOtto: Yo loser! It's time for another battle!
+\bI want to beat you again, I'll need the experience you know!
+\bI want to beat you again, I'll need the experience you know!
+\bThis time I won't lose because I just know it!
+\bThis time I won't lose because I just know it!
+\bThat is none of your business! Now let's battle!
+\bThat is none of your business! Now let's battle!
+I wasn't even trying!
+I wasn't even trying!
+\bYou're so weak you can't even beat me while I'm not even trying!
+\bYou're so weak you can't even beat me while I'm not even trying!
+\bSee ya loser!
+\bSee ya loser!
+\bThat's what I thought!
+\bThat's what I thought!
+\rProfessor Maidenhair: Now, we've arrived at Norpeak Island.
+\rProfessor Maidenhair: Now, we've arrived at Norpeak Island.
+\rLike I said, if you need me. I'm at my lab.
+\rLike I said, if you need me. I'm at my lab.
+\rGood luck on your battle with Cap, he's pretty tough!
+\rGood luck on your battle with Cap, he's pretty tough!
+Yes
+Yes
+No
+No
+New Harbour Town
+New Harbour Town
+Hailgem City
+Hailgem City
+P2 Laboratory (Unova)
+P2 Laboratory (Unova)
+Cave Of Creation
+Cave Of Creation
+Why are you here?
+Why are you here?
+How did you get here?
+How did you get here?
 [Map90]
+Regice: Eeeeuuuuiiii!!!
+Regice: Eeeeuuuuiiii!!!
+\r???: Stop right there Regice!
+\r???: Stop right there Regice!
+\r???: Regice, thank you for freezing the island...
+\r???: Regice, thank you for freezing the island...
+\rBut...
+\rBut...
+\r???: You're still coming with me!
+\r???: You're still coming with me!
+\r???: That was quite easy!
+\r???: That was quite easy!
+\r???: And who might you be?
+\r???: And who might you be?
+\r???: Hmmm... I should report you to miss...
+\r???: Hmmm... I should report you to miss...
+\r???: Something is odd about you.
+\r???: Something is odd about you.
+\r???: I'll tell you my name!
+\r???: I'll tell you my name!
+\r???: I am 6th ranked Rightful Admin, Alice...
+\r???: I am 6th ranked Rightful Admin, Alice...
+\rAlice: Please tell me your name.
+\rAlice: Please tell me your name.
+. . .
+. . .
+\rAlice: \PN, you're coming with me...
+\rAlice: \PN, you're coming with me...
+\rAlice: For a little... Experiment...
+\rAlice: For a little... Experiment...
+\b???: Hold it!
+\b???: Hold it!
+\rAlice: And who might you be?!
+\rAlice: And who might you be?!
+\bGymleader: I am the Gym Leader of Norpeak Island...
+\bGymleader: I am the Gym Leader of Norpeak Island...
+\bGymleader: And you'll fix all of this right now!
+\bGymleader: And you'll fix all of this right now!
+\rAlice: Whatever... My mission is done anyways. Have a great day old man!
+\rAlice: Whatever... My mission is done anyways. Have a great day old man!
+The ice started to melt...
+The ice started to melt...
+Blissey: Blllllliss....!
+Blissey: Blllllliss....!
+You want to heal?
+You want to heal?
+\bWe've arrived at Norpe...
+\bWe've arrived at Norpe...
+\b...
+\b...
+\bUhmm....
+\bUhmm....
+\bThis place is supposed to be... Like... Warm...?
+\bThis place is supposed to be... Like... Warm...?
+\bSo why is it frozen?
+\bSo why is it frozen?
+\bMaybe something happened?
+\bMaybe something happened?
+\bI don't think this place ever get's colder than 18 degrees celsius in the winter...
+\bI don't think this place ever get's colder than 18 degrees celsius in the winter...
+\bSo why is it freezing?
+\bSo why is it freezing?
+\bYou should go check it out! I'll be here if you want to go back!
+\bYou should go check it out! I'll be here if you want to go back!
+\bGo back to New Harbour Town?
+\bGo back to New Harbour Town?
+Yes
+Yes
+No
+No
 [Map91]
-Eine schöne Aussicht.
-Eine schöne Aussicht.
-Allerdings solltest ich nun zu meiner Mutter.
-Allerdings solltest ich nun zu meiner Mutter.
-Ein paar eingestaubte Bücher.
-Ein paar eingestaubte Bücher.
-Hmm ich sollte bevor ich los gehe meine E-Mails checken.
-Hmm ich sollte bevor ich los gehe meine E-Mails checken.
-Woah, was zur Hölle...
- Woah, was zur Hölle...
-Ein komischer Traum... irgendetwas fühlt sich in mir komisch an...
-Ein komischer Traum... irgendetwas fühlt sich in mir komisch an...
-irgendwie... irgendwie so leer, so unwissend...
-irgendwie... irgendwie so leer, so unwissend...
 [Map92]
+\bDragon types are amazing!
+\bDragon types are amazing!
+Dragonair: Dragoo!
+Dragonair: Dragoo!
 [Map93]
+\bDon't worry! Haunter won't hurt anyone!
+\bDon't worry! Haunter won't hurt anyone!
 [Map94]
+\bIsn't Ditto a fascinating pokémon?!
+\bIsn't Ditto a fascinating pokémon?!
+\bI mean! It can turn into anything!!
+\bI mean! It can turn into anything!!
+\bThat is just amazing!
+\bThat is just amazing!
+Ditto: Ditto!
+Ditto: Ditto!
+\bDitto is a normal type by default, but by transforming it can change into any type!
+\bDitto is a normal type by default, but by transforming it can change into any type!
 [Map95]
+\bIsn't Luxray the best pokémon?
+\bIsn't Luxray the best pokémon?
+Shinx: Shiinn!!
+Shinx: Shiinn!!
+\rI'm making something for Shinx.
+\rI'm making something for Shinx.
 [Map96]
 \rHello, and welcome to the Pokémon Center.
 \rHello, and welcome to the Pokémon Center.
@@ -1264,6 +3048,10 @@ Yes
 No
 No
 [Map97]
+\bThe reason this place is much colder than Deserted Path is because we're much higher.
+\bThe reason this place is much colder than Deserted Path is because we're much higher.
+\bYou wouln't notice going uphill in the gate.
+\bYou wouln't notice going uphill in the gate.
 \bI'm sorry but you are not allowed any farther.
 \bI'm sorry but you are not allowed any farther.
 \bA few houndreds of years ago this city was struck by a meteor fall.
@@ -1274,6 +3062,14 @@ No
 \bAltough many people believe the meteor also contained DNA of a mythical pokémon.
 Cyberhole City Gym\nGym Leader : Hayden
 Cyberhole City Gym\nGym Leader : Hayden
+\rProfessor Maidenhair: Hey! I figured out where team Rightful is headed next.
+\rProfessor Maidenhair: Hey! I figured out where team Rightful is headed next.
+\rIt is this island far off the coast of the region.
+\rIt is this island far off the coast of the region.
+\rBut I know how to get there.
+\rBut I know how to get there.
+\rBut we have to act quick before we are too late. So we're leaving now!
+\rBut we have to act quick before we are too late. So we're leaving now!
 [Map98]
 \rHello, and welcome to the Pokémon Center.
 \rHello, and welcome to the Pokémon Center.
@@ -1316,19 +3112,201 @@ Guess I miscalculated that!
 Guess I miscalculated that!
 \bWhat did I do wrong?
 \bWhat did I do wrong?
+\bYou will not be able to defeat the gymleader here!
+\bYou will not be able to defeat the gymleader here!
+Well... Nevermind then!
+Well... Nevermind then!
+\bErmm... Go ahead and battle the gymleader!
+\bErmm... Go ahead and battle the gymleader!
+\bAh! If it isn't \PN!
+\bAh! If it isn't \PN!
+\bYour 'friend' was here earlier this week. And he told me you were going to pop up here sometime soon.
+\bYour 'friend' was here earlier this week. And he told me you were going to pop up here sometime soon.
+\bHe said something in the direction of: Someone like me? And something along the way of: I'll show 'em how things go around here!
+\bHe said something in the direction of: Someone like me? And something along the way of: I'll show 'em how things go around here!
+\bHe didn't sound very glad when he heard you were coming?
+\bHe didn't sound very glad when he heard you were coming?
+\bBut that is none of my business.
+\bBut that is none of my business.
+\bYou are here to challenge me!
+\bYou are here to challenge me!
+\bI wish you the best of luck!
+\bI wish you the best of luck!
+\bNow try me!
+\bNow try me!
+Congratulations on beating the Cyberhole City Gym!
+Congratulations on beating the Cyberhole City Gym!
+\bJust like my prediction, you were able to beat me.
+\bJust like my prediction, you were able to beat me.
+\bAnd thereby I shall grant you this badge!
+\bAnd thereby I shall grant you this badge!
+\b\PN \c[0]received the \rCyber Badge.
+\b\PN \c[0]received the \rCyber Badge.
+\bCongratulations!
+\bCongratulations!
+\bAlso, take this.
+\bAlso, take this.
+\bIt's the TM for flashcannon.
+\bIt's the TM for flashcannon.
+\bI hope you get to use it.
+\bI hope you get to use it.
+\bYou were just too strong, just like I predicted!
+\bYou were just too strong, just like I predicted!
+\bHello and welcome to the Cyberhole City Gym!
+\bHello and welcome to the Cyberhole City Gym!
+\bThis gym specializes in the Steel type. Ground, Fighting and Fire types are recommended for battling!
+\bThis gym specializes in the Steel type. Ground, Fighting and Fire types are recommended for battling!
+Magnemite: Budee!!!
+Magnemite: Budee!!!
 [Map100]
+\bAre we going back to Norpeak Island?
+\bAre we going back to Norpeak Island?
+:.::'..:
+:.::'..:
+\rIs there anything you need?
+\rIs there anything you need?
+\rInside is Team Rightful. They are trying to awaken Regigigas. We are here to stop them.
+\rInside is Team Rightful. They are trying to awaken Regigigas. We are here to stop them.
+\rI'll heal your Pokémon
+\rI'll heal your Pokémon
+\rThere you go!
+\rThere you go!
+\rDon't black out again!
+\rDon't black out again!
+\rI'll bring you to Norpeak Island, if you need me. I'm in my lab in Titan Town.
+\rI'll bring you to Norpeak Island, if you need me. I'm in my lab in Titan Town.
+\rAlso, I forgot to give this to you, so here you go!
+\rAlso, I forgot to give this to you, so here you go!
+\PN received a Pokédex!
+\PN received a Pokédex!
+Yes
+Yes
+No
+No
+What do I do?
+What do I do?
+Rest
+Rest
+PC
+PC
+Shop
+Shop
 [Map101]
+\bVedetta: You two, deal with him, I will get the big one!
+\bVedetta: You two, deal with him, I will get the big one!
+\rHOLD IT!
+\rHOLD IT!
+\rProfessor Maidenhair: \PN I'll help you out.
+\rProfessor Maidenhair: \PN I'll help you out.
+\bJo: Whatever...
+\bJo: Whatever...
+Pathetic
+Pathetic
+Time is all we needed.
+Time is all we needed.
+\rAlice: Time is all we needed anyways...
+\rAlice: Time is all we needed anyways...
+\bVedetta: We're done here...
+\bVedetta: We're done here...
+\rProfessor Maidenhair: Dammit, they got away.
+\rProfessor Maidenhair: Dammit, they got away.
+\rI'm sure we will hear from those guys, or at least the other members again.
+\rI'm sure we will hear from those guys, or at least the other members again.
+\rBut we both are still too weak...
+\rBut we both are still too weak...
+\rOtto told me he went to the Norpeak Island gym. \rI'm pretty sure you know the gymleader, Cal?
+\rOtto told me he went to the Norpeak Island gym. \rI'm pretty sure you know the gymleader, Cal?
+\rYou should head there, I'll bring you over there.
+\rYou should head there, I'll bring you over there.
+\rTalk to me outside when you are ready to leave...
+\rTalk to me outside when you are ready to leave...
 I cannot leave now
 I cannot leave now
+\rAlice: You're too late kid...
+\rAlice: You're too late kid...
+\b???: Jo handle this intruder.
+\b???: Jo handle this intruder.
+\bJo: Vedetta, we are kind of starting already...
+\bJo: Vedetta, we are kind of starting already...
+\bVedetta: Alright, we will do this quickly and then stop this intruder.
+\bVedetta: Alright, we will do this quickly and then stop this intruder.
+\rAlice: OK, let's do this.
+\rAlice: OK, let's do this.
 [Map102]
+SPRRRRRITT
+SPRRRRRITT
+Norpeak Tomb
+Norpeak Tomb
+People say it is too dangerous and is easy to get lost.
+People say it is too dangerous and is easy to get lost.
 [Map103]
+\rI will take you down!
+\rI will take you down!
+Cap is my hero!
+Cap is my hero!
+\rI have heard from others that Cap has taken down multiple Sea Legendaries!
+\rI have heard from others that Cap has taken down multiple Sea Legendaries!
+\bHello and welcome to the Norpeak Island Gym!
+\bHello and welcome to the Norpeak Island Gym!
+\bThis gym specializes in the Water and Dark type. Grass, Fighting, Electric and Bug types are recommended for battling!
+\bThis gym specializes in the Water and Dark type. Grass, Fighting, Electric and Bug types are recommended for battling!
+\bCap: I guess we meet again, but in a different scenario...
+\bCap: I guess we meet again, but in a different scenario...
+\bLet's not waste time here, let's go!
+\bLet's not waste time here, let's go!
+Hmm, not bad!
+Hmm, not bad!
+\bCongratulations! You've proven yourself!
+\bCongratulations! You've proven yourself!
+\bYou have shown me you are strong enough.
+\bYou have shown me you are strong enough.
+\bTake this as proof of beating me!
+\bTake this as proof of beating me!
+\b\PN \c[0]received the \rDeep Badge.
+\b\PN \c[0]received the \rDeep Badge.
+\bThis badge proves that you have beaten me.
+\bThis badge proves that you have beaten me.
+\bAlso, take this.
+\bAlso, take this.
+\bIt contains Payback, a dark type move.
+\bIt contains Payback, a dark type move.
+\bYou only need 6 more badges to continue to the league...
+\bYou only need 6 more badges to continue to the league...
+\bGood luck!
+\bGood luck!
+\bShow the league who's the real champion!
+\bShow the league who's the real champion!
 Norpeak Island Gym\nGymleader: Captain "Cap" Cal
 Norpeak Island Gym\nGymleader: Captain "Cap" Cal
+\bI'll show you the power of the sea!
+\bI'll show you the power of the sea!
+Instead it went upshore...
+Instead it went upshore...
+\bI get to swim all day AND get payed!
+\bI get to swim all day AND get payed!
 [Map104]
+Raarrww
+Raarrww
+Mightyena is closely watching your movements...
+Mightyena is closely watching your movements...
 [Map105]
+\rDoing chores is good for your mental health.
+\rDoing chores is good for your mental health.
+\bMy wife is always bragging about chores and stuff...
+\bMy wife is always bragging about chores and stuff...
+\b"Just let me be ok!"
+\b"Just let me be ok!"
 [Map106]
+\bI have books about all kinds of Pokémon!
+\bI have books about all kinds of Pokémon!
 [Map107]
+\bMy granddaughter almost never visits.
+\bMy granddaughter almost never visits.
+\bI absolutely get that she's way too busy at the league. But at least call me once or twice.
+\bI absolutely get that she's way too busy at the league. But at least call me once or twice.
 [Map108]
+\bI used to have a farm in this town, but the government had it shut down for their new harbour...
+\bI used to have a farm in this town, but the government had it shut down for their new harbour...
 There's something on the screen...
 There's something on the screen...
 ZzzzzzZZzzZz
@@ -1337,9 +3315,23 @@ The screen is flickering...
 The screen is flickering...
 ZZZzZZzzzZZzzZZZZz
 ZZZzZZzzzZZzzZZZZz
+\rHello, welcome to The House of Nature. Please take a seat.
+\rHello, welcome to The House of Nature. Please take a seat.
+\rSymmetry is perfection
+\rSymmetry is perfection
+\bI come here everyday to relax and become myself.
+\bI come here everyday to relax and become myself.
 [Map109]
+\bMy boat is the best you can find all over the region!
+\bMy boat is the best you can find all over the region!
 [Map110]
+\rMy brother believes that Ghost type Pokémon used to be humans. He is so stupid!
+\rMy brother believes that Ghost type Pokémon used to be humans. He is so stupid!
+\bGhost type Pokémon are called Ghost type for a reason right? Have you heard what they said about the Pokémon Yamask?!
+\bGhost type Pokémon are called Ghost type for a reason right? Have you heard what they said about the Pokémon Yamask?!
 [Map111]
+\bI heard rumors about some organisation. They claim to be gods.
+\bI heard rumors about some organisation. They claim to be gods.
 [Map112]
 \bHello, hello!\nI am the official Name Rater!
 \bHello, hello!\nI am the official Name Rater!
@@ -1382,7 +3374,21 @@ Yes
 No
 No
 [Map113]
+\rMy house often gets visited by random strangers.
+\rMy house often gets visited by random strangers.
+\bIt is nice and warm in here isn't it?
+\bIt is nice and warm in here isn't it?
+\rBug type Pokémon are often associated with Grass types. But they are totally different!
+\rBug type Pokémon are often associated with Grass types. But they are totally different!
+\bIt is said that Spiritomb are 108 spirits or souls trapped inside a keystone.
+\bIt is said that Spiritomb are 108 spirits or souls trapped inside a keystone.
 [Map114]
+\rLegendary Pokémon are facinating. It is said that Regice is able to withstand the heat of lava even though it is made of ice.
+\rLegendary Pokémon are facinating. It is said that Regice is able to withstand the heat of lava even though it is made of ice.
+\bIt is said that the Pokémon Magcargo is hotter than the sun. But it is just a misunderstanding of what they actually meant.
+\bIt is said that the Pokémon Magcargo is hotter than the sun. But it is just a misunderstanding of what they actually meant.
+\bMost Fire type Pokémon actually use chemicals inside their bodies to breathe fire.
+\bMost Fire type Pokémon actually use chemicals inside their bodies to breathe fire.
 [Map115]
 Dragon type pokémon are amazing!
 Dragon type pokémon are amazing!
@@ -1398,35 +3404,83 @@ My favorite Dragon type pokémon is either Dragonite or Salamence.
 My favorite Dragon type pokémon is either Dragonite or Salamence.
 [Map116]
 [Map117]
+a
+a
 \rWhen I feel stressed I go to The House Of Nature in New Harbour Town.
 \rWhen I feel stressed I go to The House Of Nature in New Harbour Town.
 \bI just saw a woman run into the cave behind me.
 \bI just saw a woman run into the cave behind me.
 \bI didn't see her face but she looked a bit like the \rGym Leader
 \bI didn't see her face but she looked a bit like the \rGym Leader
+\bPeople here often take the boat to New Harbour Town.
+\bPeople here often take the boat to New Harbour Town.
 \bThe most common Pokémon type is water, that is because most of the planet is covered in water.
 \bThe most common Pokémon type is water, that is because most of the planet is covered in water.
 \bThe least common type is the ice type. This is because living beings need warmth to survive and only a few can adapt to harsh tempratures.
 \bThe least common type is the ice type. This is because living beings need warmth to survive and only a few can adapt to harsh tempratures.
 \bIsn't that fascinating?
 \bIsn't that fascinating?
+\bOtto: Hey! \PN! I just found her!
+\bOtto: Hey! \PN! I just found her!
+\bThe gymleader. She just came from the Pokécenter and is now inside the gym!
+\bThe gymleader. She just came from the Pokécenter and is now inside the gym!
+\bI'm going to beat the gym before you do!
+\bI'm going to beat the gym before you do!
 \bWhere to?
 \bWhere to?
-Hailgem City
-Hailgem City
+\r???: No no no! This cannot be happening right now!
+\r???: No no no! This cannot be happening right now!
+\r???: I'll check \bFrostbyte Mountain \rmyself
+\r???: I'll check \bFrostbyte Mountain \rmyself
 Hailgem City Gym - Leader, Nina
 Hailgem City Gym - Leader, Nina
+Hailgem City
+Hailgem City
+\bUrgghhh....
+\bUrgghhh....
+\b...
+\b...
+\bWHAT ARE YOU DOING HERE?!?!
+\bWHAT ARE YOU DOING HERE?!?!
+\bWhy did you sneak up on me like that!
+\bWhy did you sneak up on me like that!
+\bI see, you want to challenge the gym too.\n<fs=22>Like you can win
+\bI see, you want to challenge the gym too.\n<fs=22>Like you can win
+\bWe cannot challenge the gym yet though... The gym leader is gone...
+\bWe cannot challenge the gym yet though... The gym leader is gone...
+\bThey said she left in a hurry but don't know where to.
+\bThey said she left in a hurry but don't know where to.
+\bYou know what, why don't you try to find her and I'll stay here to level my Pokémon with these \c[5]Rare Candies\b.
+\bYou know what, why don't you try to find her and I'll stay here to level my Pokémon with these \c[5]Rare Candies\b.
+\bWhat, you want one too? Get out of here!
+\bWhat, you want one too? Get out of here!
+\bC'mon find her already!
+\bC'mon find her already!
 Norpeak Island
 Norpeak Island
 New Harbour Town
 New Harbour Town
 [Map118]
+\bDid you know that the Pokémon Rotom can posess machines?
+\bDid you know that the Pokémon Rotom can posess machines?
+\bFacinating right?!
+\bFacinating right?!
+\rWelcome to the New Harbour Lighthouse!
+\rWelcome to the New Harbour Lighthouse!
+...
+...
+\rThe captain is upstairs.
+\rThe captain is upstairs.
+Do you want to turn on the radio?
+Do you want to turn on the radio?
+Do you want to turn off the radio?
+Do you want to turn off the radio?
+\bWorking here isn't a bit easy!
+\bWorking here isn't a bit easy!
 \bLighthouse Owner: You shoudn't have come here...
 \bLighthouse Owner: You shoudn't have come here...
 \bI didn't mean you there child. I meant the intruders.
 \bI didn't mean you there child. I meant the intruders.
-...
-...
 \rHow did you know we were here?
 \rHow did you know we were here?
 \bWe were hidden the whole time!
@@ -1451,64 +3505,58 @@ You weren't even the target.
 \bNow go, check out what is going on over there!
 \bThis is not over!
 \bThis is not over!
+Yes
+Yes
+No
+No
 Male
 Male
 Female
 Female
 [Map119]
 [Map120]
-Wähle deinen gewünschten Spielmodus.
-Wähle deinen gewünschten Spielmodus.
-Im normalem Modus ist keine Nuzlocke verfügbar. Es gibt keine weitere Einstellungen für Kämpfe.
-Im normalem Modus ist keine Nuzlocke verfügbar. Es gibt keine weitere Einstellungen für Kämpfe.
-Möchtest du fortfahren?
-Möchtest du fortfahren?
-\bAls welches Geschlecht möchtest du spielen?
-\bAls welches Geschlecht möchtest du spielen?
-\b...
-\b...
-\bDie Welt ist kurz davor ins Chaos gestürzt zu werden...
-\bDie Welt ist kurz davor ins Chaos gestürzt zu werden...
-Wir wünschen dir viel Spaß mit dem Spiel.
-Wir wünschen dir viel Spaß mit dem Spiel.
-Im Hardmode wird eine Nuzlocke gespielt, dieses Spiel verfügt über ein eingebautes Nuzlocke System welches du beliebig einstellen kannst.
-Im Hardmode wird eine Nuzlocke gespielt, dieses Spiel verfügt über ein eingebautes Nuzlocke System welches du beliebig einstellen kannst.
-Unser System scannt auch die Maps darauf ob dort bereits ein Encounter gefangen wurde.
-Unser System scannt auch die Maps darauf ob dort bereits ein Encounter gefangen wurde.
-Zusätzlich sind Regeln für Kämpfe einstellbar wie zum Beispiel Nutzung von Items in Kämpfen.
-Zusätzlich sind Regeln für Kämpfe einstellbar wie zum Beispiel Nutzung von Items in Kämpfen.
-Möchtest du mit dem Hardmode fortfahren?
-Möchtest du mit dem Hardmode fortfahren?
-Bitte stelle deine Nuzlocke ein.
-Bitte stelle deine Nuzlocke ein.
-Bitte stelle deine Item Regel ein. (Items nutzen im Kampf)
-Bitte stelle deine Item Regel ein. (Items nutzen im Kampf)
-Uns war es wichtig ein Spiel zu entwickeln welches beliebig eingestellt werden kann. Im normalen mode ist keine Nuzlocke verfügbar.
-Uns war es wichtig ein Spiel zu entwickeln welches beliebig eingestellt werden kann. Im normalen mode ist keine Nuzlocke verfügbar.
-Items können beliebig verwendet werden.
-Items können beliebig verwendet werden.
-Im Hardmode wird eine Nuzlocke gespielt, die Nutzung der Items kann angepasst werden.
-Im Hardmode wird eine Nuzlocke gespielt, die Nutzung der Items kann angepasst werden.
-Bei beiden Modes kann man niemals überlevelt sein. Unser System skaliert die Encounter und Pokemon der Gegner anhand deines Teams.
-Bei beiden Modes kann man niemals überlevelt sein. Unser System skaliert die Encounter und Pokemon der Gegner anhand deines Teams.
-Normal
-Normal
-Hardmode
-Hardmode
-Info
-Info
-Ja
-Ja
-Nein
-Nein
-Schlingel
-Schlingel
-Schlingeline
-Schlingeline
-Items deaktiviert
-Items deaktiviert
-Items aktiviert
-Items aktiviert
+\bHey what's up!
+\bHey what's up!
+\bIsn't it wonderful becoming a Pokémon?!
+\bIsn't it wonderful becoming a Pokémon?!
+\bI am yours truely...
+\bI am yours truely...
+\bArceus, your very own and well known god.
+\bArceus, your very own and well known god.
+\bI am here to get you started in this wonderful world!
+\bI am here to get you started in this wonderful world!
+\bThis is an example of a Pokémon...
+\bThis is an example of a Pokémon...
+\bIsn't it cute? I made them!
+\bIsn't it cute? I made them!
+\bIt only took me 7 days to create life...
+\bIt only took me 7 days to create life...
+\bBUT!
+\bBUT!
+\bWe are not here to discuss about other Pokémon.
+\bWe are not here to discuss about other Pokémon.
+\bI am here to introduce you to this world.
+\bI am here to introduce you to this world.
+\bNow, what should I call you?
+\bNow, what should I call you?
+\bOh! You like the name \PN?
+\bOh! You like the name \PN?
+\bThen what should it be??
+\bThen what should it be??
+\b\PN, do you think you are ready?
+\b\PN, do you think you are ready?
+\bI am about to send you down...
+\bI am about to send you down...
+\bI will grant you to live in.... hmmm....
+\bI will grant you to live in.... hmmm....
+\bYou'll be living in the deserted area near Titan Town.
+\bYou'll be living in the deserted area near Titan Town.
+\bHave a good time! AND BEHAVE!
+\bHave a good time! AND BEHAVE!
+Yes
+Yes
+No
+No
 [Map121]
 [Map122]
 \b???: Hmmm...
@@ -1542,14 +3590,74 @@ Items aktiviert
 Rayquaza, retreat!
 Rayquaza, retreat!
 [Map123]
+\[60164014]???: Start it, NOW!
+\[60164014]???: Start it, NOW!
+\bScientist: But sir, it's not ready!
+\bScientist: But sir, it's not ready!
+\[60164014]???: I'm telling you, boot it now! They've arrived.
+\[60164014]???: I'm telling you, boot it now! They've arrived.
+\bScientist: Alright, I will boot it at 50% functionality. That should be enough.
+\bScientist: Alright, I will boot it at 50% functionality. That should be enough.
+???: Gyaa!
+???: Gyaa!
+\[60164014]???: Perfect! Now I can use it to...
+\[60164014]???: Perfect! Now I can use it to...
+\[60164014]???: You're already here...
+\[60164014]???: You're already here...
+\[60164014]???: I guess I should introduce myself to you, \PN.
+\[60164014]???: I guess I should introduce myself to you, \PN.
+\[60164014]Tanish: My name is Rightful Tanish, classed 13th Rightful Admin.
+\[60164014]Tanish: My name is Rightful Tanish, classed 13th Rightful Admin.
+\[60164014]Tanish: Genesect, let's get 'em.
+\[60164014]Tanish: Genesect, let's get 'em.
+Impossible!
+Impossible!
+...
+...
 [Map124]
+There is something blocking the portal from the other side...
+There is something blocking the portal from the other side...
+\[0000f0f0]???: ...I see
+\[0000f0f0]???: ...I see
 [Map125]
+\rThey are building a new gate over here.
+\rThey are building a new gate over here.
+\rThe previous one collapsed after that strange portal appeared.
+\rThe previous one collapsed after that strange portal appeared.
+\bYou're not from here are you?
+\bYou're not from here are you?
+\bI heard that they are planning to reconstruct a monument up on that hill.
+\bI heard that they are planning to reconstruct a monument up on that hill.
 [Map126]
 \bWe've been working very hard to turn this place into an official Pokécenter.
 \bWe've been working very hard to turn this place into an official Pokécenter.
 \bThe Pokémon League has yet to approve our request.
 \bThe Pokémon League has yet to approve our request.
+\rWelcome to the Eterna Pokémon Nursery!
+\rWelcome to the Eterna Pokémon Nursery!
+\rWe will heal your Pokémon here for free.
+\rWe will heal your Pokémon here for free.
+\rWould you like to heal your Pokémon?
+\rWould you like to heal your Pokémon?
+\rThanks for waiting!
+\rThanks for waiting!
+\rHave a great day!
+\rHave a great day!
+\rFirst, you should restore your Pokémon to full health.
+\rFirst, you should restore your Pokémon to full health.
+\rYour Pokémon have been healed to perfect health.
+\rYour Pokémon have been healed to perfect health.
+\rWe hope you excel!
+\rWe hope you excel!
+Yes
+Yes
+No
+No
 [Map127]
+\bThis must be the greatest fishing spot ever.
+\bThis must be the greatest fishing spot ever.
+\bI've been thinking about a hiking trip towards Mt. Silver, but it's too far away.
+\bI've been thinking about a hiking trip towards Mt. Silver, but it's too far away.
 \sign[signskin]Route 211
 \sign[signskin]Route 211
 \sign[signskin]Mt. Coronet
@@ -1558,6 +3666,8 @@ Rayquaza, retreat!
 [Map129]
 [Map130]
 [Map131]
+[Map132]
+[Map133]
 [1]
 1
 Bisasam
@@ -20726,6 +22836,9 @@ TR99
 799
 Max Revive
 Max Revive
+800
+Diploma
+Diploma
 [8]
 1
 Schutze
@@ -23124,6 +25237,9 @@ TR99s
 799
 Max Revives
 Max Revives
+800
+Diploma's
+Diploma's
 [9]
 1
 Hält 100 Schritte lang schwache, wilde Pokémon ab.
@@ -25522,6 +27638,9 @@ The user attacks by slamming its body into the target. Damages more the higher t
 799
 Eine Nachricht ist dabei - Viel Spaß damit du keck ;D.
 Eine Nachricht ist dabei - Viel Spaß damit du keck ;D.
+800
+A declaration that you have passed the Academia Exams.
+A declaration that you have passed the Academia Exams.
 [10]
 1
 Duftnote
@@ -27249,8 +29368,8 @@ Juggler
 Lady
 Lady
 21
-Painter
-Painter
+Parasol Lady
+Parasol Lady
 22
 Poké Maniac
 Poké Maniac
@@ -27291,11 +29410,11 @@ Camper
 Picnicker
 Picnicker
 35
-Cool Trainer
-Cool Trainer
+Ace Trainer
+Ace Trainer
 36
-Cool Trainer
-Cool Trainer
+Ace Trainer
+Ace Trainer
 37
 Youngster
 Youngster
@@ -27321,11 +29440,11 @@ Swimmer
 Swimmer
 Swimmer
 45
-Swimmer
-Swimmer
+Preschooler
+Preschooler
 46
-Swimmer
-Swimmer
+Preschooler
+Preschooler
 47
 Tuber
 Tuber
@@ -27333,38 +29452,38 @@ Tuber
 Tuber
 Tuber
 49
-Tuber
-Tuber
+Teacher
+Teacher
 50
-Tuber
-Tuber
+Rightful Grunt
+Rightful Grunt
 51
-Cool Couple
-Cool Couple
+Miner
+Miner
 52
-Crush Kin
-Crush Kin
+Rich Boy
+Rich Boy
 53
 Sis and Bro
 Sis and Bro
 54
-Twins
-Twins
+Firebreather
+Firebreather
 55
-Young Couple
-Young Couple
+Rightful Grunt
+Rightful Grunt
 56
-Team Rocket
-Team Rocket
+Rightful
+Rightful
 57
-Team Rocket
-Team Rocket
+Rightful
+Rightful
 58
-Rocket Boss
-Rocket Boss
+Rightful
+Rightful
 59
-Gym Leader
-Gym Leader
+Rightful Right Hand
+Rightful Right Hand
 60
 Gym Leader
 Gym Leader
@@ -27387,8 +29506,8 @@ Gym Leader
 Gym Leader
 Gym Leader
 67
-Elite Four
-Elite Four
+Gym Leader
+Gym Leader
 68
 Elite Four
 Elite Four
@@ -27402,3238 +29521,233 @@ Elite Four
 Champion
 Champion
 72
-Rivale
-Rivale
+Code:
+Code:
+73
+Rightful
+Rightful
+74
+Rightful Admin
+Rightful Admin
+75
+Guitarist
+Guitarist
+76
+Drummer
+Drummer
+77
+Rightful Admin
+Rightful Admin
+78
+Rightful Admin
+Rightful Admin
+79
+Rightful Admin
+Rightful Admin
+80
+Rightful Admin
+Rightful Admin
+81
+Rightful Admin
+Rightful Admin
+82
+Rightful Admin
+Rightful Admin
+83
+Rightful Admin
+Rightful Admin
+84
+Rightful Admin
+Rightful Admin
+85
+Rightful Admin
+Rightful Admin
+86
+Rightful Grunt
+Rightful Grunt
+87
+Rightful Grunt
+Rightful Grunt
 [14]
-Liam
-Liam
-Brock
-Brock
-Grunt
-Grunt
-Ben
-Ben
-Jeff
-Jeff
-Susie
-Susie
-Ford
-Ford
-Andrew
-Andrew
-Bridget
-Bridget
-Crissy
-Crissy
-Alice & Bob
-Alice & Bob
-Brendan
-Brendan
-Ariel
-Ariel
-Blue
-Blue
 Charlotte
 Charlotte
 Iris
 Iris
-David
-David
-BRADY
-BRADY
-CONNER
-CONNER
-BRADLEY
-BRADLEY
-CYBIL
-CYBIL
-RODETTE
-RODETTE
-PEGGY
-PEGGY
-KEITH
-KEITH
-GRAYSON
-GRAYSON
-GLENN
-GLENN
-LILIANA
-LILIANA
-ELISE
-ELISE
-ZOEY
-ZOEY
-MANUEL
-MANUEL
-RUSS
-RUSS
-DUSTIN
-DUSTIN
-TINA
-TINA
-GILLIAN
-GILLIAN
-ZOE
-ZOE
-CHEN
-CHEN
-AL
-AL
-MITCH
-MITCH
-ANNE
-ANNE
-ALIZE
-ALIZE
-LAUREN
-LAUREN
-KIPP
-KIPP
-JASON
-JASON
-JOHN
-JOHN
-ANN
-ANN
-EILEEN
-EILEEN
-CARLIE
-CARLIE
-GORDON
-GORDON
-AYDEN
-AYDEN
-MARCO
-MARCO
-CIERRA
-CIERRA
-MARCY
-MARCY
-KATHY
-KATHY
-PEYTON
-PEYTON
-JULIAN
-JULIAN
-QUINN
-QUINN
-HAYLEE
-HAYLEE
-AMANDA
-AMANDA
-STACY
-STACY
-RAFAEL
-RAFAEL
-OLIVER
-OLIVER
-PAYTON
-PAYTON
-PAMELA
-PAMELA
-ELIZA
-ELIZA
-MARISA
-MARISA
-LEWIS
-LEWIS
-YOSHI
-YOSHI
-DESTIN
-DESTIN
-KEON
-KEON
-STUART
-STUART
-NESTOR
-NESTOR
-DERRICK
-DERRICK
-BRYSON
-BRYSON
-CLAYTON
-CLAYTON
-TRENTON
-TRENTON
-JENSON
-JENSON
-WESLEY
-WESLEY
-ANTON
-ANTON
-LAWSON
-LAWSON
-SAMMY
-SAMMY
-ARNIE
-ARNIE
-ADRIAN
-ADRIAN
-TRISTAN
-TRISTAN
-JULIANA
-JULIANA
-RYLEE
-RYLEE
-CHELSEA
-CHELSEA
-DANELA
-DANELA
-LIZBETH
-LIZBETH
-AMELIA
-AMELIA
-JILLIAN
-JILLIAN
-ABBIE
-ABBIE
-BRIANA
-BRIANA
-ANTONIO
-ANTONIO
-JADEN
-JADEN
-DAKOTA
-DAKOTA
-BRAYDEN
-BRAYDEN
-CORSON
-CORSON
-TREVIN
-TREVIN
-PATRICK
-PATRICK
-KADEN
-KADEN
-MAXWELL
-MAXWELL
-DARYL
-DARYL
-KENNETH
-KENNETH
-RICH
-RICH
-CADEN
-CADEN
-MARLON
-MARLON
-NASH
-NASH
-ROBBY
-ROBBY
-REECE
-REECE
-KATHRYN
-KATHRYN
-ELLEN
-ELLEN
-RAMON
-RAMON
-ARTHUR
-ARTHUR
-ALONDRA
-ALONDRA
-ADRIANA
-ADRIANA
-MALIK
-MALIK
-JILL
-JILL
-ERIK
-ERIK
-YAZMIN
-YAZMIN
-JAMAL
-JAMAL
-LESLIE
-LESLIE
-DAVE
-DAVE
-CARLO
-CARLO
-EMILIA
-EMILIA
-DALIA
-DALIA
-HITOMI
-HITOMI
-RICARDO
-RICARDO
-SHIZUKA
-SHIZUKA
-JOANA
-JOANA
-KELLY
-KELLY
-RAYNA
-RAYNA
-EVAN
-EVAN
-JORDAN
-JORDAN
-JOEL
-JOEL
-KRISTEN
-KRISTEN
-SELPHY
-SELPHY
-CHLOE
-CHLOE
-NORTON
-NORTON
-LUKAS
-LUKAS
-ZACH
-ZACH
-KAITLYN
-KAITLYN
-BREANNA
-BREANNA
-KENDRA
-KENDRA
-MOLLY
-MOLLY
-JAZMIN
-JAZMIN
-KELSEY
-KELSEY
-JALEN
-JALEN
-GRIFFEN
-GRIFFEN
-XANDER
-XANDER
-MARVIN
-MARVIN
-BRENNAN
-BRENNAN
-BALEY
-BALEY
-ZACKARY
-ZACKARY
-GABRIEL
-GABRIEL
-EMILY
-EMILY
-JORDYN
-JORDYN
-SOFIA
-SOFIA
-BRADEN
-BRADEN
-KAYDEN
-KAYDEN
-COOPER
-COOPER
-JULIA
-JULIA
-AMARA
-AMARA
-LYNN
-LYNN
-JOVAN
-JOVAN
-DOMINIC
-DOMINIC
-NIKOLAS
-NIKOLAS
-VALERIA
-VALERIA
-DELANEY
-DELANEY
-MEGHAN
-MEGHAN
-ROBERTO
-ROBERTO
-DAMIAN
-DAMIAN
-BRODY
-BRODY
-GRAHAM
-GRAHAM
-TYLOR
-TYLOR
-JAREN
-JAREN
-CORDELL
-CORDELL
-JAZLYN
-JAZLYN
-ZACHERY
-ZACHERY
-JOHAN
-JOHAN
-SHEA
-SHEA
-KAILA
-KAILA
-ISIAH
-ISIAH
-GARRETT
-GARRETT
-HAYLIE
-HAYLIE
-MEGAN
-MEGAN
-ISSAC
-ISSAC
-QUINTON
-QUINTON
-SALMA
-SALMA
-ANSLEY
-ANSLEY
-HOLDEN
-HOLDEN
-LUCA
-LUCA
-JAMISON
-JAMISON
-GUNNAR
-GUNNAR
-CRAIG
-CRAIG
-PIERCE
-PIERCE
-REGINA
-REGINA
-ALISON
-ALISON
-HANK
-HANK
-EARL
-EARL
-RAMIRO
-RAMIRO
-HUNTER
-HUNTER
-AIDEN
-AIDEN
-XAVIER
-XAVIER
-CLINTON
-CLINTON
-JESSE
-JESSE
-EDUARDO
-EDUARDO
-HAL
-HAL
-GAGE
-GAGE
-ARNOLD
-ARNOLD
-JARRETT
-JARRETT
-GARETT
-GARETT
-EMANUEL
-EMANUEL
-GUSTAVO
-GUSTAVO
-KAMERON
-KAMERON
-ALFREDO
-ALFREDO
-RUBEN
-RUBEN
-LAMAR
-LAMAR
-JAXON
-JAXON
-LOGAN
-LOGAN
-EMILEE
-EMILEE
-JOSIE
-JOSIE
-ARMANDO
-ARMANDO
-SKYLER
-SKYLER
-RUTH
-RUTH
-MELODY
-MELODY
-PEDRO
-PEDRO
-ERICK
-ERICK
-ELAINE
-ELAINE
-JOYCE
-JOYCE
-TODD
-TODD
-GAVIN
-GAVIN
-MALORY
-MALORY
-ESTHER
-ESTHER
-OSCAR
-OSCAR
-WILSON
-WILSON
-CLARE
-CLARE
-TESS
-TESS
-LEON
-LEON
-ALONZO
-ALONZO
-VINCE
-VINCE
-BRYON
-BRYON
-AVA
-AVA
-MIRIAM
-MIRIAM
-CARRIE
-CARRIE
-TYLER
-TYLER
-CHAZ
-CHAZ
-NELSON
-NELSON
-SHANIA
-SHANIA
-STELLA
-STELLA
-DORINE
-DORINE
-MADDOX
-MADDOX
-DAVIN
-DAVIN
-TREVON
-TREVON
-MATEO
-MATEO
-BRET
-BRET
-RAUL
-RAUL
-KAY
-KAY
-ELENA
-ELENA
-ALANA
-ALANA
-ALEXAS
-ALEXAS
-WESTON
-WESTON
-JASPER
-JASPER
-NADIA
-NADIA
-MIRANDA
-MIRANDA
-EMMA
-EMMA
-ROLANDO
-ROLANDO
-STANLY
-STANLY
-DARIO
-DARIO
-KARLEE
-KARLEE
-JAYLIN
-JAYLIN
-INGRID
-INGRID
-DELILAH
-DELILAH
-CARLY
-CARLY
-LEXIE
-LEXIE
-MILLER
-MILLER
-MARV
-MARV
-LAYTON
-LAYTON
-BROOKS
-BROOKS
-GREGORY
-GREGORY
-REESE
-REESE
-MASON
-MASON
-TOBY
-TOBY
-DOROTHY
-DOROTHY
-PIPER
-PIPER
-FINN
-FINN
-SAMIR
-SAMIR
-FIONA
-FIONA
-GLORIA
-GLORIA
-NICO
-NICO
-JEREMY
-JEREMY
-CAITLIN
-CAITLIN
-REENA
-REENA
-AVERY
-AVERY
-LIAM
-LIAM
-THEO
-THEO
-BAILEY
-BAILEY
-HUGO
-HUGO
-BRYCE
-BRYCE
-GIDEON
-GIDEON
-TRISTON
-TRISTON
-CHARLES
-CHARLES
-RAYMOND
-RAYMOND
-DIRK
-DIRK
-HAROLD
-HAROLD
-OMAR
-OMAR
-PETER
-PETER
-DEV
-DEV
-COREY
-COREY
-ANDRE
-ANDRE
-FERRIS
-FERRIS
-ALIVIA
-ALIVIA
-PAIGE
-PAIGE
-ANYA
-ANYA
-DAWN
-DAWN
-ABBY
-ABBY
-GRETEL
-GRETEL
-RENULS
-RENULS
-GAC
-GAC
-ZORNOH
-ZORNOH
-POJIO
-POJIO
-PAIO
-PAIO
-MIZE
-MIZE
-ENANKA
-ENANKA
-DONA
-DONA
-GLATINA
-GLATINA
-ELA
-ELA
-WUSTA
-WUSTA
-EGA
-EGA
-MILA
-MILA
-EHOLELLE
-EHOLELLE
-FENKA
-FENKA
-PROMELLE
-PROMELLE
-OHINA
-OHINA
-SLOTALA
-SLOTALA
-REKT
-REKT
-LAIUS
-LAIUS
-RIO
-RIO
-SEO
-SEO
-ROR
-ROR
-DITISP
-DITISP
-PREES
-PREES
-GAU
-GAU
-POIO
-POIO
-GRURIUS
-GRURIUS
-GLOR
-GLOR
-KAGU
-KAGU
-SICHA
-SICHA
-ACHA
-ACHA
-VLINA
-VLINA
-ULSA
-ULSA
-GOSOSK
-GOSOSK
-PROZARD
-PROZARD
-RIHO
-RIHO
-PON
-PON
-DONG
-DONG
-URNINE
-URNINE
-SAZHALA
-SAZHALA
-EFSA
-EFSA
-KUITO
-KUITO
-KIN
-KIN
-REGE
-REGE
-KUDSUD
-KUDSUD
-WARITA
-WARITA
-HANKA
-HANKA
-ZABA
-ZABA
-ORELLE
-ORELLE
-ASTA
-ASTA
-MIZO
-MIZO
-ALA
-ALA
-CEZHA
-CEZHA
-INICA
-INICA
-KLONA
-KLONA
-OSA
-OSA
-KECHA
-KECHA
-ENSORPA
-ENSORPA
-USKITA
-USKITA
-PHANA
-PHANA
-RON
-RON
-EPSABSIKA
-EPSABSIKA
-PROO
-PROO
-KIHIUS
-KIHIUS
-PROSU
-PROSU
-ARIKINE
-ARIKINE
-UFTA
-UFTA
-PICIKA
-PICIKA
-WANA
-WANA
-GLEEIO
-GLEEIO
-PLUL
-PLUL
-KIIO
-KIIO
-HIGS
-HIGS
-BLIPT
-BLIPT
-GRUUK
-GRUUK
-RORME
-RORME
-LEDENS
-LEDENS
-NYAO
-NYAO
-ETHENDRA
-ETHENDRA
-UTHINDA
-UTHINDA
-ATHONKA
-ATHONKA
-ARILA
-ARILA
-ANSULI
-ANSULI
-IGANDA
-IGANDA
-UGSARA
-UGSARA
-VORINA
-VORINA
-ONDA
-ONDA
-TIN
-TIN
-KARPIUS
-KARPIUS
-PRIFT
-PRIFT
-SIKO
-SIKO
-TIGG
-TIGG
-DEIUS
-DEIUS
-GLEEE
-GLEEE
-LIE
-LIE
-RIZ
-RIZ
-SLARN
-SLARN
-SEE
-SEE
-IRALA
-IRALA
-MICHIE
-MICHIE
-VLICHIE
-VLICHIE
-SOLA
-SOLA
-FINA
-FINA
-BRAPH
-BRAPH
-YAZ
-YAZ
-BUDAC
-BUDAC
-LEJ
-LEJ
-KUGG
-KUGG
-ADUSTA
-ADUSTA
-NINA
-NINA
-AZITA
-AZITA
-ZHOVUSH
-ZHOVUSH
-JEP
-JEP
-POBSE
-POBSE
-ROTIUS
-ROTIUS
-BOD
-BOD
-AYNKO
-AYNKO
-HORAT
-HORAT
-OOD
-OOD
-KHASI
-KHASI
-ILITH
-ILITH
-OB
-OB
-OOVAY
-OOVAY
-GLOBO
-GLOBO
-GRUJU
-GRUJU
-SER
-SER
-NOCHA
-NOCHA
-IBBILA
-IBBILA
-EHICHIE
-EHICHIE
-ECHA
-ECHA
-LIU
-LIU
-MALS
-MALS
-REIO
-REIO
-NYAJOD
-NYAJOD
-DOLD
-DOLD
-BADE
-BADE
-GASSE
-GASSE
-UJALI
-UJALI
-URUNINE
-URUNINE
-SEZITA
-SEZITA
-LENU
-LENU
-NYANS
-NYANS
-DEE
-DEE
-KIDESS
-KIDESS
-PUR
-PUR
-KAMSEK
-KAMSEK
-DOMORN
-DOMORN
-LAD
-LAD
-BUK
-BUK
-BAE
-BAE
-GOJ
-GOJ
-OFA
-OFA
-ENKA
-ENKA
-BAGUP
-BAGUP
-BRIM
-BRIM
-IRP
-IRP
-MORDEK
-MORDEK
-GAKOT
-GAKOT
-KUHOC
-KUHOC
-LELD
-LELD
-NOR
-NOR
-RALA
-RALA
-FUNA
-FUNA
-ONAGANA
-ONAGANA
-OROCHIE
-OROCHIE
-RIMAND
-RIMAND
-GORP
-GORP
-GRALAT
-GRALAT
-BARUM
-BARUM
-ECHIE
-ECHIE
-IRMILI
-IRMILI
-CECHIE
-CECHIE
-ACA
-ACA
-MIO
-MIO
-LABSIJ
-LABSIJ
-PROVARD
-PROVARD
-PREEB
-PREEB
-LINIUS
-LINIUS
-SOCS
-SOCS
-NICHIE
-NICHIE
-ZUGA
-ZUGA
-OTIKA
-OTIKA
-TONA
-TONA
-UNDA
-UNDA
-ROZ
-ROZ
-SEDIE
-SEDIE
-KLUSTA
-KLUSTA
-AUCSE
-AUCSE
-ALOO
-ALOO
-LULOO
-LULOO
-ZODO
-ZODO
-RATH
-RATH
-BAIUS
-BAIUS
-UCECHA
-UCECHA
-MOROP
-MOROP
-SMEZU
-SMEZU
-EELOO
-EELOO
-MATAS
-MATAS
-KUIO
-KUIO
-PAH
-PAH
-PARIK
-PARIK
-SKOR
-SKOR
-JAST
-JAST
-DOKE
-DOKE
-LONKA
-LONKA
-YAPSINA
-YAPSINA
-ELI
-ELI
-GRAE
-GRAE
-MIUS
-MIUS
-ROIUS
-ROIUS
-MAE
-MAE
-ZAV
-ZAV
-PREEFT
-PREEFT
-CRIB
-CRIB
-KLILA
-KLILA
-GRUN
-GRUN
-ZOKIZ
-ZOKIZ
-TALA
-TALA
-WUCHA
-WUCHA
-BLIRA
-BLIRA
-UROBBA
-UROBBA
-ICHA
-ICHA
-ERNICHA
-ERNICHA
-SIJUB
-SIJUB
-GAFITO
-GAFITO
-ZOMS
-ZOMS
-GRUUZEP
-GRUUZEP
-LEO
-LEO
-MART
-MART
-OCHOFALA
-OCHOFALA
-GONA
-GONA
-EFTICHA
-EFTICHA
-APITA
-APITA
-UNGULI
-UNGULI
-ISIRNIKA
-ISIRNIKA
-UGGA
-UGGA
-ASA
-ASA
-ARKICHA
-ARKICHA
-TED
-TED
-MATIFS
-MATIFS
-APHUTA
-APHUTA
-ACINE
-ACINE
-EZOLI
-EZOLI
-ROSTA
-ROSTA
-ENDRA
-ENDRA
-ASOSTA
-ASOSTA
-IPTECHA
-IPTECHA
-GLEEGITO
-GLEEGITO
-DATU
-DATU
-ZOB
-ZOB
-DIRAK
-DIRAK
-LIG
-LIG
-LAE
-LAE
-THULI
-THULI
-LONA
-LONA
-KUSSO
-KUSSO
-GLOROB
-GLOROB
-REG
-REG
-GRAVIUS
-GRAVIUS
-DAIO
-DAIO
-SEM
-SEM
-SNUFS
-SNUFS
-ROLD
-ROLD
-RITAT
-RITAT
-LESP
-LESP
-KITU
-KITU
-ARUFILA
-ARUFILA
-OPSESTA
-OPSESTA
-VITA
-VITA
-OMECHA
-OMECHA
-UDONDRA
-UDONDRA
-ICANKA
-ICANKA
-ANDRA
-ANDRA
-USENDA
-USENDA
-OKSOSA
-OKSOSA
-ITEGSIKA
-ITEGSIKA
-INDRA
-INDRA
-OTITA
-OTITA
-CITA
-CITA
-JILA
-JILA
-RERTIO
-RERTIO
-SEGS
-SEGS
-LERDIH
-LERDIH
-NYAIUS
-NYAIUS
-SMED
-SMED
-PRORTE
-PRORTE
-GOS
-GOS
-ZOCUN
-ZOCUN
-LIV
-LIV
-PAUS
-PAUS
-SWALA
-SWALA
-GECHA
-GECHA
-DIN
-DIN
-JUBB
-JUBB
-KIV
-KIV
-BOB
-BOB
-ORA
-ORA
-DILA
-DILA
-SKEND
-SKEND
-GRUUSEL
-GRUUSEL
-MONS
-MONS
-LIBSOLD
-LIBSOLD
-SIU
-SIU
-HAHAY
-HAHAY
-WIRNA
-WIRNA
-LOND
-LOND
-OUB
-OUB
-OUBSAM
-OUBSAM
-ENE
-ENE
-AGORTA
-AGORTA
-INUPA
-INUPA
-ECONDRA
-ECONDRA
-AKTILI
-AKTILI
-CHONG
-CHONG
-PROBACS
-PROBACS
-MOU
-MOU
-NESSIKA
-NESSIKA
-ARESTA
-ARESTA
-OLILI
-OLILI
-RESTA
-RESTA
-ONDRA
-ONDRA
-BEMIR
-BEMIR
-PROSAND
-PROSAND
-BAFTEN
-BAFTEN
-KAREB
-KAREB
-DRONA
-DRONA
-UZHENDA
-UZHENDA
-AFIKA
-AFIKA
-LEZUS
-LEZUS
-MIJECS
-MIJECS
-NYAVUL
-NYAVUL
-KINGIUS
-KINGIUS
-GRALSIUS
-GRALSIUS
-RAO
-RAO
-BOH
-BOH
-JOP
-JOP
-RIVOD
-RIVOD
-PREETIUS
-PREETIUS
-ZEK
-ZEK
-NYANG
-NYANG
-DAU
-DAU
-INGOCHIE
-INGOCHIE
-GOO
-GOO
-GAMED
-GAMED
-GLOUS
-GLOUS
-RAUS
-RAUS
-BENGIO
-BENGIO
-PASUJ
-PASUJ
-GLOKIO
-GLOKIO
-REFITO
-REFITO
-BOF
-BOF
-BLEM
-BLEM
-OPTUCHA
-OPTUCHA
-PHEN
-PHEN
-LIPHUS
-LIPHUS
-DASHILA
-DASHILA
-EMSA
-EMSA
-RAKT
-RAKT
-MAH
-MAH
-PHOKTANA
-PHOKTANA
-LACHIE
-LACHIE
-UVA
-UVA
-OSIFILA
-OSIFILA
-ISTOLITA
-ISTOLITA
-RAMIL
-RAMIL
-ARAY
-ARAY
-ANGIFS
-ANGIFS
-LIS
-LIS
-GRUURKILS
-GRUURKILS
-PAGSIUS
-PAGSIUS
-GAMEZ
-GAMEZ
-BACHID
-BACHID
-IBA
-IBA
-ROCHIE
-ROCHIE
-MINA
-MINA
-OKTUVINA
-OKTUVINA
-SECHIE
-SECHIE
-STUNKA
-STUNKA
-ULITELLE
-ULITELLE
-IGA
-IGA
-ZUNA
-ZUNA
-NAME
-NAME
-TWON
-TWON
-TUJOGS
-TUJOGS
+Jasmine
+Jasmine
+Liam
+Liam
+Lauren
+Lauren
+James
+James
+Ben
+Ben
+Tyler
+Tyler
+Damien
+Damien
+Matteo
+Matteo
+Thomas
+Thomas
+Colin
+Colin
+Maria
+Maria
+Otto
+Otto
+Ragon
+Ragon
+Darek
+Darek
+Vanessa
+Vanessa
+Jimmy
+Jimmy
+Dennis
+Dennis
+Patricia
+Patricia
+Beau
+Beau
+Hayden
+Hayden
+Maidenhair
+Maidenhair
+Jo
+Jo
+Alice
+Alice
+Jacob
+Jacob
+Jamie
+Jamie
+Cal
+Cal
+Dora
+Dora
+Sassy
+Sassy
+Nive
+Nive
+Hugh
+Hugh
+Kyle
+Kyle
+Jerry
+Jerry
+Nina
+Nina
+Tess
+Tess
+Don
+Don
+Michael
+Michael
+WISHMAKER
+WISHMAKER
+Ken
+Ken
+Razor
+Razor
+Nancy
+Nancy
+Sebastian
+Sebastian
+Noah
+Noah
+Jackson
+Jackson
+Etris
+Etris
+Nugget Guy
+Nugget Guy
+Caleb
+Caleb
+Jon
+Jon
+Ingrid
+Ingrid
+Luther
+Luther
+Jack
+Jack
+Missy
+Missy
+Gus
+Gus
+Harold
+Harold
+Clarence
+Clarence
+Miss
+Miss
+Alysa
+Alysa
+Ava
+Ava
+Jovi
+Jovi
+Lerran
+Lerran
+Harrok
+Harrok
+Jase
+Jase
+Anne
+Anne
+Asher
+Asher
+Hellen
+Hellen
+Cindy
+Cindy
+Olivier
+Olivier
+Samantha
+Samantha
+Billy
+Billy
+Vedetta
+Vedetta
+Aze
+Aze
+Mese
+Mese
+Uex
+Uex
+Tanish
+Tanish
+Denna
+Denna
+Motessonal
+Motessonal
+Mitu
+Mitu
+Koji
+Koji
+Ashen
+Ashen
+Ashly
+Ashly
+Mary
+Mary
+Mandy
+Mandy
+Kuro
+Kuro
+Hassan
+Hassan
+Tai
+Tai
+Lucifer
+Lucifer
+Jean
+Jean
 [15]
-I AM NEVER GOING TO LOSE !
-I AM NEVER GOING TO LOSE !
-LOSING DOESN'T BUG ME
-LOSING DOESN'T BUG ME
-HEY
-HEY
-YOU'RE REALLY NOT VERY SCARY AT ALL
-YOU'RE REALLY NOT VERY SCARY AT ALL
-OH THIS IS SO EXCITING !
-OH THIS IS SO EXCITING !
-GET READY TO BE DESTROYED !
-GET READY TO BE DESTROYED !
-I DON'T JUST STUDY YOU KNOW
-I DON'T JUST STUDY YOU KNOW
-A POKéMON BATTLE ISN'T CHILD'S PLAY !
-A POKéMON BATTLE ISN'T CHILD'S PLAY !
-I WOULD BE COOL IF I WIN
-I WOULD BE COOL IF I WIN
-I WON'T GIVE UP UNTIL I WIN
-I WON'T GIVE UP UNTIL I WIN
-MY STRATEGY IS FROM MY FATHER
-MY STRATEGY IS FROM MY FATHER
-PLEASE BATTLE LIKE YOU MEAN IT
-PLEASE BATTLE LIKE YOU MEAN IT
-ME LOSE ? THAT'S PREPOSTEROUS !
-ME LOSE ? THAT'S PREPOSTEROUS !
-THEY ALL WANT MY FABULOUS POKéMON
-THEY ALL WANT MY FABULOUS POKéMON
-I REALLY LIKE COOL POKéMON
-I REALLY LIKE COOL POKéMON
-IF I WIN YOU CAN HAVE A SWEET KISS
-IF I WIN YOU CAN HAVE A SWEET KISS
-THE GOURMET THING IS SO YESTERDAY
-THE GOURMET THING IS SO YESTERDAY
-I HAVEN'T A WORRY AT ALL
-I HAVEN'T A WORRY AT ALL
-I AM TOTALLY READY TO ROCK TODAY
-I AM TOTALLY READY TO ROCK TODAY
-YOUR LOOK SAYS YOU'RE REALLY TOUGH
-YOUR LOOK SAYS YOU'RE REALLY TOUGH
-MOTHER NATURE IS MY ALLY !
-MOTHER NATURE IS MY ALLY !
-I CAN'T WAIT LET'S BATTLE NOW
-I CAN'T WAIT LET'S BATTLE NOW
-CUTE AND AWFULLY STRONG THAT'S ME
-CUTE AND AWFULLY STRONG THAT'S ME
-I AM OLD BUT I AM ALSO GOOD
-I AM OLD BUT I AM ALSO GOOD
-IF I WIN I AM GOING TO GO SURF
-IF I WIN I AM GOING TO GO SURF
-TEACH ME A GOOD STRATEGY
-TEACH ME A GOOD STRATEGY
-I AM A PRETTY NEW TRAINER
-I AM A PRETTY NEW TRAINER
-IT'S SO EXCITING IT REALLY IS
-IT'S SO EXCITING IT REALLY IS
-LET'S PRETEND I AM AN ADULT OK?
-LET'S PRETEND I AM AN ADULT OK?
-MY SUMMER VACATION IS FOR POKéMON
-MY SUMMER VACATION IS FOR POKéMON
-VICTORY WILL COME TO ME !
-VICTORY WILL COME TO ME !
-COME ON I NEED A HOT BATTLE
-COME ON I NEED A HOT BATTLE
-I SURF IN THE WINTER TOO
-I SURF IN THE WINTER TOO
-I LIKE TO SYNCHRONIZE MY SWIFT SWIM
-I LIKE TO SYNCHRONIZE MY SWIFT SWIM
-I AM A KNOCKOUT YOU CAN'T WIN !
-I AM A KNOCKOUT YOU CAN'T WIN !
-I'VE WON EVERY MATCH TODAY !
-I'VE WON EVERY MATCH TODAY !
-I AM NEVER DISAPPOINTED WITH MY POKéMON
-I AM NEVER DISAPPOINTED WITH MY POKéMON
-YOU ADORE YOUR POKéMON RIGHT ?
-YOU ADORE YOUR POKéMON RIGHT ?
-MY POKéMON ARE BUT A DREAM
-MY POKéMON ARE BUT A DREAM
-I DON'T KNOW HOW I AM FEELING
-I DON'T KNOW HOW I AM FEELING
-I COME FROM A TRAINER FAMILY
-I COME FROM A TRAINER FAMILY
-ALL POKéMON HAVE THEIR OWN CUTE CHARM
-ALL POKéMON HAVE THEIR OWN CUTE CHARM
-COME ON ! LET'S SEE SOME SPIRIT
-COME ON ! LET'S SEE SOME SPIRIT
-A GENIUS THAT'S WHAT I AM !
-A GENIUS THAT'S WHAT I AM !
-I TRAIN FROM THE EGG UP
-I TRAIN FROM THE EGG UP
-ALL POKéMON ADORE A KIND TRAINER
-ALL POKéMON ADORE A KIND TRAINER
-I ADORE POKéMON LIKE MY CHILDREN
-I ADORE POKéMON LIKE MY CHILDREN
-I PROMISE TO BATTLE SERIOUSLY
-I PROMISE TO BATTLE SERIOUSLY
-A LITTLE BUG IS SCARY ? HAHAHA
-A LITTLE BUG IS SCARY ? HAHAHA
-BUG POKéMON MAKE ME FEELING LOVEY-DOVEY
-BUG POKéMON MAKE ME FEELING LOVEY-DOVEY
-IT'S WAY TOO HOT HERE
-IT'S WAY TOO HOT HERE
-FORGIVE ME BUT HERE I COME !
-FORGIVE ME BUT HERE I COME !
-I PROMISE YOU A HOT BATTLE
-I PROMISE YOU A HOT BATTLE
-SHOW ME A REALLY SMOOTH MOVE
-SHOW ME A REALLY SMOOTH MOVE
-LET'S SEE YOU MEDITATE LIKE ME
-LET'S SEE YOU MEDITATE LIKE ME
-POISONPOWDER IS IN OUR COTTON SPORE MOVE
-POISONPOWDER IS IN OUR COTTON SPORE MOVE
-HUH? WHERE IS IT?
-HUH? WHERE IS IT?
-COME OVER FOR SOME TASTY WATER
-COME OVER FOR SOME TASTY WATER
-MY POKéMON WILL MAKE YOU DOWNCAST
-MY POKéMON WILL MAKE YOU DOWNCAST
-MEW MEW IS HOW I CRY
-MEW MEW IS HOW I CRY
-GET READY FOR ME TO THRASH
-GET READY FOR ME TO THRASH
-I AM YOUNG AT HEART !
-I AM YOUNG AT HEART !
-MY PARTY IS READY TO ROCK
-MY PARTY IS READY TO ROCK
-I AM NO. 1 I HAVE NO RIVAL
-I AM NO. 1 I HAVE NO RIVAL
-YAHOO ! YAHOO !!
-YAHOO ! YAHOO !!
-CONFUSED ? I AM A GENIUS
-CONFUSED ? I AM A GENIUS
-I THINK I AM SHOPPING TOO MUCH
-I THINK I AM SHOPPING TOO MUCH
-SHOW ME THAT YOU HAVE GUTS
-SHOW ME THAT YOU HAVE GUTS
-I SERIOUSLY MEAN TO WIN !
-I SERIOUSLY MEAN TO WIN !
-YOU MUST BE MY OPPONENT NOW !
-YOU MUST BE MY OPPONENT NOW !
-IF I LOSE YOU CAN HAVE A PRESENT
-IF I LOSE YOU CAN HAVE A PRESENT
-I BELIEVE IN CUTE FASHION APPEAL
-I BELIEVE IN CUTE FASHION APPEAL
-WHAT IS THAT I SMELL ?
-WHAT IS THAT I SMELL ?
-YOU TRY MY SECRET AROMATHERAPY OK?
-YOU TRY MY SECRET AROMATHERAPY OK?
-MY BOY FRIEND WORKS TOO MUCH
-MY BOY FRIEND WORKS TOO MUCH
-I KNOW HOW TO GO GO
-I KNOW HOW TO GO GO
-HELLO I THINK I ADORE YOU
-HELLO I THINK I ADORE YOU
-YOU HAVE TO DANCE WITH POWER
-YOU HAVE TO DANCE WITH POWER
-COLOR CHANGE VERSION TOYS ARE USELESS !
-COLOR CHANGE VERSION TOYS ARE USELESS !
-I GET TO BEAT UP ON YOU
-I GET TO BEAT UP ON YOU
-THERE IS NONE BETTER THAN ME
-THERE IS NONE BETTER THAN ME
-I AM PERFECT ! GIVE UP NOW
-I AM PERFECT ! GIVE UP NOW
-WHAT ARE YOU UP TO ?
-WHAT ARE YOU UP TO ?
-I ONLY KNOW HOW TO CHARGE
-I ONLY KNOW HOW TO CHARGE
-YOU BETTER NOT SLACK OFF WITH ME
-YOU BETTER NOT SLACK OFF WITH ME
-YOUR FACADE DOESN'T TRICK ME
-YOUR FACADE DOESN'T TRICK ME
-I CAN'T BE DEFEATED !
-I CAN'T BE DEFEATED !
-A POKéDEX IS A LITTLE RADIO ?
-A POKéDEX IS A LITTLE RADIO ?
-I AM ON FIRE BABY !
-I AM ON FIRE BABY !
-HAHAHA ! HAPPY TO MEET YOU !
-HAHAHA ! HAPPY TO MEET YOU !
-MY QUICK ATTACK CAN BEAT A TELEPORT
-MY QUICK ATTACK CAN BEAT A TELEPORT
-I DON'T TRAIN GOOD ENOUGH ?
-I DON'T TRAIN GOOD ENOUGH ?
-CRUSH YOU LIKE AN EGG !
-CRUSH YOU LIKE AN EGG !
-OKAY ! THIS IS PERFECTION
-OKAY ! THIS IS PERFECTION
-HERE I COME FEELING READY FOR IT ALL
-HERE I COME FEELING READY FOR IT ALL
-EVERY DAY IS A GREAT DAY
-EVERY DAY IS A GREAT DAY
-COME SEE AN INCREDIBLE SWIFT SWIM !
-COME SEE AN INCREDIBLE SWIFT SWIM !
-OH NOT ANOTHER BATTLE PLEASE ...
-OH NOT ANOTHER BATTLE PLEASE ...
-I AM THE QUICK ATTACK TRAINER !
-I AM THE QUICK ATTACK TRAINER !
-I AM THE SPEED BOOST HERO !
-I AM THE SPEED BOOST HERO !
-I WOULD RATHER RUN THAN BIKE
-I WOULD RATHER RUN THAN BIKE
-I AM GOING TO BE A FATHER
-I AM GOING TO BE A FATHER
-I AM GOING TO BE A MOTHER
-I AM GOING TO BE A MOTHER
-WHAT SHOULD I DO TODAY ?
-WHAT SHOULD I DO TODAY ?
-HAH !! YEAH !!
-HAH !! YEAH !!
-ME WORRY ? I HAVE NONE
-ME WORRY ? I HAVE NONE
-MY BIKE IS VERY EXPENSIVE
-MY BIKE IS VERY EXPENSIVE
-YEAH !! HAH !!
-YEAH !! HAH !!
-COME ON ! PLAY TIME IS OVER
-COME ON ! PLAY TIME IS OVER
-SHOW ME THAT YOU'RE SERIOUS !
-SHOW ME THAT YOU'RE SERIOUS !
-YOU'RE GOING TO LOSE RIGHT AWAY
-YOU'RE GOING TO LOSE RIGHT AWAY
-MY NIGHT SCHOOL IS REALLY SCARY
-MY NIGHT SCHOOL IS REALLY SCARY
-I AM NO. 1 WHEN IT'S ABOUT POWER
-I AM NO. 1 WHEN IT'S ABOUT POWER
-EVERY BATTLE HAS A SMELL
-EVERY BATTLE HAS A SMELL
-GOOD ! COME ON !!
-GOOD ! COME ON !!
-FUFUFU ...
-FUFUFU ...
-HAHAHA ... A KID ...
-HAHAHA ... A KID ...
-HUH? WHAT IS IT?
-HUH? WHAT IS IT?
-COME WE WILL DO BATTLE NOW
-COME WE WILL DO BATTLE NOW
-I KNOW ONLY YOU
-I KNOW ONLY YOU
-MY JOKING IS PRETTY TERRIBLE ...
-MY JOKING IS PRETTY TERRIBLE ...
-I AM AN EXCELLENT MIMIC OF POKéMON
-I AM AN EXCELLENT MIMIC OF POKéMON
-I CRUSH THINGS WITH PSYCHIC POWER
-I CRUSH THINGS WITH PSYCHIC POWER
-MY POKéMON WILL CRUSH YOU !
-MY POKéMON WILL CRUSH YOU !
-IF YOU'RE SMART STOP RIGHT NOW
-IF YOU'RE SMART STOP RIGHT NOW
-WILL MY CUTE CHARM ATTRACT YOU ?
-WILL MY CUTE CHARM ATTRACT YOU ?
-I FORECAST TERRIBLE THINGS FOR YOU
-I FORECAST TERRIBLE THINGS FOR YOU
-I HAVEN'T SLEPT IN DAYS ...
-I HAVEN'T SLEPT IN DAYS ...
-I DON'T ALLOW POKéMON TO THRASH
-I DON'T ALLOW POKéMON TO THRASH
-I SWALLOW SLUDGE TO TRANSFORM MYSELF
-I SWALLOW SLUDGE TO TRANSFORM MYSELF
-I GOT MY POKéMON ON RENTAL
-I GOT MY POKéMON ON RENTAL
-YOU'RE UP TO THE CHALLENGE ?
-YOU'RE UP TO THE CHALLENGE ?
-I WISH TO SEE THE NEWS
-I WISH TO SEE THE NEWS
-SCREECH IS LIKE MUSIC TO ME !
-SCREECH IS LIKE MUSIC TO ME !
-CAN YOU DIG IT YO ?
-CAN YOU DIG IT YO ?
-POUND THE THICK FAT ON MY BELLY DRUM
-POUND THE THICK FAT ON MY BELLY DRUM
-HOW ABOUT A TINY BIT OF HYPNOSIS ?
-HOW ABOUT A TINY BIT OF HYPNOSIS ?
-YOU DON'T KNOW MY SECRET ...
-YOU DON'T KNOW MY SECRET ...
-BAGON PROBABLY HAS A SWEET SCENT
-BAGON PROBABLY HAS A SWEET SCENT
-I CHOOSE YOU ! THIS IS IT!
-I CHOOSE YOU ! THIS IS IT!
-THEY OVERDO THAT GOURMET THING ...
-THEY OVERDO THAT GOURMET THING ...
-THIS SHOULD ABSOLUTELY BE A PUSHOVER
-THIS SHOULD ABSOLUTELY BE A PUSHOVER
-SPIRIT ALONE WON'T MAKE YOU WIN
-SPIRIT ALONE WON'T MAKE YOU WIN
-WROOOAAR! !! I AM SO READY !!
-WROOOAAR! !! I AM SO READY !!
-YOUR SECRET CAN'T BE HIDDEN FOREVER
-YOUR SECRET CAN'T BE HIDDEN FOREVER
-YOUR BATTLE SENSE IS SADLY LACKING
-YOUR BATTLE SENSE IS SADLY LACKING
-I HAVE THIS EXCELLENT CAMERA
-I HAVE THIS EXCELLENT CAMERA
-I MIMIC POKéMON AFTER EVERY BATTLE
-I MIMIC POKéMON AFTER EVERY BATTLE
-I WISH YOU WOULD NOT GLARE
-I WISH YOU WOULD NOT GLARE
-SCHOOL IS OVER TIME TO PLAY
-SCHOOL IS OVER TIME TO PLAY
-SCHOOL IS OUT TIME TO PLAY
-SCHOOL IS OUT TIME TO PLAY
-DRAGON POKéMON ARE INVINCIBLE !
-DRAGON POKéMON ARE INVINCIBLE !
-MY PURE POWER IS MACHINE LIKE !
-MY PURE POWER IS MACHINE LIKE !
-MY FASHION SENSE SEEMS ODDISH ?
-MY FASHION SENSE SEEMS ODDISH ?
-YEAH ! YEAH
-YEAH ! YEAH
-ARE YOU FEELING MY HEAT WAVE ?
-ARE YOU FEELING MY HEAT WAVE ?
-FIGHTING SPIRIT ? ME ?
-FIGHTING SPIRIT ? ME ?
-A BATTLE IS DECIDED ON SPIRIT
-A BATTLE IS DECIDED ON SPIRIT
-IS YOUR POKéDEX REALLY AWESOME ?
-IS YOUR POKéDEX REALLY AWESOME ?
-I HAVE MY OWN PLACE YEEHAW!
-I HAVE MY OWN PLACE YEEHAW!
-WINTER WILL SOON BE HERE
-WINTER WILL SOON BE HERE
-DO YOU BATTLE WITH BEAUTY ?
-DO YOU BATTLE WITH BEAUTY ?
-I AM FEELING THIRSTY RIGHT NOW ...
-I AM FEELING THIRSTY RIGHT NOW ...
-I PRETEND TO STUDY A LOT
-I PRETEND TO STUDY A LOT
-I ENJOY COMICS AND THIS GAME
-I ENJOY COMICS AND THIS GAME
-I WORRY TOO MUCH TO SLEEP
-I WORRY TOO MUCH TO SLEEP
-I BELIEVE IN AN AROMATHERAPY BATH
-I BELIEVE IN AN AROMATHERAPY BATH
-MY HOBBY ?
-MY HOBBY ?
-I AM SAD CAUSE I AM TOO WEAK
-I AM SAD CAUSE I AM TOO WEAK
-YOU'VE GOT YOUR HUSTLE ON !
-YOU'VE GOT YOUR HUSTLE ON !
-I AM BORED ... DANCE FOR ME
-I AM BORED ... DANCE FOR ME
-LET'S COMMEMORATE MY COOLNESS IN BATTLE
-LET'S COMMEMORATE MY COOLNESS IN BATTLE
-WE WILL HAVE A COOL BATTLE
-WE WILL HAVE A COOL BATTLE
-MY SECRET POWER IS OVERWHELMING TO POKéMON
-MY SECRET POWER IS OVERWHELMING TO POKéMON
-I CUT DOWN EVERY OPPONENT
-I CUT DOWN EVERY OPPONENT
-I CAN'T WAIT FOR MY TRAIN
-I CAN'T WAIT FOR MY TRAIN
-THERE WAS A HEAT WAVE LAST WEEK
-THERE WAS A HEAT WAVE LAST WEEK
-I LIKE TO PLAY IN WATER
-I LIKE TO PLAY IN WATER
-THIS KINDERGARTEN MAGAZINE IS TOO MUCH
-THIS KINDERGARTEN MAGAZINE IS TOO MUCH
-THERE IS A BUG EVENT SOON
-THERE IS A BUG EVENT SOON
-THE INVINCIBLE BUG TRAINER IS HERE
-THE INVINCIBLE BUG TRAINER IS HERE
-I WENT TO A FISHING SCHOOL
-I WENT TO A FISHING SCHOOL
-SHOW ME A TOTALLY COOL CROSS CHOP
-SHOW ME A TOTALLY COOL CROSS CHOP
-MY WORK IS MAKING ME HEALTHY
-MY WORK IS MAKING ME HEALTHY
-WANT TO SEE MY HYPNOSIS ?
-WANT TO SEE MY HYPNOSIS ?
-THIS BATTLE IS FOR MY MOTHER
-THIS BATTLE IS FOR MY MOTHER
-OUR MUSIC WILL PLAY ALL NIGHT
-OUR MUSIC WILL PLAY ALL NIGHT
-I AM TRENDY AREN'T I ?
-I AM TRENDY AREN'T I ?
-HERE IT IS A FLYING TYPE HIDDEN MOVE
-HERE IT IS A FLYING TYPE HIDDEN MOVE
-I AM FEELING WEIRD FROM A DREAM
-I AM FEELING WEIRD FROM A DREAM
-COME ON LET'S DANCE LIKE IT'S YESTERDAY
-COME ON LET'S DANCE LIKE IT'S YESTERDAY
-MY GIRL GIVES ME A LITTLE SWEET KISS
-MY GIRL GIVES ME A LITTLE SWEET KISS
-SMARTNESS ALONE WON'T MAKE YOU WIN
-SMARTNESS ALONE WON'T MAKE YOU WIN
-CHARGE ! CHARGE !!
-CHARGE ! CHARGE !!
-TAKE THAT ! IT'S MY FIERY TRICK
-TAKE THAT ! IT'S MY FIERY TRICK
-A FIERY GOURMET AM I !
-A FIERY GOURMET AM I !
-I CAN'T WAIT TO GET GOING
-I CAN'T WAIT TO GET GOING
-A PRESENT FOR ME ?
-A PRESENT FOR ME ?
-A SHELL ARMOR IS WHAT I WANT
-A SHELL ARMOR IS WHAT I WANT
-IF I LOSE I WILL STUDY FOR SCHOOL
-IF I LOSE I WILL STUDY FOR SCHOOL
-IS THIS KIND OF BATTLE OK?
-IS THIS KIND OF BATTLE OK?
-A POKéMON FASHION CONTEST IS PRETTY
-A POKéMON FASHION CONTEST IS PRETTY
-I NEED MORE GRASS TYPE POKéMON
-I NEED MORE GRASS TYPE POKéMON
-INGRAIN IS MY CHOICE BATTLE MOVE
-INGRAIN IS MY CHOICE BATTLE MOVE
-I WANT TO ENJOY THIS BATTLE
-I WANT TO ENJOY THIS BATTLE
-I WISH SUNDAY IS A SUNNY DAY
-I WISH SUNDAY IS A SUNNY DAY
-A SWIFT SWIM WILL DO YOU GOOD
-A SWIFT SWIM WILL DO YOU GOOD
-I WILL TACKLE YOU DOWN !
-I WILL TACKLE YOU DOWN !
-MY HEROINE ADVENTURE ISN'T GOING WELL
-MY HEROINE ADVENTURE ISN'T GOING WELL
-YOU MAKE ME GO AHAHA !
-YOU MAKE ME GO AHAHA !
-YOU'RE A LIGHTNINGROD FOR MY POWER
-YOU'RE A LIGHTNINGROD FOR MY POWER
-I WILL BIDE MY TIME
-I WILL BIDE MY TIME
-PROMISE TO SHOW ME CUTE POKéMON
-PROMISE TO SHOW ME CUTE POKéMON
-I WANT A NICE PRESENT ...
-I WANT A NICE PRESENT ...
-LET'S SEE YOUR POWER IN FULL
-LET'S SEE YOUR POWER IN FULL
-WORK IS MAKING ME AN EARLY BIRD
-WORK IS MAKING ME AN EARLY BIRD
-YAY ! A TOUGH TRAINER !
-YAY ! A TOUGH TRAINER !
-WANT SOME HUNTAIL DESIGN SWEETS ?
-WANT SOME HUNTAIL DESIGN SWEETS ?
-I AM BETTER THAN ANY OTHER TRAINER
-I AM BETTER THAN ANY OTHER TRAINER
-I'VE NOT LOST ONCE YET !
-I'VE NOT LOST ONCE YET !
-THE TOP TRAINER THAT'S ME !
-THE TOP TRAINER THAT'S ME !
-MY BARRAGE WILL SLAM YOU !
-MY BARRAGE WILL SLAM YOU !
-I AM A TREASURE OF THIS WORLD
-I AM A TREASURE OF THIS WORLD
-OH A TRAINER WITH A SCARY FACE
-OH A TRAINER WITH A SCARY FACE
-I WILL SHOW YOU GUTSY !
-I WILL SHOW YOU GUTSY !
-I SEEK A TRULY GREAT BATTLE
-I SEEK A TRULY GREAT BATTLE
-YO ! LET'S GO !!
-YO ! LET'S GO !!
-MY POKéMON HAVE TOO MUCH POWER
-MY POKéMON HAVE TOO MUCH POWER
-WELL
-WELL
-ALL MY POKéMON ABSOLUTELY ADORE ME
-ALL MY POKéMON ABSOLUTELY ADORE ME
-I WANT TO SEE YOUR POKéMON
-I WANT TO SEE YOUR POKéMON
-I AM YOUNG AND STRONG !
-I AM YOUNG AND STRONG !
-DRAGON POKéMON ARE MY NO. 1 CHOICE
-DRAGON POKéMON ARE MY NO. 1 CHOICE
-LET'S HEAR YOU ROAR !
-LET'S HEAR YOU ROAR !
-I AM LIVING ONLY WITH DRAGON POKéMON
-I AM LIVING ONLY WITH DRAGON POKéMON
-THIS SHOULD BE OVER SOON ENOUGH
-THIS SHOULD BE OVER SOON ENOUGH
-I LIKE ROCK-SOLID POKéMON THE BEST
-I LIKE ROCK-SOLID POKéMON THE BEST
-I REJECT EVERY WEAK TRAINER
-I REJECT EVERY WEAK TRAINER
-AND YET ANOTHER BATTLE ?
-AND YET ANOTHER BATTLE ?
-A BATTLE GIRL THAT'S ME !
-A BATTLE GIRL THAT'S ME !
-EAT MY INVINCIBLE ATTACK YOU !
-EAT MY INVINCIBLE ATTACK YOU !
-GOOD TO MEET YOU YOUNG TRAINER !
-GOOD TO MEET YOU YOUNG TRAINER !
-I DON'T PLAY DOWN ALL RIGHT ?
-I DON'T PLAY DOWN ALL RIGHT ?
-I AM NOT OLD I AM SKILLED !
-I AM NOT OLD I AM SKILLED !
-YOU CAN'T BEAT ME DOWN !
-YOU CAN'T BEAT ME DOWN !
-WELL WELL LET'S START
-WELL WELL LET'S START
-I'VE BEEN HEARING ABOUT YOU
-I'VE BEEN HEARING ABOUT YOU
-I AM A SUPER POKéMON HERO !
-I AM A SUPER POKéMON HERO !
-THIS SHOULD BE AN EASY MATCH
-THIS SHOULD BE AN EASY MATCH
-MY FORESIGHT SAYS I WILL WIN
-MY FORESIGHT SAYS I WILL WIN
-SOMETHING GOOD WILL COME OF THIS
-SOMETHING GOOD WILL COME OF THIS
-EVERY TRAINER HAS BEEN TOO WEAK ...
-EVERY TRAINER HAS BEEN TOO WEAK ...
-I AM NOT A VERY MEAN TRAINER
-I AM NOT A VERY MEAN TRAINER
-DON'T GRUDGE ME IF I WIN OK?
-DON'T GRUDGE ME IF I WIN OK?
-I WILL SCATTER SOME POISONPOWDER ABOUT
-I WILL SCATTER SOME POISONPOWDER ABOUT
-WANT TO SEE SCARY POKéMON ?
-WANT TO SEE SCARY POKéMON ?
-HELLO ? HELLO ?!
-HELLO ? HELLO ?!
-YOU CAN LOSE YOUR SWAGGER NOW
-YOU CAN LOSE YOUR SWAGGER NOW
-I KNOW I AM TOTALLY COOL !
-I KNOW I AM TOTALLY COOL !
-THIS IS A HIGH LEVEL BATTLE
-THIS IS A HIGH LEVEL BATTLE
-I AM NOT THAT OLD YET
-I AM NOT THAT OLD YET
-I'VE A COUPLE THINGS
-I'VE A COUPLE THINGS
-PLEASE DON'T MAKE THIS SCARY
-PLEASE DON'T MAKE THIS SCARY
-LISTEN UP I ALWAYS WIN
-LISTEN UP I ALWAYS WIN
-THE SPORTS WORLD SHOULD ACCEPT POKéMON
-THE SPORTS WORLD SHOULD ACCEPT POKéMON
-COME ON YOU NEED A SPEED BOOST ?
-COME ON YOU NEED A SPEED BOOST ?
-NOT ANOTHER TRAINER BATTLE ...
-NOT ANOTHER TRAINER BATTLE ...
-I DIVE BELOW THE SURF !
-I DIVE BELOW THE SURF !
-DID YOU LIMBER UP BEFORE ?
-DID YOU LIMBER UP BEFORE ?
-I LIKE TO ATTACK WITH SUCTION CUPS
-I LIKE TO ATTACK WITH SUCTION CUPS
-LIKE A SONICBOOM I'VE ARRIVED
-LIKE A SONICBOOM I'VE ARRIVED
-A POKéMON MASTER THAT'S MY DREAM
-A POKéMON MASTER THAT'S MY DREAM
-DON'T YOU THINK I AM CUTE ?
-DON'T YOU THINK I AM CUTE ?
-I AM ALWAYS HAPPY HAPPY HAPPY !
-I AM ALWAYS HAPPY HAPPY HAPPY !
-I'VE GOT A LOT OF BUG POKéMON
-I'VE GOT A LOT OF BUG POKéMON
-WE REALLY DISLIKE FIRE AND FLYING
-WE REALLY DISLIKE FIRE AND FLYING
-FISHING IS MY CHOICE IN LIFE
-FISHING IS MY CHOICE IN LIFE
-I AM AN ADULT I BATTLE EASY
-I AM AN ADULT I BATTLE EASY
-I TRY THE BEST I CAN
-I TRY THE BEST I CAN
-I WAS ON VACATION UNTIL ONLY YESTERDAY
-I WAS ON VACATION UNTIL ONLY YESTERDAY
-WHAT'S UP? YOU THINK I AM SCARY ?
-WHAT'S UP? YOU THINK I AM SCARY ?
-I WOULD RATHER LOOK AT POKéMON
-I WOULD RATHER LOOK AT POKéMON
-IT'S HOPELESS TO STRUGGLE WITH ME
-IT'S HOPELESS TO STRUGGLE WITH ME
-WANT TO HEAR MY SONG ?
-WANT TO HEAR MY SONG ?
-FLYING POKéMON ARE ABOVE THE REST
-FLYING POKéMON ARE ABOVE THE REST
-MY POKéMON APPEAL TO YOU ?
-MY POKéMON APPEAL TO YOU ?
-LET ME WIN IN RETURN FOR A PRESENT
-LET ME WIN IN RETURN FOR A PRESENT
-I BRAG ABOUT MY HAPPINESS OK?
-I BRAG ABOUT MY HAPPINESS OK?
-COME ON LET'S GET A MOVE ON
-COME ON LET'S GET A MOVE ON
-LET'S TEACH YOU HOW TOUGH I AM
-LET'S TEACH YOU HOW TOUGH I AM
-NOW THIS IS A PERFECT FLAME BODY
-NOW THIS IS A PERFECT FLAME BODY
-I AM NO. 1 IN THE OLD CLASS
-I AM NO. 1 IN THE OLD CLASS
-I AM FEELING GIDDY SO SHOULD YOU
-I AM FEELING GIDDY SO SHOULD YOU
-LET'S ENJOY OUR BATTLE TOGETHER
-LET'S ENJOY OUR BATTLE TOGETHER
-I DISLIKE OH SO PRETTY FASHION
-I DISLIKE OH SO PRETTY FASHION
-I GO ALL OUT !
-I GO ALL OUT !
-I LIKE A TRAINER THAT'S REFRESHING
-I LIKE A TRAINER THAT'S REFRESHING
-I CAUSE OUTRAGE AS A TRAINER
-I CAUSE OUTRAGE AS A TRAINER
-Here I come!
-Here I come!
 [16]
-I AM STRONG AREN'T I ?
-I AM STRONG AREN'T I ?
-A WIN IS JUST AWESOME
-A WIN IS JUST AWESOME
-HAHAHA ! SEE YA LATER !
-HAHAHA ! SEE YA LATER !
-IT'S SAD TO SEE YOU STRUGGLE
-IT'S SAD TO SEE YOU STRUGGLE
-IT'S INCREDIBLE HOW STRONG I AM !
-IT'S INCREDIBLE HOW STRONG I AM !
-HAHAHA !! I AM LOLLING !
-HAHAHA !! I AM LOLLING !
-YOU DON'T STUDY ENOUGH ...
-YOU DON'T STUDY ENOUGH ...
-YOU'RE DONE AREN'T YOU ?
-YOU'RE DONE AREN'T YOU ?
-COOL ! THAT'S WHAT I AM
-COOL ! THAT'S WHAT I AM
-THERE IS NO SURRENDER IN ME
-THERE IS NO SURRENDER IN ME
-I WIN ! FATHER I'VE WON
-I WIN ! FATHER I'VE WON
-THANK YOU !! THANK YOU SO MUCH
-THANK YOU !! THANK YOU SO MUCH
-NATURALLY I WIN
-NATURALLY I WIN
-I WILL HAVE A POKéMON PARTY
-I WILL HAVE A POKéMON PARTY
-I LIKE MYSELF WHEN I WIN !
-I LIKE MYSELF WHEN I WIN !
-HERE IT IS YOUR SWEET KISS FROM MY JYNX
-HERE IT IS YOUR SWEET KISS FROM MY JYNX
-POKéMON NEVER GO OUT OF FASHION
-POKéMON NEVER GO OUT OF FASHION
-LIFE IS ALWAYS GOOD TO ME
-LIFE IS ALWAYS GOOD TO ME
-I AM READY TO GO ON !
-I AM READY TO GO ON !
-IT'S ME WHO IS REALLY TOUGH
-IT'S ME WHO IS REALLY TOUGH
-WAS THAT ENOUGH FOR YOU ?
-WAS THAT ENOUGH FOR YOU ?
-MY HAPPINESS IS OVERWHELMING !
-MY HAPPINESS IS OVERWHELMING !
-YUP I AM CUTE AND AWFULLY STRONG
-YUP I AM CUTE AND AWFULLY STRONG
-I SAID I WAS OLD BUT GOOD
-I SAID I WAS OLD BUT GOOD
-YEAH ! I AM OFF TO SURF
-YEAH ! I AM OFF TO SURF
-THAT WAS YOUR GOOD STRATEGY ?!
-THAT WAS YOUR GOOD STRATEGY ?!
-I AM NEW BUT I WON !
-I AM NEW BUT I WON !
-I AM SO HAPPY I CAN CRY
-I AM SO HAPPY I CAN CRY
-SO THIS IS AN ADULT FEELING
-SO THIS IS AN ADULT FEELING
-MY SUMMER VACATION WILL BE AWESOME
-MY SUMMER VACATION WILL BE AWESOME
-OH
-OH
-I NEED WATER TO COOL DOWN
-I NEED WATER TO COOL DOWN
-I WILL GO SURF RIGHT NOW
-I WILL GO SURF RIGHT NOW
-MY POKéMON SYNCHRONIZE WITH ME
-MY POKéMON SYNCHRONIZE WITH ME
-AFTER ALL I AM A KNOCKOUT !
-AFTER ALL I AM A KNOCKOUT !
-IT'S SO GREAT TO WIN !
-IT'S SO GREAT TO WIN !
-I AM HAPPY IF WE WIN TOGETHER
-I AM HAPPY IF WE WIN TOGETHER
-YOU'RE TOTALLY OUT OF THE QUESTION
-YOU'RE TOTALLY OUT OF THE QUESTION
-THIS IS A BEAUTIFUL DREAM !
-THIS IS A BEAUTIFUL DREAM !
-I AM FEELING OVERWHELMING JOY OVER THIS
-I AM FEELING OVERWHELMING JOY OVER THIS
-I WILL TREASURE THIS WIN
-I WILL TREASURE THIS WIN
-YOU SEE WHAT I MEAN ?
-YOU SEE WHAT I MEAN ?
-THAT'S IT! THAT'S THE SPIRIT !
-THAT'S IT! THAT'S THE SPIRIT !
-THAT'S HOW A GENIUS WORKS !
-THAT'S HOW A GENIUS WORKS !
-WELL DONE !
-WELL DONE !
-IT'S TOO BAD YOU LOST
-IT'S TOO BAD YOU LOST
-I AM SO HAPPY FOR MY POKéMON
-I AM SO HAPPY FOR MY POKéMON
-PROMISE ME YOU WILL DO BETTER
-PROMISE ME YOU WILL DO BETTER
-LOOK LOOK ! A SCARY BUG
-LOOK LOOK ! A SCARY BUG
-BUG POKéMON ARE THE BEST !
-BUG POKéMON ARE THE BEST !
-I AM ABOUT TO OVERHEAT
-I AM ABOUT TO OVERHEAT
-FORGIVE ME FOR MY OVERWHELMING POWER
-FORGIVE ME FOR MY OVERWHELMING POWER
-THE MASTER OF COOL THAT'S ME
-THE MASTER OF COOL THAT'S ME
-THERE WAS NOTHING SMOOTH ABOUT THAT
-THERE WAS NOTHING SMOOTH ABOUT THAT
-HOW I MEDITATE IS JUST BEAUTIFUL
-HOW I MEDITATE IS JUST BEAUTIFUL
-HOW DO YOU LIKE OUR POISONPOWDER ?
-HOW DO YOU LIKE OUR POISONPOWDER ?
-WHERE IS IT? I'VE LOST MY POKéNAV
-WHERE IS IT? I'VE LOST MY POKéNAV
-MMM DO YOU WANT SOME ?
-MMM DO YOU WANT SOME ?
-YOUR POKéMON DON'T MAKE THE CUT
-YOUR POKéMON DON'T MAKE THE CUT
-YES I KNOW I AM CUTE !
-YES I KNOW I AM CUTE !
-WAHAHAHA ! SORRY ABOUT THAT !
-WAHAHAHA ! SORRY ABOUT THAT !
-NOT COOL ! NOT AT ALL
-NOT COOL ! NOT AT ALL
-MY PARTY IS JUST INCREDIBLE !
-MY PARTY IS JUST INCREDIBLE !
-YOU SEE ? I CAN'T LOSE
-YOU SEE ? I CAN'T LOSE
-THANK YOU ! THANK YOU !!
-THANK YOU ! THANK YOU !!
-SEE ? I AM A GENIUS
-SEE ? I AM A GENIUS
-BUT I WANT A POKéMON PLUSH DOLL
-BUT I WANT A POKéMON PLUSH DOLL
-BYE-BYE ! YOU HAVE NO GUTS
-BYE-BYE ! YOU HAVE NO GUTS
-THAT WAS MY WILL TO WIN
-THAT WAS MY WILL TO WIN
-HERE IT IS A LITTLE PRAISE AS YOUR PRESENT
-HERE IT IS A LITTLE PRAISE AS YOUR PRESENT
-YOUR FASHION SENSE IS A DISASTER
-YOUR FASHION SENSE IS A DISASTER
-IT'S THE SWEET SCENT OF TASTY WATER
-IT'S THE SWEET SCENT OF TASTY WATER
-MY AROMATHERAPY IS TERRIBLE FOR YOU
-MY AROMATHERAPY IS TERRIBLE FOR YOU
-I ONLY MISS HIM MORE ...
-I ONLY MISS HIM MORE ...
-BUT I DON'T LIKE TO DANCE
-BUT I DON'T LIKE TO DANCE
-YOU MAKE ME THRASH IN FRUSTRATION
-YOU MAKE ME THRASH IN FRUSTRATION
-GOT IT ? DANCE WITH POWER
-GOT IT ? DANCE WITH POWER
-I ONLY COLLECT NORMAL VERSION TOYS
-I ONLY COLLECT NORMAL VERSION TOYS
-TOO EASY ! I AM SO COOL
-TOO EASY ! I AM SO COOL
-YES
-YES
-DON'T BE DISAPPOINTED I AM PERFECT
-DON'T BE DISAPPOINTED I AM PERFECT
-YOU WERE A SURPRISE TO ME !
-YOU WERE A SURPRISE TO ME !
-MY RIVAL IS MY GIRL FRIEND
-MY RIVAL IS MY GIRL FRIEND
-AM I OVERWHELMING OR WHAT ?
-AM I OVERWHELMING OR WHAT ?
-DID MY TAUNT INTIMIDATE YOU ?
-DID MY TAUNT INTIMIDATE YOU ?
-SERIOUSLY ARE YOU REALLY OK?
-SERIOUSLY ARE YOU REALLY OK?
-FIRE ! FIRE !!
-FIRE ! FIRE !!
-A LITTLE RADIO HUH? THAT'S TOTALLY COOL
-A LITTLE RADIO HUH? THAT'S TOTALLY COOL
-I LEFT YOU JUST AN EMBER
-I LEFT YOU JUST AN EMBER
-I AM THE LEADER WITH REFRESHING SERENE GRACE
-I AM THE LEADER WITH REFRESHING SERENE GRACE
-LIKE I SAID I AM DARN FAST
-LIKE I SAID I AM DARN FAST
-DON'T TAUNT ME LIKE THAT OK?
-DON'T TAUNT ME LIKE THAT OK?
-THAT WAS A TASTY VICTORY FOR ME
-THAT WAS A TASTY VICTORY FOR ME
-I AM HAPPY THAT I WON !
-I AM HAPPY THAT I WON !
-THAT'S IT! THAT WAS FABULOUS !
-THAT'S IT! THAT WAS FABULOUS !
-MY DIVE WILL BE A LEGEND
-MY DIVE WILL BE A LEGEND
-I MAKE IT LOOK SO EASY
-I MAKE IT LOOK SO EASY
-I FINALLY WON ... I AM TIRED
-I FINALLY WON ... I AM TIRED
-THE QUICK ATTACK TRAINER WINS !
-THE QUICK ATTACK TRAINER WINS !
-THANK YOU FROM THE SPEED BOOST HERO !
-THANK YOU FROM THE SPEED BOOST HERO !
-YES I WOULD MUCH RATHER RUN
-YES I WOULD MUCH RATHER RUN
-I CAN'T WAIT FOR MY BABY
-I CAN'T WAIT FOR MY BABY
-A BABY WILL BE A LITTLE CHALLENGE
-A BABY WILL BE A LITTLE CHALLENGE
-I SHOULD ENJOY SOME SPORTS !
-I SHOULD ENJOY SOME SPORTS !
-I DO THINGS AT EXTREMESPEED !
-I DO THINGS AT EXTREMESPEED !
-AHAHA SEE ? THAT WAS FANTASTIC !
-AHAHA SEE ? THAT WAS FANTASTIC !
-DON'T COME NEAR MY BIKE !
-DON'T COME NEAR MY BIKE !
-WHAT ?! I WON ?!
-WHAT ?! I WON ?!
-YOU'RE OUT OF HERE !
-YOU'RE OUT OF HERE !
-I WON'T FORGET ABOUT YOU
-I WON'T FORGET ABOUT YOU
-I AM THE WINNER HEAR ME ROAR
-I AM THE WINNER HEAR ME ROAR
-A LADY GHOST APPEARS THERE
-A LADY GHOST APPEARS THERE
-UNDERSTAND MY POWER NOW ?
-UNDERSTAND MY POWER NOW ?
-OH ! THE SWEET SCENT OF VICTORY
-OH ! THE SWEET SCENT OF VICTORY
-YOU CAN'T BEAT ME !
-YOU CAN'T BEAT ME !
-GIGGLE ...
-GIGGLE ...
-JUST A LITTLE KID AFTER ALL !
-JUST A LITTLE KID AFTER ALL !
-OH YES ! WHY NOT ?
-OH YES ! WHY NOT ?
-MORE ! ANOTHER BATTLE !
-MORE ! ANOTHER BATTLE !
-EXCUSE ME BUT YOU'RE A PUSHOVER !
-EXCUSE ME BUT YOU'RE A PUSHOVER !
-YOUR ROCK HEAD EXISTS TO SHINE !
-YOUR ROCK HEAD EXISTS TO SHINE !
-I AM HAPPY LIKE A LITTLE TOGEPI !
-I AM HAPPY LIKE A LITTLE TOGEPI !
-MY VICTORY WILL MAKE THE NEWS
-MY VICTORY WILL MAKE THE NEWS
-HAVE SOME MORE OF THIS !
-HAVE SOME MORE OF THIS !
-I SAID THAT YOU SHOULD STOP
-I SAID THAT YOU SHOULD STOP
-YOUR POKéMON ARE MY TOYS NOW
-YOUR POKéMON ARE MY TOYS NOW
-THERE WASN'T MY FORECAST RIGHT ?
-THERE WASN'T MY FORECAST RIGHT ?
-MY SLEEP WILL BE EXCELLENT NOW
-MY SLEEP WILL BE EXCELLENT NOW
-HAHAHA ! ARE YOU ANGRY ?
-HAHAHA ! ARE YOU ANGRY ?
-I HAVE A GROWTH OF ACID ARMOR
-I HAVE A GROWTH OF ACID ARMOR
-IT'S INCREDIBLE MY RENTAL POKéMON WON
-IT'S INCREDIBLE MY RENTAL POKéMON WON
-I DIDN'T THINK YOU'RE GOOD ENOUGH
-I DIDN'T THINK YOU'RE GOOD ENOUGH
-COMICS GET DAMP FROM DRIZZLE ?
-COMICS GET DAMP FROM DRIZZLE ?
-MY SCREECH STRATEGY IS THE BEST
-MY SCREECH STRATEGY IS THE BEST
-TAKE DOWN TAKE A DIVE YO YO
-TAKE DOWN TAKE A DIVE YO YO
-POUND MY BELLY DRUM POUND MY BELLY DRUM
-POUND MY BELLY DRUM POUND MY BELLY DRUM
-MY HYPNOSIS STRATEGY WORKS TO PERFECTION
-MY HYPNOSIS STRATEGY WORKS TO PERFECTION
-I AM NOT AS I APPEAR ...
-I AM NOT AS I APPEAR ...
-THAT'S THE FEELING THAT I GET
-THAT'S THE FEELING THAT I GET
-I AM FEELING PRETTY AWESOME ABOUT MYSELF
-I AM FEELING PRETTY AWESOME ABOUT MYSELF
-THAT GOURMET THING ISN'T FOR ME
-THAT GOURMET THING ISN'T FOR ME
-THAT WAS TOO EXCITING FOR ME ...
-THAT WAS TOO EXCITING FOR ME ...
-YOU SHOULD ACCEPT THIS WITH SERENE GRACE
-YOU SHOULD ACCEPT THIS WITH SERENE GRACE
-I LOSE MYSELF IF IT'S EXCITING
-I LOSE MYSELF IF IT'S EXCITING
-I KNOW YOUR SECRET NOW !
-I KNOW YOUR SECRET NOW !
-MY BATTLE SENSE IS COOL ISN'T IT?
-MY BATTLE SENSE IS COOL ISN'T IT?
-MY CAMERA WAS AWFULLY EXPENSIVE
-MY CAMERA WAS AWFULLY EXPENSIVE
-IF I WIN I PRETEND I AM A TAUROS
-IF I WIN I PRETEND I AM A TAUROS
-YOU'RE MEAN ! I MEAN REALLY
-YOU'RE MEAN ! I MEAN REALLY
-MY BOY FRIEND IS FROM SCHOOL
-MY BOY FRIEND IS FROM SCHOOL
-MY BOY FRIEND LIKES COMICS
-MY BOY FRIEND LIKES COMICS
-YOU WEREN'T BAD I WAS JUST BETTER
-YOU WEREN'T BAD I WAS JUST BETTER
-MY MACH PUNCH WILL MAKE A BRICK BREAK
-MY MACH PUNCH WILL MAKE A BRICK BREAK
-IT'S MY FAMILY STAY-AT-HOME LOOK !
-IT'S MY FAMILY STAY-AT-HOME LOOK !
-WAHAHAHA WAHAHAHA ! WAHAHAHA WAHAHAHA !!
-WAHAHAHA WAHAHAHA ! WAHAHAHA WAHAHAHA !!
-YES I AM ON FIRE !
-YES I AM ON FIRE !
-I WANT MORE CUTE POKéMON
-I WANT MORE CUTE POKéMON
-CAN'T YOU ACCEPT THAT ?
-CAN'T YOU ACCEPT THAT ?
-IT'S AN EXCITING TIME FOR ME
-IT'S AN EXCITING TIME FOR ME
-MY ALLOWANCE COULD USE A HELPING HAND
-MY ALLOWANCE COULD USE A HELPING HAND
-YOU BATTLE IN AN UGLY WAY
-YOU BATTLE IN AN UGLY WAY
-I COULD USE A COLD DRINK
-I COULD USE A COLD DRINK
-I TRICK MOTHER FOR MY ALLOWANCE
-I TRICK MOTHER FOR MY ALLOWANCE
-I LIKE THIS MUSIC IDOL TOO
-I LIKE THIS MUSIC IDOL TOO
-A WIN GIVES ME A CALM MIND
-A WIN GIVES ME A CALM MIND
-I WANT A HEALTHY CLEAR BODY
-I WANT A HEALTHY CLEAR BODY
-I LIKE ANY KIND OF WATER SPORT
-I LIKE ANY KIND OF WATER SPORT
-YOU AREN'T TOO STRONG FOR ME
-YOU AREN'T TOO STRONG FOR ME
-I WIN YOU HUSTLE ON OUT
-I WIN YOU HUSTLE ON OUT
-YOU'VE BORED ME SOME MORE
-YOU'VE BORED ME SOME MORE
-YOU'RE TOO WEAK FOR ANY PRAISE
-YOU'RE TOO WEAK FOR ANY PRAISE
-I WON IN A COOL WAY
-I WON IN A COOL WAY
-DID YOU SEE THAT ?
-DID YOU SEE THAT ?
-DON'T GRUDGE ME FOR YOUR LOSS
-DON'T GRUDGE ME FOR YOUR LOSS
-MY TRAIN ISN'T HERE YET ...
-MY TRAIN ISN'T HERE YET ...
-I CAN'T TAKE A HEAT WAVE
-I CAN'T TAKE A HEAT WAVE
-I REFUSE TO COME OUT
-I REFUSE TO COME OUT
-HOW TO BUG YOUR TEACHER ?
-HOW TO BUG YOUR TEACHER ?
-IT'S A BUG FASHION SHOW !
-IT'S A BUG FASHION SHOW !
-THE INVINCIBLE BUG TRAINER AM I
-THE INVINCIBLE BUG TRAINER AM I
-SERIOUSLY I AM IN THE FISHING HALL OF FAME
-SERIOUSLY I AM IN THE FISHING HALL OF FAME
-YOU'RE TOO WEAK TO DO A CROSS CHOP
-YOU'RE TOO WEAK TO DO A CROSS CHOP
-YOU SEE ? I AM HEALTHY !
-YOU SEE ? I AM HEALTHY !
-GOOD-BYE AND THANK YOU THAT WAS FUNNY
-GOOD-BYE AND THANK YOU THAT WAS FUNNY
-YOUR FURY SWIPES YOUR STRENGTH YOUNG TRAINER
-YOUR FURY SWIPES YOUR STRENGTH YOUNG TRAINER
-MOTHER WILL BE HAPPY FOR ME
-MOTHER WILL BE HAPPY FOR ME
-NIGHTTIME IS WHEN I PLAY BEST
-NIGHTTIME IS WHEN I PLAY BEST
-I AM FEELING HIP AND HAPPENING OH
-I AM FEELING HIP AND HAPPENING OH
-IT'S A FLYING TYPE VICTORY !
-IT'S A FLYING TYPE VICTORY !
-YOUR SCARY FACE WAS IN MY DREAM
-YOUR SCARY FACE WAS IN MY DREAM
-YOU LIKE HOW I DANCE ?
-YOU LIKE HOW I DANCE ?
-MY GIRL FRIEND IS MY TREASURE
-MY GIRL FRIEND IS MY TREASURE
-I AM NOT VERY SMART BUT I WON
-I AM NOT VERY SMART BUT I WON
-SURRENDER ? SO SOON ?
-SURRENDER ? SO SOON ?
-DID MY FIERY TRICK ASTONISH ?
-DID MY FIERY TRICK ASTONISH ?
-IT'S A TASTY GOURMET VICTORY !
-IT'S A TASTY GOURMET VICTORY !
-GET GOING ! THIS IS GOOD-BYE
-GET GOING ! THIS IS GOOD-BYE
-MMM THIS IS QUITE TASTY ...
-MMM THIS IS QUITE TASTY ...
-MY FATHER AND MOTHER WON'T ACCEPT
-MY FATHER AND MOTHER WON'T ACCEPT
-ME STUDY ? NOT VERY LIKELY TO SEE
-ME STUDY ? NOT VERY LIKELY TO SEE
-LET'S GO FOR AN ICY WIND SURF
-LET'S GO FOR AN ICY WIND SURF
-I REALLY LIKE MODE FASHION THINGS
-I REALLY LIKE MODE FASHION THINGS
-TRADE ME A GRASS POKéMON PLEASE
-TRADE ME A GRASS POKéMON PLEASE
-YOU CAN'T MOVE ME NOW !
-YOU CAN'T MOVE ME NOW !
-THAT WAS MUCH TOO EASY !
-THAT WAS MUCH TOO EASY !
-SUNDAY SEEMS FOREVER TO COME ...
-SUNDAY SEEMS FOREVER TO COME ...
-THAT'S HOW I SINK AN OPPONENT
-THAT'S HOW I SINK AN OPPONENT
-DON'T YOU RUN AWAY YOU LOSER !
-DON'T YOU RUN AWAY YOU LOSER !
-THANK YOU ! THAT'S WHAT I NEED
-THANK YOU ! THAT'S WHAT I NEED
-LALALA NO LOSING FOR ME !
-LALALA NO LOSING FOR ME !
-THAT'S ALL YOU COULD ABSORB ?
-THAT'S ALL YOU COULD ABSORB ?
-IT'S OVER SO SOON ?
-IT'S OVER SO SOON ?
-GIGGLE ... THANK YOU SO MUCH
-GIGGLE ... THANK YOU SO MUCH
-PLEASE GET ME A POKéMON GAME
-PLEASE GET ME A POKéMON GAME
-THAT WAS NOT YOUR FULL POWER !
-THAT WAS NOT YOUR FULL POWER !
-ALL WORK AND NO PLAY ...
-ALL WORK AND NO PLAY ...
-AWW ! A WIMPY TRAINER !
-AWW ! A WIMPY TRAINER !
-THEY'RE A SECRET POKéMON GOURMET ITEM
-THEY'RE A SECRET POKéMON GOURMET ITEM
-I DID IT JUMP KICK FOR JOY
-I DID IT JUMP KICK FOR JOY
-YOUR SAD LOOK BECOMES YOU
-YOUR SAD LOOK BECOMES YOU
-THE TOP RANK BELONGS TO ME !
-THE TOP RANK BELONGS TO ME !
-YOU DIDN'T COUNT ON ANY LESS ?
-YOU DIDN'T COUNT ON ANY LESS ?
-MY WORLD IS FULL OF WONDER
-MY WORLD IS FULL OF WONDER
-AHAHA YOU ONLY LOOK SCARY !
-AHAHA YOU ONLY LOOK SCARY !
-IT'S ALL ABOUT GUTS !
-IT'S ALL ABOUT GUTS !
-I NEED A LOT BETTER BATTLE ...
-I NEED A LOT BETTER BATTLE ...
-YO ! I WON YO
-YO ! I WON YO
-THEY HAVE MORE POWER NOW !
-THEY HAVE MORE POWER NOW !
-I SEE THAT IT WAS TOO STRONG
-I SEE THAT IT WAS TOO STRONG
-HAPPINESS IS A POKéMON WITH CUTE CHARM
-HAPPINESS IS A POKéMON WITH CUTE CHARM
-WELL AREN'T THEY BORING ? AHAHA
-WELL AREN'T THEY BORING ? AHAHA
-SEE ? AREN'T I GOOD ?
-SEE ? AREN'T I GOOD ?
-IT'S NO SECRET DRAGON POKéMON WIN
-IT'S NO SECRET DRAGON POKéMON WIN
-WROOOAAR! VICTORY !!
-WROOOAAR! VICTORY !!
-THE WAY I AM LIVING IS PERFECT
-THE WAY I AM LIVING IS PERFECT
-WELL THAT DIDN'T TAKE VERY MUCH
-WELL THAT DIDN'T TAKE VERY MUCH
-TOUGHNESS IS THE WAY TO GO
-TOUGHNESS IS THE WAY TO GO
-HUMPH ! ANOTHER WEAK TRAINER ...
-HUMPH ! ANOTHER WEAK TRAINER ...
-I WON BUT I AM TIRED ...
-I WON BUT I AM TIRED ...
-ISN'T A BATTLE GIRL AWESOME ?
-ISN'T A BATTLE GIRL AWESOME ?
-YOU HAVE MUCH TO LEARN
-YOU HAVE MUCH TO LEARN
-WAHAHAHA ! GIVE IT UP
-WAHAHAHA ! GIVE IT UP
-YOU'RE FAR TOO EASY TO ATTACK
-YOU'RE FAR TOO EASY TO ATTACK
-SKILLED THAT'S WHAT I AM !
-SKILLED THAT'S WHAT I AM !
-HAH ! I BEAT YOU
-HAH ! I BEAT YOU
-WHAT ? DONE SO SOON ?
-WHAT ? DONE SO SOON ?
-I THINK I'VE MISHEARD THINGS
-I THINK I'VE MISHEARD THINGS
-IT REALLY WAS EASY
-IT REALLY WAS EASY
-MY FORESIGHT HAS BEEN PERFECT
-MY FORESIGHT HAS BEEN PERFECT
-YOU SEE ? FANTASTIC !
-YOU SEE ? FANTASTIC !
-IT'S MAKING ME YAWN THAT BATTLE
-IT'S MAKING ME YAWN THAT BATTLE
-WASN'T THAT A GOOD MATCH ?
-WASN'T THAT A GOOD MATCH ?
-I AM SORRY TO SEE YOU ANGRY
-I AM SORRY TO SEE YOU ANGRY
-IT'S SCARY HOW MY STRATEGY WORKS
-IT'S SCARY HOW MY STRATEGY WORKS
-WASN'T THAT SCARY EH?
-WASN'T THAT SCARY EH?
-HELLO MOTHER ! I WON !
-HELLO MOTHER ! I WON !
-THERE IS NO SWAGGER LEFT EH?
-THERE IS NO SWAGGER LEFT EH?
-YOU CAN LOOK UP TO ME
-YOU CAN LOOK UP TO ME
-THAT WAS HIGH LEVEL AND EXCITING TOO
-THAT WAS HIGH LEVEL AND EXCITING TOO
-WHO SAYS I AM TOO OLD ?
-WHO SAYS I AM TOO OLD ?
-DON'T DIET PLAY SPORTS INSTEAD
-DON'T DIET PLAY SPORTS INSTEAD
-THANK YOU ... I AM HAPPY NOW
-THANK YOU ... I AM HAPPY NOW
-I AM A GENIUS OR WHAT ?
-I AM A GENIUS OR WHAT ?
-THANK YOU ! THAT WIN WAS REFRESHING
-THANK YOU ! THAT WIN WAS REFRESHING
-YOU NEED TO SHOW MORE GUTS
-YOU NEED TO SHOW MORE GUTS
-WON'T THIS EVER END ?
-WON'T THIS EVER END ?
-YAHOO TAKE A DIVE YOU !
-YAHOO TAKE A DIVE YOU !
-YOU NEED TO BE MORE READY
-YOU NEED TO BE MORE READY
-GIGGLE ... IT'S OVER FOR YOU
-GIGGLE ... IT'S OVER FOR YOU
-SORRY TO MAKE YOU SO DOWNCAST
-SORRY TO MAKE YOU SO DOWNCAST
-MY DREAM ISN'T FAR OFF !
-MY DREAM ISN'T FAR OFF !
-THERE IS MORE TO ME THAN CUTENESS
-THERE IS MORE TO ME THAN CUTENESS
-OH YAY ! YAHOO FOR ME
-OH YAY ! YAHOO FOR ME
-MY BUG POKéMON ARE ALL UNBELIEVABLE
-MY BUG POKéMON ARE ALL UNBELIEVABLE
-BUG POKéMON AREN'T BAD HEY?
-BUG POKéMON AREN'T BAD HEY?
-WATER POKéMON ATTRACT ME WITHOUT END
-WATER POKéMON ATTRACT ME WITHOUT END
-I AM AN ADULT I SWALLOW JOY
-I AM AN ADULT I SWALLOW JOY
-I CAN WIN IF I TRY ENOUGH
-I CAN WIN IF I TRY ENOUGH
-I HAVEN'T LOST MY SKILL YET
-I HAVEN'T LOST MY SKILL YET
-I AM COOL BUT NOT SCARY !
-I AM COOL BUT NOT SCARY !
-HUH? YOU MEAN I WON ?!
-HUH? YOU MEAN I WON ?!
-SUBMISSION WAS YOUR ONLY CHOICE
-SUBMISSION WAS YOUR ONLY CHOICE
-SATISFIED THAT'S WHAT I AM !
-SATISFIED THAT'S WHAT I AM !
-YOU CAN'T WIN ! FLYING POKéMON RULE
-YOU CAN'T WIN ! FLYING POKéMON RULE
-YOU DO LIKE MY POKéMON ?
-YOU DO LIKE MY POKéMON ?
-HERE YOU ARE SOME TOXIC SWEETS
-HERE YOU ARE SOME TOXIC SWEETS
-YOU HAVE TO LISTEN TO ME BRAG
-YOU HAVE TO LISTEN TO ME BRAG
-I GET TO NAP AFTER THAT
-I GET TO NAP AFTER THAT
-LOOK AT ME MAKE A BRICK BREAK
-LOOK AT ME MAKE A BRICK BREAK
-LOOK AT MY FIERY DANCE !
-LOOK AT MY FIERY DANCE !
-NO. 1 THAT'S WHAT I AM !
-NO. 1 THAT'S WHAT I AM !
-IT WAS ALL TOGETHER TOO EASY
-IT WAS ALL TOGETHER TOO EASY
-THAT'S IT! THANK YOU VERY MUCH
-THAT'S IT! THANK YOU VERY MUCH
-FASHION SHOULD MATCH THE PERSON
-FASHION SHOULD MATCH THE PERSON
-DON'T BE A BABY !
-DON'T BE A BABY !
-VICTORY HAS A SWEET SCENT !
-VICTORY HAS A SWEET SCENT !
-IT'S ONLY NATURAL SEE YA BYE-BYE !
-IT'S ONLY NATURAL SEE YA BYE-BYE !
-Yes, I won!
-Yes, I won!
 [17]
-WHAT ? BUT HOW ?
-WHAT ? BUT HOW ?
-DARN ... LOSING DOES BUG ME
-DARN ... LOSING DOES BUG ME
-TOMORROW IS WHEN WE REALLY BATTLE
-TOMORROW IS WHEN WE REALLY BATTLE
-THIS CAN'T BE HAPPENING TO ME !
-THIS CAN'T BE HAPPENING TO ME !
-OH
-OH
-I AM FEELING SAD THANKS TO YOU
-I AM FEELING SAD THANKS TO YOU
-I NEED TO STUDY MORE ...
-I NEED TO STUDY MORE ...
-WE WERE LIKE TOYS TO YOU
-WE WERE LIKE TOYS TO YOU
-I AM NOT GOING TO BE COOL
-I AM NOT GOING TO BE COOL
-THAT'S IT ... I GIVE UP ...
-THAT'S IT ... I GIVE UP ...
-FORGIVE ME FATHER FOR I'VE LOST
-FORGIVE ME FATHER FOR I'VE LOST
-WERE YOU REALLY BEING SERIOUS ?
-WERE YOU REALLY BEING SERIOUS ?
-WAAAH ! I LOST MOTHER
-WAAAH ! I LOST MOTHER
-HOW COULD YOU DO THAT ?
-HOW COULD YOU DO THAT ?
-I LIKE MYSELF IF I LOSE TOO
-I LIKE MYSELF IF I LOSE TOO
-YOU WANT A SWIFT MEGA KICK INSTEAD
-YOU WANT A SWIFT MEGA KICK INSTEAD
-LOSING DOESN'T DISAPPOINT ME
-LOSING DOESN'T DISAPPOINT ME
-I WORRY ABOUT MY POKéMON SKILL
-I WORRY ABOUT MY POKéMON SKILL
-I'VE LOST MY FOCUS ENERGY AND TOUGHNESS
-I'VE LOST MY FOCUS ENERGY AND TOUGHNESS
-I AM RIGHT ! YOU'RE REALLY TOUGH
-I AM RIGHT ! YOU'RE REALLY TOUGH
-MOTHER NATURE DIDN'T LET ME WIN ?
-MOTHER NATURE DIDN'T LET ME WIN ?
-YOU'VE DESTROYED MY HAPPINESS ...
-YOU'VE DESTROYED MY HAPPINESS ...
-I AM WEAK ... BUT I AM CUTE
-I AM WEAK ... BUT I AM CUTE
-WHAT A WEIRD DREAM THAT WAS !
-WHAT A WEIRD DREAM THAT WAS !
-OH NO ! A WHIRLPOOL !
-OH NO ! A WHIRLPOOL !
-WOW THAT IS AN AWESOME STRATEGY
-WOW THAT IS AN AWESOME STRATEGY
-I AM NEW SO WHAT IF I LOSE ?
-I AM NEW SO WHAT IF I LOSE ?
-I AM SO SAD I WILL CRY
-I AM SO SAD I WILL CRY
-AN ADULT CAN'T BEAT YOU ?
-AN ADULT CAN'T BEAT YOU ?
-I CAN'T WIN LIKE THIS ...
-I CAN'T WIN LIKE THIS ...
-NOTHING IS WORKING OUT FOR ME
-NOTHING IS WORKING OUT FOR ME
-YOU HAVE ME FEELING ICE COLD
-YOU HAVE ME FEELING ICE COLD
-I WILL BEAT UP MY SURF BOARD
-I WILL BEAT UP MY SURF BOARD
-I NEED TO SYNCHRONIZE BETTER ...
-I NEED TO SYNCHRONIZE BETTER ...
-THAT'S NOT THE KNOCKOUT I MEAN
-THAT'S NOT THE KNOCKOUT I MEAN
-HUH? I SHOULD NOT HAVE LOST
-HUH? I SHOULD NOT HAVE LOST
-I ADORE MY POKéMON MORE IF I LOSE
-I ADORE MY POKéMON MORE IF I LOSE
-YOU DO ADORE YOUR POKéMON !
-YOU DO ADORE YOUR POKéMON !
-THIS IS AN AWFUL NIGHTMARE !
-THIS IS AN AWFUL NIGHTMARE !
-DESTROYED IS THE WAY I AM FEELING
-DESTROYED IS THE WAY I AM FEELING
-I WANT TO GO HOME RIGHT NOW
-I WANT TO GO HOME RIGHT NOW
-SHOULD I NOT ADORE POKéMON ?
-SHOULD I NOT ADORE POKéMON ?
-WELL SO MUCH FOR OUR SPIRIT
-WELL SO MUCH FOR OUR SPIRIT
-YOU'RE MORE A GENIUS THAN I AM
-YOU'RE MORE A GENIUS THAN I AM
-THAT WAS A SOFTBOILED LOSS ...
-THAT WAS A SOFTBOILED LOSS ...
-YOU'RE KIND AND YOU'RE ALSO STRONG
-YOU'RE KIND AND YOU'RE ALSO STRONG
-PROMISE ME ANOTHER BATTLE PLEASE !
-PROMISE ME ANOTHER BATTLE PLEASE !
-OH A BUG ISN'T SCARY ...
-OH A BUG ISN'T SCARY ...
-YOU'RE IGNORANT ABOUT BUG POKéMON
-YOU'RE IGNORANT ABOUT BUG POKéMON
-PLEASE I NEED SOME WATER
-PLEASE I NEED SOME WATER
-I AM SORRY ...
-I AM SORRY ...
-I SEE I AM NOT SO COOL
-I SEE I AM NOT SO COOL
-YOU REALLY ARE SMOOTH !
-YOU REALLY ARE SMOOTH !
-I WILL MEDITATE FOR A CALM MIND
-I WILL MEDITATE FOR A CALM MIND
-MY COTTON SPORE WAS USELESS
-MY COTTON SPORE WAS USELESS
-WHERE IS IT? I'VE LOST MY SENSE
-WHERE IS IT? I'VE LOST MY SENSE
-I GOT THIS TASTY WATER SHOPPING
-I GOT THIS TASTY WATER SHOPPING
-I AM THE TRAINER WHO IS FEELING DOWNCAST
-I AM THE TRAINER WHO IS FEELING DOWNCAST
-MEW MEW ! MEW !!
-MEW MEW ! MEW !!
-IT'S A TOUGH LOSS TO SWALLOW
-IT'S A TOUGH LOSS TO SWALLOW
-I AM OLD AND FEELING SHAKY ...
-I AM OLD AND FEELING SHAKY ...
-I CRY FOR MY PARTY ...
-I CRY FOR MY PARTY ...
-NO ! I WON'T ACCEPT THIS
-NO ! I WON'T ACCEPT THIS
-GOOD-BYE ! GOOD-BYE !!
-GOOD-BYE ! GOOD-BYE !!
-I AM NOT A GENIUS IN BATTLE
-I AM NOT A GENIUS IN BATTLE
-I SO WANT ANOTHER POKéMON PLUSH DOLL
-I SO WANT ANOTHER POKéMON PLUSH DOLL
-THAT WAS GUTSY ... YOU'RE QUITE SUPER
-THAT WAS GUTSY ... YOU'RE QUITE SUPER
-YOU'RE FAR TOO STRONG FOR ME
-YOU'RE FAR TOO STRONG FOR ME
-THAT WAS GOOD AND THIS IS GOOD-BYE
-THAT WAS GOOD AND THIS IS GOOD-BYE
-YOUR PRESENT ?! HERE IT IS A DOUBLESLAP
-YOUR PRESENT ?! HERE IT IS A DOUBLESLAP
-THAT WAS AWFUL ! I AM GOING HOME
-THAT WAS AWFUL ! I AM GOING HOME
-IT'S YOUR OFFENSIVE STENCH THAT'S WHAT
-IT'S YOUR OFFENSIVE STENCH THAT'S WHAT
-DIDN'T YOU SMELL A THING ?!
-DIDN'T YOU SMELL A THING ?!
-I AM SO LONESOME WITHOUT HIM ...
-I AM SO LONESOME WITHOUT HIM ...
-GO GO ... JUST FLAIL ABOUT
-GO GO ... JUST FLAIL ABOUT
-THIS IS IT! GOOD-BYE FOREVER !
-THIS IS IT! GOOD-BYE FOREVER !
-OKAY YOU UNDERSTAND ALL RIGHT !
-OKAY YOU UNDERSTAND ALL RIGHT !
-I ATTRACT COLOR CHANGE VERSION TOYS ...
-I ATTRACT COLOR CHANGE VERSION TOYS ...
-WHY ?! I CURSE YOU
-WHY ?! I CURSE YOU
-SERIOUS ?!
-SERIOUS ?!
-BUT HOW ? I AM PERFECT ...
-BUT HOW ? I AM PERFECT ...
-I DON'T KNOW WHO I AM ...
-I DON'T KNOW WHO I AM ...
-I AM MAKING YOU MY RIVAL
-I AM MAKING YOU MY RIVAL
-YOU'RE GOING TO A LEGEND !
-YOU'RE GOING TO A LEGEND !
-THAT WAS REALLY TOUGH ON ME
-THAT WAS REALLY TOUGH ON ME
-I AM TIRED ... IT'S SO HOT
-I AM TIRED ... IT'S SO HOT
-IT'S NOT ? IS POKéNAV ?
-IT'S NOT ? IS POKéNAV ?
-AIYEEH !! NO WATER PLEASE
-AIYEEH !! NO WATER PLEASE
-I WILL THRASH MY TOYS !
-I WILL THRASH MY TOYS !
-I WAS KIDDING ABOUT THAT TELEPORT THING
-I WAS KIDDING ABOUT THAT TELEPORT THING
-WHY COULDN'T I WIN THIS ?
-WHY COULDN'T I WIN THIS ?
-TOO TOUGH TO CRUSH !
-TOO TOUGH TO CRUSH !
-IT'S A SECRET WHY I AM HAPPY
-IT'S A SECRET WHY I AM HAPPY
-THAT WAS NOT WHAT I NEED
-THAT WAS NOT WHAT I NEED
-MY DIVE LEFT ME COLD ...
-MY DIVE LEFT ME COLD ...
-I AM FEELING BEAT UP AND TIRED
-I AM FEELING BEAT UP AND TIRED
-I FINALLY LOST ... I AM TIRED
-I FINALLY LOST ... I AM TIRED
-THE QUICK ATTACK TRAINER GIVES UP !
-THE QUICK ATTACK TRAINER GIVES UP !
-WAAAH !! NO NO !!
-WAAAH !! NO NO !!
-BYE-BYE ! I AM GOING TO RUN AWAY
-BYE-BYE ! I AM GOING TO RUN AWAY
-MY BABY WILL BE TOTALLY AWESOME
-MY BABY WILL BE TOTALLY AWESOME
-I AM TOO HAPPY TO BE ANGRY
-I AM TOO HAPPY TO BE ANGRY
-I WILL GO PLAY A GAME
-I WILL GO PLAY A GAME
-I LOST AT EXTREMESPEED ...
-I LOST AT EXTREMESPEED ...
-AHAHA SEE ? THAT WAS ENTERTAINING !
-AHAHA SEE ? THAT WAS ENTERTAINING !
-MY BIKE IS MY BEST FRIEND
-MY BIKE IS MY BEST FRIEND
-AIYEEH !! I AM SORRY !!
-AIYEEH !! I AM SORRY !!
-PLEASE DON'T HIT ME !
-PLEASE DON'T HIT ME !
-YOU'RE PERFECT IN EVERY WAY !
-YOU'RE PERFECT IN EVERY WAY !
-I REFUSE TO ACCEPT THAT OUTRAGE
-I REFUSE TO ACCEPT THAT OUTRAGE
-THE HOME WORK IS AWFULLY SCARY
-THE HOME WORK IS AWFULLY SCARY
-TERRIBLE ... I AM TERRIBLE ...
-TERRIBLE ... I AM TERRIBLE ...
-THE AWFUL STENCH OF A LOSS
-THE AWFUL STENCH OF A LOSS
-WHAT ?! BUT HOW ?
-WHAT ?! BUT HOW ?
-HAHAHA ...
-HAHAHA ...
-A TOUGH KID HUH? HUMPH !
-A TOUGH KID HUH? HUMPH !
-OH NO ! WHY NOT ?
-OH NO ! WHY NOT ?
-OH ! STRONG YOU ARE
-OH ! STRONG YOU ARE
-YOU'RE SOME KIND OF AWESOME !
-YOU'RE SOME KIND OF AWESOME !
-YOUR ROCK HEAD COME TO SHINE
-YOUR ROCK HEAD COME TO SHINE
-I AM ANGRY LIKE A MANKEY !
-I AM ANGRY LIKE A MANKEY !
-NO NO ... THIS WON'T DO
-NO NO ... THIS WON'T DO
-YOU HAVE GUTS AND SKILL
-YOU HAVE GUTS AND SKILL
-WHY DIDN'T YOU STOP ?
-WHY DIDN'T YOU STOP ?
-OH HOW COULD YOU ?
-OH HOW COULD YOU ?
-MY FORESIGHT DIDN'T SHOW ME THIS
-MY FORESIGHT DIDN'T SHOW ME THIS
-YOU HAVE DESTROYED MY SLEEP ...
-YOU HAVE DESTROYED MY SLEEP ...
-WHY IS THIS SO HARD ?
-WHY IS THIS SO HARD ?
-I HAVE A GROWTH OF SUCTION CUPS
-I HAVE A GROWTH OF SUCTION CUPS
-RENTAL POKéMON AREN'T UP TO SCRATCH
-RENTAL POKéMON AREN'T UP TO SCRATCH
-I AM FEELING PERFECT THANK YOU SO MUCH
-I AM FEELING PERFECT THANK YOU SO MUCH
-THE TIGHT MONEY LIVING CHANNEL ?!
-THE TIGHT MONEY LIVING CHANNEL ?!
-YOU'RE SOUNDPROOF ?
-YOU'RE SOUNDPROOF ?
-BREAK DOWN DIVE TIME FOR ME
-BREAK DOWN DIVE TIME FOR ME
-MY BELLY DRUM WAS TOO WEAK ...
-MY BELLY DRUM WAS TOO WEAK ...
-MY HYPNOSIS STRATEGY WENT BADLY ...
-MY HYPNOSIS STRATEGY WENT BADLY ...
-BUT HOW DID YOU KNOW ?
-BUT HOW DID YOU KNOW ?
-I WORK AT THE DEPT. STORE
-I WORK AT THE DEPT. STORE
-ALL RIGHT ! I SURRENDER !
-ALL RIGHT ! I SURRENDER !
-HEY THIS IS PRETTY TASTY
-HEY THIS IS PRETTY TASTY
-PLEASE ! SORRY I AM SORRY
-PLEASE ! SORRY I AM SORRY
-FOR NOW
-FOR NOW
-THAT'S TOO MUCH TO TACKLE !
-THAT'S TOO MUCH TO TACKLE !
-YOU CAN'T SAFEGUARD YOUR OWN SECRET
-YOU CAN'T SAFEGUARD YOUR OWN SECRET
-I WAS MINUS MY NORMAL POWER TODAY
-I WAS MINUS MY NORMAL POWER TODAY
-MY CAMERA DOESN'T MISS A THING
-MY CAMERA DOESN'T MISS A THING
-IF I LOSE I PRETEND I AM A MILTANK
-IF I LOSE I PRETEND I AM A MILTANK
-YOU HAVE A REALLY SCARY FACE !
-YOU HAVE A REALLY SCARY FACE !
-I HAVE TO WORK NEXT WEEK
-I HAVE TO WORK NEXT WEEK
-IT'S BACK TO SCHOOL SOON
-IT'S BACK TO SCHOOL SOON
-AREN'T YOU SATISFIED YET ?
-AREN'T YOU SATISFIED YET ?
-ARRGH ! NO !!
-ARRGH ! NO !!
-I QUESTION YOUR FASHION SENSE SERIOUSLY
-I QUESTION YOUR FASHION SENSE SERIOUSLY
-I AM SORRY ... IT'S MY BAD
-I AM SORRY ... IT'S MY BAD
-BUT I WAS ON FIRE FOR YOU
-BUT I WAS ON FIRE FOR YOU
-YOUR POKéMON LOOK QUITE CUTE
-YOUR POKéMON LOOK QUITE CUTE
-I WILL BE ON MY WAY
-I WILL BE ON MY WAY
-AN AVANT GARDE POKéDEX WOULD BE AWESOME
-AN AVANT GARDE POKéDEX WOULD BE AWESOME
-YOU CAN'T FLATTEN MY HAPPINESS !
-YOU CAN'T FLATTEN MY HAPPINESS !
-I ALWAYS USE MY ALLOWANCE UP
-I ALWAYS USE MY ALLOWANCE UP
-WHAT IS BEAUTY TO YOU ?
-WHAT IS BEAUTY TO YOU ?
-THAT LOSS IS HARD TO SWALLOW
-THAT LOSS IS HARD TO SWALLOW
-I DON'T WANT TO STUDY MORE
-I DON'T WANT TO STUDY MORE
-BUT I HAVE TO STUDY MORE
-BUT I HAVE TO STUDY MORE
-MY INSOMNIA WILL GET BAD ...
-MY INSOMNIA WILL GET BAD ...
-IF ONLY AROMATHERAPY WERE LESS EXPENSIVE
-IF ONLY AROMATHERAPY WERE LESS EXPENSIVE
-I DISLIKE ANY KIND OF MUD SPORT
-I DISLIKE ANY KIND OF MUD SPORT
-HEY WHAT DID I DO ?
-HEY WHAT DID I DO ?
-I DON'T GET HOW I LOST
-I DON'T GET HOW I LOST
-TAKE YOUR FRUSTRATION SOME OTHER PLACE
-TAKE YOUR FRUSTRATION SOME OTHER PLACE
-YOUR BATTLE SENSE IS AMUSING
-YOUR BATTLE SENSE IS AMUSING
-HELLO ? I AM JUST A KID
-HELLO ? I AM JUST A KID
-I WILL USE SMOKESCREEN TO ESCAPE
-I WILL USE SMOKESCREEN TO ESCAPE
-PLEASE LOSE THAT SCARY FACE OF YOURS
-PLEASE LOSE THAT SCARY FACE OF YOURS
-HERE IT IS MY TRAIN SEE YA !
-HERE IT IS MY TRAIN SEE YA !
-DIDN'T IT HAIL TOO ?
-DIDN'T IT HAIL TOO ?
-YOU'RE NOT MUCH GOOD IN WATER
-YOU'RE NOT MUCH GOOD IN WATER
-ENJOY A TASTY SCHOOL DIET ?
-ENJOY A TASTY SCHOOL DIET ?
-DON'T YOU LIKE BUG POKéMON ?
-DON'T YOU LIKE BUG POKéMON ?
-SEE HOW FAST I RUN AWAY !
-SEE HOW FAST I RUN AWAY !
-I WANT TO GO BACK ...
-I WANT TO GO BACK ...
-WAS IT A MISTAKE ?
-WAS IT A MISTAKE ?
-YOU'RE MORE HEALTHY THAN I AM ...
-YOU'RE MORE HEALTHY THAN I AM ...
-WOWEE ! NO NO !!
-WOWEE ! NO NO !!
-TCH ... I AM TOO WEAK ...
-TCH ... I AM TOO WEAK ...
-I WANT MY MOTHER !
-I WANT MY MOTHER !
-LET'S PARTY UNTIL THE MORNING SUN !
-LET'S PARTY UNTIL THE MORNING SUN !
-I AM ALWAYS TRENDY THANK YOU VERY MUCH
-I AM ALWAYS TRENDY THANK YOU VERY MUCH
-IF I LOSE I JUST FLY AWAY
-IF I LOSE I JUST FLY AWAY
-MY INCREDIBLE DREAM WAS SO WEIRD
-MY INCREDIBLE DREAM WAS SO WEIRD
-YOU DON'T APPRECIATE HOW I DANCE
-YOU DON'T APPRECIATE HOW I DANCE
-A TREASURE ISN'T ALWAYS ABOUT MONEY
-A TREASURE ISN'T ALWAYS ABOUT MONEY
-HOW DID YOU FAKE OUT ME ?
-HOW DID YOU FAKE OUT ME ?
-YOU CAN'T MAKE ME SURRENDER YET
-YOU CAN'T MAKE ME SURRENDER YET
-YOU DIDN'T FALL FOR MY TRICK
-YOU DIDN'T FALL FOR MY TRICK
-WHAT A DISASTER THAT WAS !
-WHAT A DISASTER THAT WAS !
-I'VE GOT TO GET GOING
-I'VE GOT TO GET GOING
-OH IT'S A GAME IS IT?
-OH IT'S A GAME IS IT?
-PLEASE I NEED A SHELL ARMOR !
-PLEASE I NEED A SHELL ARMOR !
-NO THANKS I AM GOING TO SLEEP
-NO THANKS I AM GOING TO SLEEP
-HOW ABOUT A ROCK SLIDE SHOW ?
-HOW ABOUT A ROCK SLIDE SHOW ?
-YOU'RE TOTALLY LACKING IN FASHION SENSE
-YOU'RE TOTALLY LACKING IN FASHION SENSE
-THERE AREN'T ENOUGH GRASS TYPE POKéMON
-THERE AREN'T ENOUGH GRASS TYPE POKéMON
-YOU CUT ME DOWN ...
-YOU CUT ME DOWN ...
-PLEASE STOP I DON'T ENJOY THIS
-PLEASE STOP I DON'T ENJOY THIS
-THE FORECAST SAYS IT WILL HAIL
-THE FORECAST SAYS IT WILL HAIL
-UH-OH ! A WHIRLPOOL !
-UH-OH ! A WHIRLPOOL !
-I DIDN'T THINK YOU WOULD COUNTER
-I DIDN'T THINK YOU WOULD COUNTER
-I KNOW I AM NOT A HEROINE
-I KNOW I AM NOT A HEROINE
-LALALA ... HUH?
-LALALA ... HUH?
-YOU REFLECT MY POWER BACK ?
-YOU REFLECT MY POWER BACK ?
-MY MISTAKE WAS TOO EXPENSIVE ...
-MY MISTAKE WAS TOO EXPENSIVE ...
-TCH YOUR POKéMON AREN'T VERY NICE
-TCH YOUR POKéMON AREN'T VERY NICE
-MESSAGE CARDS MAKE A WEAK PRESENT
-MESSAGE CARDS MAKE A WEAK PRESENT
-NOT FUNNY ... YOU'RE TOO STRONG
-NOT FUNNY ... YOU'RE TOO STRONG
-ENDURE IS ALL I CAN DO
-ENDURE IS ALL I CAN DO
-COOL ! A GENIUS TRAINER !
-COOL ! A GENIUS TRAINER !
-THEY'RE TASTY ! REFRESHING TOO !
-THEY'RE TASTY ! REFRESHING TOO !
-BACK HOME I WILL GO ...
-BACK HOME I WILL GO ...
-I DON'T BELIEVE THIS ...
-I DON'T BELIEVE THIS ...
-I WILL APPEAL THIS OUTRAGE !
-I WILL APPEAL THIS OUTRAGE !
-I JUST DON'T GET IT ...
-I JUST DON'T GET IT ...
-WHY ARE YOU SO TERRIBLE ?
-WHY ARE YOU SO TERRIBLE ?
-AIYEEH ! YOU REALLY ARE SCARY
-AIYEEH ! YOU REALLY ARE SCARY
-OH NO ... SELFDESTRUCT MODE !
-OH NO ... SELFDESTRUCT MODE !
-THAT WAS A LITTLE TOO MUCH TO TAKE
-THAT WAS A LITTLE TOO MUCH TO TAKE
-YO ! I LOST YO
-YO ! I LOST YO
-YEAH TAKE DOWN THEIR POWER A TINY BIT PLEASE
-YEAH TAKE DOWN THEIR POWER A TINY BIT PLEASE
-IT DIDN'T MATCH UP WELL I THINK
-IT DIDN'T MATCH UP WELL I THINK
-YOU'RE SO MEAN TO CUTE POKéMON
-YOU'RE SO MEAN TO CUTE POKéMON
-YOUR POKéMON ARE SOMETHING ELSE ALL RIGHT
-YOUR POKéMON ARE SOMETHING ELSE ALL RIGHT
-THIS ISN'T WORKING OUT AT ALL
-THIS ISN'T WORKING OUT AT ALL
-DRAGON POKéMON SHOULD NOT LOSE !
-DRAGON POKéMON SHOULD NOT LOSE !
-WROOOAAR! WHY ?!
-WROOOAAR! WHY ?!
-YOU'VE DESTROYED THE WAY I AM LIVING
-YOU'VE DESTROYED THE WAY I AM LIVING
-I CAN'T LOSE SO SOON !
-I CAN'T LOSE SO SOON !
-I ALSO HAVE A PLUSH DOLL COLLECTION
-I ALSO HAVE A PLUSH DOLL COLLECTION
-THERE IS NOTHING WEAK ABOUT YOU
-THERE IS NOTHING WEAK ABOUT YOU
-GOOD IT'S OVER AT LAST ...
-GOOD IT'S OVER AT LAST ...
-YOU DISLIKE A BATTLE GIRL ?
-YOU DISLIKE A BATTLE GIRL ?
-SO MUCH FOR MY INVINCIBLE ATTACK
-SO MUCH FOR MY INVINCIBLE ATTACK
-YOU ARE A STRONG TRAINER KID
-YOU ARE A STRONG TRAINER KID
-WELL WELL ... I SURRENDER ...
-WELL WELL ... I SURRENDER ...
-I AM SHOCKED ! DOWN I GO
-I AM SHOCKED ! DOWN I GO
-I AM BEAT UP AND DOWNCAST ...
-I AM BEAT UP AND DOWNCAST ...
-WELL I SEE THAT I AM TOO WEAK
-WELL I SEE THAT I AM TOO WEAK
-WHAT I'VE BEEN HEARING IS RIGHT
-WHAT I'VE BEEN HEARING IS RIGHT
-YOU SHOULD NOT BEAT A HERO
-YOU SHOULD NOT BEAT A HERO
-ARE YOU HAPPY NOW ?
-ARE YOU HAPPY NOW ?
-I DIDN'T SEE THIS REVERSAL ...
-I DIDN'T SEE THIS REVERSAL ...
-THAT SOMETHING GOOD WENT TO YOU
-THAT SOMETHING GOOD WENT TO YOU
-I SLEPT AND SO I LOST
-I SLEPT AND SO I LOST
-I LOST CAUSE YOU'RE MEAN ...
-I LOST CAUSE YOU'RE MEAN ...
-I HAVE A GRUDGE WITH YOU
-I HAVE A GRUDGE WITH YOU
-I DISLIKE YOU AND YOUR POKéMON
-I DISLIKE YOU AND YOUR POKéMON
-YOU'RE MORE SCARY THAN MY POKéMON
-YOU'RE MORE SCARY THAN MY POKéMON
-MY PHONE ISN'T WORKING ...
-MY PHONE ISN'T WORKING ...
-GO ON SWAGGER ALL YOU WANT
-GO ON SWAGGER ALL YOU WANT
-YOU'RE COOL ! NO REALLY !
-YOU'RE COOL ! NO REALLY !
-YOU'RE TOO HIGH IN LEVEL ...
-YOU'RE TOO HIGH IN LEVEL ...
-PLEASE I AM REALLY NOT THAT OLD
-PLEASE I AM REALLY NOT THAT OLD
-INSTEAD OF TELEVISION GET A BOOK
-INSTEAD OF TELEVISION GET A BOOK
-I AM DISAPPOINTED ...
-I AM DISAPPOINTED ...
-I CAN BEAT YOU AT SMARTNESS
-I CAN BEAT YOU AT SMARTNESS
-THANK YOU ! THAT LOSS WAS REFRESHING
-THANK YOU ! THAT LOSS WAS REFRESHING
-OH YOU !
-OH YOU !
-I FINALLY GET TO REST A LITTLE
-I FINALLY GET TO REST A LITTLE
-I AM GOING TO SINK ...
-I AM GOING TO SINK ...
-BEING LIMBER DIDN'T WORK FOR ME
-BEING LIMBER DIDN'T WORK FOR ME
-I DON'T GET HOW SUCTION CUPS WORK
-I DON'T GET HOW SUCTION CUPS WORK
-I AM GOING WITH A SUPERSONIC SPEED BOOST
-I AM GOING WITH A SUPERSONIC SPEED BOOST
-WHAT I DREAM ISN'T HAPPENING ...
-WHAT I DREAM ISN'T HAPPENING ...
-MY CUTE CHARM DOESN'T ATTRACT YOU ?
-MY CUTE CHARM DOESN'T ATTRACT YOU ?
-YAHOO ! I AM HAPPY FOR YOU
-YAHOO ! I AM HAPPY FOR YOU
-MY BUG POKéMON ARE ALL UPSIDE DOWN
-MY BUG POKéMON ARE ALL UPSIDE DOWN
-YOU KNOW WHAT WE DISLIKE HEY?
-YOU KNOW WHAT WE DISLIKE HEY?
-DON'T COUNT ON THAT HAPPENING ANOTHER TIME
-DON'T COUNT ON THAT HAPPENING ANOTHER TIME
-I AM AN ADULT I SWALLOW FRUSTRATION
-I AM AN ADULT I SWALLOW FRUSTRATION
-I DID TRY DIDN'T I ?
-I DID TRY DIDN'T I ?
-THAT'S IT ... I NEED SLEEP
-THAT'S IT ... I NEED SLEEP
-LOOK AT MY FABULOUS FASHION SENSE
-LOOK AT MY FABULOUS FASHION SENSE
-SEE ? I ALWAYS LOSE
-SEE ? I ALWAYS LOSE
-I AM GOING DOWN DOWN DOWN !
-I AM GOING DOWN DOWN DOWN !
-SATISFIED IS WHAT I CAN'T BE
-SATISFIED IS WHAT I CAN'T BE
-AREN'T THERE MORE FLYING POKéMON ?
-AREN'T THERE MORE FLYING POKéMON ?
-SO YOU DISLIKE MY POKéMON ?
-SO YOU DISLIKE MY POKéMON ?
-YOUR PRESENT ? WHAT FOR ?!
-YOUR PRESENT ? WHAT FOR ?!
-I AM DISAPPOINTED YOU WON'T LISTEN TO ME
-I AM DISAPPOINTED YOU WON'T LISTEN TO ME
-I NEED TO NAP AFTER THAT
-I NEED TO NAP AFTER THAT
-MY FRUSTRATION IS CLOSE TO ERUPTION
-MY FRUSTRATION IS CLOSE TO ERUPTION
-YOU WANT AN EXPLOSION HERE ?
-YOU WANT AN EXPLOSION HERE ?
-I AM NOT NO. 1 ANY MORE ...
-I AM NOT NO. 1 ANY MORE ...
-I WILL GIDDY UP AND AWAY
-I WILL GIDDY UP AND AWAY
-THAT'S IT! DO GO ON
-THAT'S IT! DO GO ON
-PRETTY COULD BE GOOD
-PRETTY COULD BE GOOD
-YOU WON ! MOVE ON !
-YOU WON ! MOVE ON !
-WHAT AN AWFUL STENCH !
-WHAT AN AWFUL STENCH !
-IT'S HARD TO BELIEVE BUT CONGRATS
-IT'S HARD TO BELIEVE BUT CONGRATS
-Man, I lost!
-Man, I lost!
-0
-0
-3
-3
-4
-4
-13
-13
-2
-2
-29
-29
-149
-149
-151
-151
-155
-155
-193
-193
-222
-222
-308
-308
-288
-288
-350
-350
-292
-292
-313
-313
 [18]
 0
 Essen
@@ -30788,8 +29902,8 @@ Route 5
 Heggate Town
 Heggate Town
 32
-Steigehtunter
-Steigehtunter
+Titan Town
+Titan Town
 33
 Lab
 Lab
@@ -30821,8 +29935,8 @@ Route 7
 \PN's Home
 \PN's Home
 43
-Rivale
-Rivale
+Jamie's Home
+Jamie's Home
 44
 Royal River
 Royal River
@@ -30836,8 +29950,8 @@ water1
 water2
 water2
 48
-Rivale
-Rivale
+Jamie's Home
+Jamie's Home
 49
 Route 9
 Route 9
@@ -30968,8 +30082,8 @@ Norpeak Island
 Upstairs
 Upstairs
 92
-House4
-House4
+House1
+House1
 93
 House2
 House2
@@ -30977,8 +30091,8 @@ House2
 House3
 House3
 95
-Events fürs Game
-Events fürs Game
+House4
+House4
 96
 PokéCenter
 PokéCenter
@@ -31085,8 +30199,14 @@ Mt. Coronet
 Mt. Coronet
 Mt. Coronet
 131
-House1
-House1
+MAP131
+MAP131
+132
+test
+test
+133
+MAP133
+MAP133
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 How are your Pokémon doing?\mMy \TP's really energetic.  It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
@@ -31127,36 +30247,8 @@ Hey, listen!  I almost caught \TE the other day.\mOh, it was sooooooo close, too
 Guess what happened the other day. I missed catching \TE again.\mMaybe I'm not very good at this.
 Guess what happened the other day.  I missed catching \TE again.\mMaybe I'm not very good at this.
 [23]
-A very good battle, indeed!
-A very good battle, indeed!
-Very good.
-Very good.
-You're too good for me!
-You're too good for me!
-Aww, I lost.
-Aww, I lost.
-You beat me again!
-You beat me again!
-Defeated! Oh my!
-Defeated! Oh my!
-Washed out!
-Washed out!
-My Skitty!
-My Skitty!
-You didn't have to win so convincingly!
-You didn't have to win so convincingly!
-Our teamwork failed!
-Our teamwork failed!
 ...
 ...
-Not too shabby.
-Not too shabby.
-A good battle indeed!
-A good battle indeed!
-Einfach zu Rild...
-Einfach zu Rild...
-Zu rild
-Zu rild
 [24]
 Bill
 Bill

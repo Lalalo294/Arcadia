@@ -819,3 +819,36 @@
 798,TR99,TR99,TR99s,4,6000,"The user attacks by slamming its body into the target. Damages more the higher the user's Defense.",6,0,0,BODYPRESS
 799,MAXREVIVE2,Max Revive,Max Revives,2,4000,"Eine Nachricht ist dabei - Viel Spaß damit du keck ;D.",1,1,0
 800,DIPLOMA,Diploma,Diploma's,8,0,"A declaration that you have passed the Academia Exams.",0,0,6,
+801,DEFAULTCLOTHES,Default Clothes,Default Clothes,6,0,"A nice combination of Red, Blue and Purple clothes. It has a nostalgic feeling.",2,0,0,
+802,REDCLOTHES,Red Outfit,Red Outfits,6,0,"Fire red colored outfit. It's perfect for someone who likes red.",2,0,0,
+803,BLUECLOTHES,Blue Outfit,Blue Outfits,6,0,"Aqua blue colored outfit. It's perfect for someone who likes blue.",2,0,0,
+804,GOLDENCLOTHES,Golden Outfit,Golden Outfits,6,0,"Heart gold colored outfit. It's perfect for someone who likes yellow.",2,0,0,
+805,GREENCLOTHES,Green Outfit,Green Outfits,6,0,"Leaf green colored outfit. It's perfect for someone who likes green.",2,0,0,
+806,PINKCLOTHES,Pink Outfit,Pink Outfits,6,0,"Pearl pink colored outfit. It's perfect for someone who likes pink.",2,0,0,
+807,BLACKCLOTHES,Black Outfit,Black Outfits,6,0,"Deep black colored outfit. It's perfect for someone who likes black.",2,0,0,
+808,WHITECLOTHES,White Outfit,White Outfits,6,0,"Pure white colored outfit. It's perfect for someone who likes white.",2,0,0,
+809,RENEGADECLOTHES,Renegade Outfit,Renegade Outfits,6,0,"An outfit based on Giratina the Renegade Pokémon.",2,0,0,
+810,ALPHACLOTHES,Alpha Outfit,Alpha Outfits,6,0,"An outfit based on Arceus the Alpha Pokémon.",2,0,0,
+811,KANTONIANCLOTHES,Kantonian Outfit,Kantonian Outfits,6,0,"This outfit is based on the champion of Kanto. It is still very stylish.",2,0,0,
+812,JOHTORIANCLOTHES,Johtorian Outfit,Johtorian Outfits,6,0,"This outfit is based on the champion of Johto. It keeps being stylish.",2,0,0,
+813,HOENNIANCLOTHES,Hoennian Outfit,Hoennian Outfits,6,0,"This outfit is based on the champion of Hoenn. It's very stylish.",2,0,0,
+814,SINNOANCLOTHES,Sinnoan Outfit,Sinnoan Outfits,6,0,"This outfit is based on the champion of Sinnoh. It should be stylish.",2,0,0,
+815,UNOVANCLOTHES,Unovan Outfit,Unovan Outfits,6,0,"This outfit is based on the champion of Unova. It could still be stylish.",2,0,0,
+816,KALOSIANCLOTHES,Kalosian Outfit,Kalosian Outfits,6,0,"This outfit is based on the champion of Kalos. STYLISH!!!",2,0,0,
+817,ALOLANCLOTHES,Alolan Outfit,Alolan Outfits,6,0,"This outfit is based on the champion of Alola. It is stylish.",2,0,0,
+818,GALARIANCLOTHES,Galarian Outfit,Galarian Outfits,6,0,"This outfit is based on the champion of Galar. It will be stylish.",2,0,0,
+819,PREHISTORICCLOTHES,Prehistoric Outfit,Prehistoric Outfits,6,0,"This old 'stone world' based outfit is said to be older than some fossil Pokémon.",2,0,0,
+820,MEDIEVALCLOTHES,Medieval Outfit,Medieval Outfits,6,0,"This oldschool outfit is said to be older than some Pokémon.",2,0,0,
+821,FUTURISTICCLOTHES,Futuristic Outfit,Futuristic Outfits,6,0,"This cyber based outfit is said to be from the future.",2,0,0,
+822,LUCARIOCLOTHES,Lucario Outfit,Lucario Outfits,6,0,"This outfit is based on the special Pokémon Lucario, a Steel and Fighting type.",2,0,0,
+823,ZOROARKCLOTHES,Zoroark Outfit,Zoroark Outfits,6,0,"This outfit is based on the special Pokémon Zoroark, a pure Dark type.",2,0,0,
+824,PIKACHUCLOTHES,Pikachu Outfit,Pikachu Outfits,6,0,"This outfit is based on the special Pokémon Pikachu, a pure Electric type.",2,0,0,
+825,GATEKEY,Gate Key,Gate Key's,8,0,"This key opens the gate to Newfolk City",0,0,6,
+826,COSMICSHARD,Cosmic Shard,Cosmic Shards,1,0,"A shard from a cosmic rock. It has weird carvings in it.",0,0,0,
+827,VIAL,Vial,Vials,8,0,"Heals your party. Recharges at the PokéCenter.",2,0,6,
+828,EMPTYVIAL,Vial,Vials,8,0,"This vial is empty, recharge it at the Pokécenter.",2,0,6,
+829,LAPRASSCALE,Lapras Scale,Lapras Scales,8,0,"A scale recieved from a Lapras. It allows you to transform into a Lapras.",0,0,6
+830,SNEASELCLAW,Sneasel Claw,Sneasel Claws,8,0,"A claw recieved from a Sneasel. It allows you to transform into a Sneasel.",0,0,6
+831,STARAPTORFEATHER,Straraptor Feather,Staraptor Feathers,8,0,"A feather recieved from a Staraptor. It allows you to transform into a Staraptor.",0,0,6
+832,HITMONCHANGLOVE,Hitmonchan Glove,Hitmonchan Gloves,8,0,"A glove recieved from a Hitmonchan. It allows you to transform into a Hitmonchan.",0,0,6
+833,GRAVELERPEBBLE,Graveler Pebble,Graveler Pebbles,8,0,"A pebble recieved from a Graveler. It allows you to transform into a Graveler.",0,0,6

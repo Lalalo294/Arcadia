@@ -368,7 +368,6 @@ Pokemon = FLAREON,34
 #-------------------------------
 [YOUNGCOUPLE,Jasmine]
 LoseText = "..."
-Pokemon = UNOWN,30
 Pokemon = WATCHOG,31
 #-------------------------------
 [YOUNGCOUPLE,Nancy]
